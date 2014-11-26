@@ -1,11 +1,4 @@
-This is our page
-================
-
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
-
-
-About your team
+About No Pilots No Demos
 ===========================
 
 | aphelionz (Mark) | skybondsor (Jordyn) |
