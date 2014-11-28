@@ -11,7 +11,7 @@ We saw this hackathon as a good way to catch up and build something awesome toge
 
 Skills
 =======
-HTML, CSS, JS, PHP, C++, C#, .NET, Python, MySQL
+HTML, CSS, JS, PHP, C++, C#, Objective-C, Swift, .NET, Python, MySQL
 
 
 Project Idea
