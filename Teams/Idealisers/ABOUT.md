@@ -1,7 +1,7 @@
 This is our page
 ================
 
-We are the Idealisers team : we realise Ideas and help other realiser theirs
+We are the Idealisers team : we realise Ideas and help others realise theirs
 
 
 About your team
