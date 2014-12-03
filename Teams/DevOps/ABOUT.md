@@ -1,6 +1,10 @@
 #DevOps
 ---
 
+<p align="center">
+  <img src="http://s14.postimg.org/tbb9yovk1/Sin_t_tulo.jpg"/>
+</p>
+
 Welcome to our team information sheet. We are glad that you are taking your time to review our skills!
 
 We are three full stack software enthusiasts currently working together in a SAAS application for fitness.
@@ -24,9 +28,21 @@ We are three full stack software enthusiasts currently working together in a SAA
 ---
 
 ###2. Giancarlo Sanchez
-![](https://gravatar.com/avatar/da9261bb3a54e409f37736571878afd0?size=165.0000035762787)
+![](http://i.ytimg.com/vi/b0Y9exbvqTs/hqdefault.jpg)
 
-**WIP**
+* **Brief description:**
+  My name is Jeff.
+* **Super powers:** 
+  - `Battlefield Strategist (Get things done)`
+  - `Martial discipline (Organized)`
+  - `Heal fast (Have some experience)`
+* **Languajes, Engines and Frameworks:**
+  - `Java EE`
+  - `Objective-C`
+  - `Javascript - Node.js, ExtJS, AngularJS, UnityScript`
+  - `C#`
+  - `MySQL, PostgreSQL, MongoDB`
+  - `Unity3D`
 
 ---
 
