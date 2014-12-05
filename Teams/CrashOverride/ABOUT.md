@@ -20,4 +20,11 @@ Ich sprach Python, C, Obj-C, Java, Scheme
 
 "I literally can't like even"
 
+## thealtus
+Web 3.0. Let's bring Myspace pages back.
 
+// TODO: actually write code
+
+HTML, CSS, JS, C++, Java, Scheme
+
+"Oh, yes. Little Bobby Tables, we call him."
