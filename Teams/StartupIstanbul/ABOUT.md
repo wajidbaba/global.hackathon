@@ -4,7 +4,7 @@ Startup Istanbul
 Hey there, we're Startup Istanbul team.
 
 
-About your team
+About us
 ===========================
 
 | ozgun | cagatay | fatih | emre
