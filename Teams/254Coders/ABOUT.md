@@ -14,4 +14,5 @@ The Team
 
 Skills and Project
 ==================
-We are still brainstoming...
+##Julius
+He is a Web Developer who writes code in PHP and has specialized in HTML5, JQuery and CSS3. He is slowly learning Python Django after gaining so much experience using CodeIgniter PHP framework. He has also recently learnt AngularJS.
