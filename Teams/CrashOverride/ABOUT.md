@@ -18,7 +18,7 @@ Infosec, cryptocurrencies, shell scriptin', encryptin', sysadminin'.
 
 Ask me about my .vimrc
 
-Ich sprach Python, C, Obj-C, Java, Scheme
+Ich spreche Python, C, Obj-C, Java, Scheme
 
 "I literally can't like even"
 
