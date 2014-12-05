@@ -11,7 +11,7 @@ I'll take my windows tiled, not stirred
 
 "Don't quote me on this..."
 
-###arjunyg:
+###arjunyg
 Infosec, cryptocurrencies, shell scriptin', encryptin', sysadminin'. 
 
 Ask me about my .vimrc
