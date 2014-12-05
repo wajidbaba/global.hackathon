@@ -21,6 +21,7 @@ For most (if not all) of us, this is our first hackathon! We want a challenging,
 * Super Bear) A back-end developer (PHP, MySQL,Mongo, Redis, some Python, some Shell) using Linux/mac.
 * Tim) Full stack developer, own a web dev company, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java.
 * Cyril) Back-end developer
-* Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!)
+* Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!) Owns Liquid Think (.net) where he writes interesting and engaging posts about new things in technology--whether it be Open-Source, Linux, Hacker Culture or Gadgetry. When he's not writing Blog Posts or Code, he's sailing in his Laser Dinghy. He hopes to learn more about interactive Web Applications and Developement in this Hackathon. 
 
-We're going to attack the challenges presented by the hackathon themes, collaborate and develop a creative, unique solution, and produce a useful product to meed the presented need.
+
+We're going to attack the challenges presented by the hackathon themes, collaborate and develop a creative, unique solution, and produce a useful product to meet the presented need.
