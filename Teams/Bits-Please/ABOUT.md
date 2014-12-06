@@ -13,6 +13,8 @@ Environment Canada.
 
 -Rayun: Hackathon is love. Hackathon is life. Currently I am on my 12 month internship at Ontario Ministry of Health.
 
+TWO BLONDES WALK INTO A BAR. YOU'D HAVE THUNK ONE OF THEM WOULD NOTICE IT.
+
 -Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon. Keep Calm and Coding on!
 
 ##Languages
