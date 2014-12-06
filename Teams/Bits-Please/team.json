@@ -12,13 +12,15 @@
       "name": "Rayun Mehrab",
       "twitter" : "MRMehrab",
       "koding" : "mehrabrym",
-      "location" : "Toronto, CA"
+      "location" : "Toronto, CA",
+      "lead": false
     },
     { 
-      "name": "Richa Rajgolikar",
+      "name": "Richa Rajgolikar JSON",
       "twitter" : "danielleA7X",
       "koding" : "rricha19",
-      "location" : "Toronto, CA"
+      "location" : "Toronto, CA",
+      "lead": false
     }
     
   ]
