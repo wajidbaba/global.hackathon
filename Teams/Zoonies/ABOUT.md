@@ -11,13 +11,11 @@ Skills and Plans
 As a combined team, we use these languages on the daily:
 - Javascript
 - Java
-- Python
+- Node.js
 - Ruby on Rails
 
 APIs that we are like include but are not limited to:
 - Twitter
-- Google Predictions
-- Google Geocoding
-- Google Freebase
+- WolframAlpha
 
 Leaning toward theme #1, we're tossing around ideas of integrating environment, suprise data types, and biometrics data over time.  Looking to generate a web-kit app that can pull in data from a backend service with configurable data-feeds.
