@@ -1,22 +1,21 @@
 #TeamName: Codetogo
 
-- We are team of 4 members
+- We are team of 3 members
 - Here for good!
+- Belong to same college and pre-final year undergraduate students
 
 About us:
 
-##Anurag
+##Anurag Patel
+- Loves Astrology
+- http://twitter.com/anurag1695
 
-http://twitter.com/anurag1695
-
-##Chinmay
-- A pre final year student from India
-- Anurag is my classmate
-http://twitter.com/chinmaynj
+##Chinmay Joshi
+- Loves to code!
+- http://chinmayjoshi.com
 
 
-##Fong King Yew
-http://twitter.com/kingyew
+##Vivek Iyengar
+- Loves to Code
 
-##Korak Purkayastha
-http://twitter.com/qriousguy
+We have nver participated in Hackathon earlier. We are working on theme 2 and trying to make something awesome in our vacation time.
