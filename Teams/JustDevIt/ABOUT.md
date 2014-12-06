@@ -2,6 +2,7 @@
 # Just Dev It
 
 Just a few guys who enjoy solving problems with code. Our curiosity drives us.
+Before we were programmers we started out as candle makers and milliners
 
 ## About Us
 
