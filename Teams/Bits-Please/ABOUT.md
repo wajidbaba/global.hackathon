@@ -1,8 +1,6 @@
 #Team Bits Please
 
-Joke: e^x and constant are walking on a road when they see a differential operator approaching. The constant gets scared and says it will 
-disappear if the differential operator applies on it and runs away. e^x approaches the differentialy operator and says "you have no effect 
-on me, man". The differential operator replies "Hi, I am d/dy"
+Joke: e^x and constant are walking on a road when they see a differential operator approaching. The constant gets scare and says it will disappear if the differential operator applies on it and runs away. e^x approaches the differentialy operator and says "you have no effect on me, man". The differential operator replies "Hi, I am d/dy"
 
 We are third year students from University of Toronto. Since I just created this profile, we'll be coming back to update it
 
