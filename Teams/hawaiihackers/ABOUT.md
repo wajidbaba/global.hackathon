@@ -3,7 +3,7 @@ Welcome to Hawaii Hackers
 
 I am a student studying computer science at the University of Hawaii at Hilo. Tried to get people to join, but I was the only one crazy enough to try and balance a hackathon, and a Software Engineering project that culminates in a demonstration before a review board next week. Go me!
 
-![alt tag](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10357807_10153006617253009_6237015540130397559_n.jpg?oh=8294e964499a33fb1c2096e309d475f3&oe=55001B5D&__gda__=1426433032_8b16c41f14b47360b3ae64a72ccea70e)
+![maui](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10357807_10153006617253009_6237015540130397559_n.jpg?oh=8294e964499a33fb1c2096e309d475f3&oe=55001B5D&__gda__=1426433032_8b16c41f14b47360b3ae64a72ccea70e)
 
 
 About your team
