@@ -1,15 +1,15 @@
 cd ~
 ================
-There is no place like home.
+There is no place like home directory.
 
-About my team
+About our team
 ===========================
 
-|  thatisgeek |
-|-------------|
-| @thatisgeek |
+|  Tadeáš Ursíny |  Vojtěch Hotmar  | 
+|----------------|------------------|
+|   @thatisgeek  |	  @R41nGoloss   |
 
-My skills and what am I going to do.
+Our skills and what are we going to do.
 =======
 
-//TODO: Thing of something for the hackathon
+//TODO: Think of something for the hackathon
