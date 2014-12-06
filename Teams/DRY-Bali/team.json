@@ -1,5 +1,5 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "DRY-Bali",
   "members": [
     {
       "name": "Yana Agun Siswanto",
@@ -11,6 +11,12 @@
       "name": "Danish Kalesaran",
       "koding": "d23nishk",
       "location": "Bali, ID"
+    },
+    {
+      "name": "Reydi Sutandang",
+      "koding": "reydi",
+      "twitter": "@reydisutandang",
+      "location": "Jakarta, ID"
     }
   ]
 }

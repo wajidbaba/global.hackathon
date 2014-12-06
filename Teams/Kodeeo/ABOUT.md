@@ -36,3 +36,7 @@ API to be used:
 * Twitter
 * Google Maps
 * Google AJAX Libraries
+* Mashape
+* Sprintly
+* APITools
+* Intuit

@@ -10,9 +10,9 @@ This will be our second ever hackathon, but not together.  We're all here to lea
 We're all psyched out to be a part of the world's first ever global virtual hackathon!
 
 
-| Qile | Akash | Andany | Fiza 
-|--- |--- |--- |---
-| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) |
+| Qile | Akash | Andany | Fiza | Lahiru
+|--- |--- |--- |--- |---
+| ![Qile](http://i.imgur.com/UH74YC5.jpg)| ![Akash](http://i.imgur.com/ixbdc3o.jpg)| ![Andany](http://i.imgur.com/vrpZDn1.jpg)| ![Fiza](http://i.imgur.com/UnBkSZG.jpg) | ![Lahiru](http://i.imgur.com/GfWRX9L.jpg)|
 
 
 Qile
@@ -38,3 +38,10 @@ Fiza
 ========
 Fiza is an ambitious Software Engineer, currently in highschool. She is a self-taught coder and has experience coding in JavaScript, Python and Perl. She is passionate about robotics, photography and coding. Geek at heart and ready to code the next big phenomena with team OurBrilliance.
 
+Lahiru A.K.A. "Larry"
+========
+Larry or Lahiru, is the youngest of the group. Dragged in against his own will, Larry will be experiencing his
+first hackathon. He is a grade 11 IB student hoping to continue his studies at the University of Waterloo for Software Engineering or Computer Science. 
+Larry is fascinated by the world around him, like how engines work, why are some trees' bark so thick, why are there hats? 
+and where is the human race headed towards. Larry is proficient in Java, HTML/CSS and a little bit of Objective C / Swift. Remember to
+feed him regularly, as he becomes fiesty and will not work! (or maybe he's just lacking the essential nutrients to stay alive).

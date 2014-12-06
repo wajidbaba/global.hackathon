@@ -1,6 +1,6 @@
 # About SARIMANOK
 
-My name is Marc Tan and that's it.
+Marc Tan - Mobility Specialist
 
 I speak:
 
@@ -9,3 +9,11 @@ I speak:
 - Javascript
 - Groovy
 - Nodejs
+
+Manikandan Selvaraju - a hardcore Android and Javascript guy
+
+I speak:
+
+- Java
+- Javascript
+- C++

@@ -7,9 +7,9 @@ We are third year students from University of Toronto. Since I just created this
 -Sanjana: Well I've been looking forward to an online hackathon since forever. Currently I am on my 16 months internship at 
 Environment Canada.
 
--Rayun: Hackathon is life. Hackathon is love. Currently I am on my 12 month internship at Ministry of Health.
+-Rayun: Hackathon is love. Hackathon is life. Currently I am on my 12 month internship at Ontario Ministry of Health.
 
--Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon.Keep Calm and Coding on! 
+-Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon. Keep Calm and Coding on!
 
 ##Languages
 -Java

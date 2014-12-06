@@ -1,7 +1,15 @@
 TNTeam rocks!
 =============
 
-## Who we Are
+<img src = "./TNTeam-LOGO.png" alt="TNTeam Rocks Logo" title="Freddie Yeah!"
+align="right">
+> "I won't be a rock star. I will be a legend."
+- Freddie Mercury
+
+
+
+
+## Who we are
 
 TNTeam consists of a mix of experienced hacker veterans, promising
 programming rising stars, and artists, all from Tunisia.  Some of us
@@ -13,7 +21,8 @@ are Kenshis). But all in all, TNTeam is made of close friends, that
 all love hacking and fine arts.
 
 * `Rafik` and `Mohamed` are Back-End Developers and
-architects. They'll probably will write Clojure and Java. `Mohamed` is
+architects. They'll probably will write Clojure, Java and Javascript
+(on the browser and in node.js). `Mohamed` is
 an egg on twitter because he chose to. They began hacking since the
 nineties, and were coding for living for fourteen years now.
 * `Ibtissem` is an experienced Front-End infrastructure engineer,
@@ -24,7 +33,8 @@ accouns for three years experience.
 integrating cool web apps. He will learn a 2D JS Game framework for
 this contest.
 * `Chakib` is the artist of the team. He will create unique and
-  amazing artwork for our project.
+  amazing artwork for our project. He actually created our Crest,
+  "Freddy Yeah", wearing a traditional Tunisian "Chachia" - a fancy hat.
 
 TNTeam already entered
 [Clojure Cup 2014](https://clojurecup.com/#/people/teams), and ended
@@ -51,19 +61,23 @@ threats of theft of their sensitive data...
 
 ## Technologies
 
-To be able to produce the game, we'll use a bunch of technologies:
+To be able to produce the game, we'll (most likely) use a bunch of technologies:
 
-- Web Server : nginx, httpkit (for services and websocket)
+- Web Server : nginx, httpkit (for services and websocket), probably
+  some of Node.js facilities.
 
-- Back end Platform: Clojure / Java 8
+- Back end Platform: probably Node.js (Maybe using clojurescript),
+  with underscore.js, to get advantage from the ease of socket.io,
+  maybe some Clojure / Java8 for some other parts.
 
-- Data Store : mongodb, Redis
+- Data Store : mongodb or Redis
 
 - Front End : Phaser.io as a HTML5 game engine.
 
-We'll be hosted at a local coworking space, Cogite. These guys were
-awesome enough to allow us to meet and enter the hackathon in their
-premices!
+We'll be hosted at a local coworking space,
+[Cogite](https://www.facebook.com/Cogite.Coworking.Space). These guys
+were awesome enough to allow us to meet and enter the hackathon in
+their premices!
 
 
 

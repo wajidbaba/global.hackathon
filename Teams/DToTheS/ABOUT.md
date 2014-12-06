@@ -1,16 +1,22 @@
-About my team (well, me really)
+About my team 
 ===========================
-Team member: Naglaa Eid (aka nagheid or nag for short ;) )
+Team member:
+
+| Naglaa Eid |
+|---|
+| ![Naglaa Eid](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10446518_10152438985915862_5249127924409743744_n.jpg?oh=44e6dbef9535c0fa608edee93a8433a6&oe=550FA545&__gda__=1425779258_8bae71901ede33833587da9fb750aed1) |
 
 I am a final year Software Engineering undergraduate student at the University of Ottawa in Ottawa, ON, Canada.
 
-If I am not coding, I am either climbing walls or trying to get discovered by a bear in a forest. Or finding a roof in town that is cool enough to hang out on.
+If I am not coding, I am either climbing things (rocks, trees ...) or trying to get discovered by a bear in a forest. Or finding a roof in town that is cool enough to hang out on. Also, generally trying new things.
 
 Why I decided to join?
 =======
-As a busy student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
+As a student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
 
-Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. With an engineering degree, you'd think  when do I have time? And I don't. That's why I am joining this hackathon. After 5 years of studying engineering and filling my resume with high-tech jobs. I seek more "hackathony" experience to create the things *I* want ... I joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working from scratch fully functional with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
+Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. Along with an engineering degree, I don't find time for extracurricular projects. That's why I am joining this hackathon. I once joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
+
+Currently, I have a course project due in a couple days. I was planning to use this weekend to start working on it. Then, I discovered the koding hakathon. Which is perfect, because now I can join the hackathon AND also implement my project at the same time.
 
 About my skills
 =======
@@ -18,10 +24,8 @@ I worked on back-end, front-end and everything in between. So far, I worked on 6
 
 Some of the languages I know: C, C++, HTML, CSS, Python, PHP, Perl, Java and others
 
-What I are going to do?
+What I am going to do?
 =======
-The project will be related to a distributed systems algorithm and will target themes 1, 2 and 4. 
+The project will be related to a distributed systems algorithm (since that's what the university course is about). I should be implementing a generic algorithm for the purpose of my course, and this may possibly cover theme 2. But I plan to expand the program to target themes 1 or 4 as well.
 
-If I say anything more, I will have to find you and kill you.
-
-But it will be something awesome!
+Will be coding in Java.
