@@ -1,8 +1,9 @@
 About my team 
 ===========================
-Team member: Naglaa Eid (aka nagheid )
-
-![Naglaa](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10446518_10152438985915862_5249127924409743744_n.jpg?oh=44e6dbef9535c0fa608edee93a8433a6&oe=550FA545&__gda__=1425779258_8bae71901ede33833587da9fb750aed1)
+Team member: 
+| Naglaa Eid |
+|---|
+| ![Naglaa Eid](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10446518_10152438985915862_5249127924409743744_n.jpg?oh=44e6dbef9535c0fa608edee93a8433a6&oe=550FA545&__gda__=1425779258_8bae71901ede33833587da9fb750aed1) |
 
 I am a final year Software Engineering undergraduate student at the University of Ottawa in Ottawa, ON, Canada.
 
