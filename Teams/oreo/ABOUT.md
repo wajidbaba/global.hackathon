@@ -16,7 +16,7 @@ Y U NO MASCOT??
 
 ## About
 
-I am [Amber Jain](http://amberja.in/) ([amberj](https://github.com/amberj) on GitHub). Ex-GSoCer (2012) and ex-DevOps at TinyOwl (Jan-Nov 2014). 
+I am [Amber Jain](http://amberja.in/) ([amberj](https://github.com/amberj) on GitHub). Ex-[GSoC](http://en.wikipedia.org/wiki/Google_Summer_of_Code)er (2012) and ex-DevOps at [TinyOwl](http://www.tinyowl.com/) (Jan-Nov 2014). 
 
 ## Why you did I decide to join? Why do I want to win?
 
