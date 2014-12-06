@@ -10,8 +10,9 @@ All of us use the following technologies:
 2. JavaScript (NodeJS at backend) and AngularJS, BackboneJS, jQuery etc. on client-side
 3. HTML5 (and WebGL too)
 
-
 We plan to rock with HTML5 on global Earth problems or/and educational gaming. 
+
+Want to join or have anything to say, you are welcome: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rudym/OrangeVerse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 About the team
 ===========================

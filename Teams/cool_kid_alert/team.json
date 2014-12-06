@@ -6,6 +6,11 @@
       "koding":"cakesofwrath",
       "location":"Albany, US",
       "lead":true
+    },
+    {
+      "name":"Kevin Wang",
+      "koding":"kittykatty",
+      "location":"Longmont, US"
     }
   ]
 }

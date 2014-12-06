@@ -1,5 +1,5 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "Ocelot Dev",
   "members": [
     {
       "name": "William Young",
@@ -13,12 +13,6 @@
       "twitter": "Werl2",
       "koding": "werl",
       "location": "Wetaskiwin, CA"
-    },
-    {
-      "name": "Subhash Ramesh",
-      "twitter": "stubby_tech",
-      "koding": "coding24by7",
-      "location": "Fremont, US"
     }
   ]
 }
