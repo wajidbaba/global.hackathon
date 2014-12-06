@@ -19,7 +19,7 @@ For most (if not all) of us, this is our first hackathon! We want a challenging,
 
 * Eric) A front-end designer and developer with 6+ years of experience (HTML/CSS/JS).
 * Super Bear) A back-end developer (PHP, MySQL,Mongo, Redis, some Python, some Shell) using Linux/mac.
-* Tim) Full stack developer, own a web dev company, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java.
+* Tim) Full stack developer, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java. Tim Turner studies Mathematics and Computer Science at the University of Washington in Seattle. If that weren’t enough for a mere mortal, Tim also works at an IT company and runs a web dev shop of his own. He loves to help others bring their ideas to life. More about me: [stories.koding.com/tim-turner](http://stories.koding.com/story/tim-turner/)
 * Cyril) Back-end developer
 * Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!) Owns Liquid Think (.net) where he writes interesting and engaging posts about new things in technology--whether it be Open-Source, Linux, Hacker Culture or Gadgetry. When he's not writing Blog Posts or Code, he's sailing in his Laser Dinghy. He hopes to learn more about interactive Web Applications and Developement in this Hackathon. 
 
