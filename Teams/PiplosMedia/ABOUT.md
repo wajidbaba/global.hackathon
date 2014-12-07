@@ -9,9 +9,9 @@ What should you know about us? We are a cohesive team of developers. We love to 
 About our team
 ===========================
 
-| Raman Marozau | Dmitry Shurco | Pavel Popov | Eugene Danilenko
+| Raman Marozau | Dmitry Shurco | Eugene Danilenko
 |--- |--- |--- |---
-| ![Raman Marozau](http://piplos.by/hackaton/marozau.jpg) | ![Dmitry Shurco](http://piplos.by/hackaton/shurco.jpg) | ![Pavel Popov](http://piplos.by/hackaton/popov.jpg) | ![Eugene Danilenko](http://piplos.by/hackaton/danilenko.jpg) |
+| ![Raman Marozau](http://piplos.by/hackaton/marozau.jpg) | ![Dmitry Shurco](http://piplos.by/hackaton/shurco.jpg) | ![Eugene Danilenko](http://piplos.by/hackaton/danilenko.jpg) |
 
 
 Skills
