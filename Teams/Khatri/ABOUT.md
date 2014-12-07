@@ -9,8 +9,9 @@ I'm Computer Science Graduate (2013), and I like solving problems.
 
 It's not about winning or losing, it's about facing challenges, learning and solving problems.
 
-About your skills and what you are going to do?
+KeysHit
 =======
-Coming soon...
+KeysHit is the name of the challenging, addictvie, typing and memory game I am making. Basically, it helps user exercise concentration and memory, and practice random keys typing.
 
+I myself find it all addictive! 
 
