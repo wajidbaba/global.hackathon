@@ -22,7 +22,7 @@ $(document).ready(function(){
 		e.preventDefault();
 		$.ajax({
 			type: 'GET',
-			url: 'https://d702e9dc-619fec6b2bb0.my.apitools.com/write/get?url='+tos,
+			url: 'https://d702e9dc-619fec6b2bb0.my.apitools.com/write/get?url='+location.href,
 			beforeSend: function(xhr){
 				xhr.setRequestHeader('X-Mashape-Key','ieeRodAhB6msh7pNcf1KHusSKhESp1njNqkjsnfkVPPsYlHdJx')
 			},
