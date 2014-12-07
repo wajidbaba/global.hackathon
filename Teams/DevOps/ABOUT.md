@@ -45,8 +45,3 @@ We are three full stack software enthusiasts currently working together in a SAA
   - `Unity3D`
 
 ---
-
-###3. Alexis Romero
-![](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1bd/3d4/0b366bb.jpg)
-
-**WIP**
