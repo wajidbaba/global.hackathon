@@ -37,6 +37,67 @@
 
     </section>
 
+    <section id="footer">
+        <div class="row">
+            <div class="col-md-3">
+                <h3>About TOSbot</h3>
+                <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
+            </div>
+            <div class="col-md-3">
+                <h3>APIs</h3>
+                <ul>
+                    <li><a href="https://tosdr.org/">Terms of Service; Didn't Read</a></li>
+                    <li><a href="https://www.apitools.com/">APItools</a></li>
+                    <li>
+                        <a href="#">Mashape</a>
+                        <ul>
+                            <li><a href="#">RuGu Shrink</a></li>
+                        </ul>
+                    </li>
+                    <li>Sprint.ly</li>
+                </ul>
+            </div>
+            <div class="col-md-3">
+                <h3>Resources</h3>
+                <ul>
+                    <li><a href="https://tosback.org/">EFF's TOSback</a></li>
+                    <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
+                    <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
+                    <li><a href="http://jquery.com/">jQuery</a></li>
+                </ul>
+            </div>
+            <div class="get-involved col-md-3">
+                <h3>Get Involved</h3>
+                <p><a class="btn btn-lg btn-success" data-toggle="modal" href="#feedbackModal">Help us improve our results!</a></p>
+                <p><a href="mailto:mark@npnd.com">Contact Us</a></p>
+            </div>
+        </div>
+    </section>
+
+    <div id="feedbackModal" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h4 class="modal-title">Help us improve our results</h4>
+          </div>
+          <div class="modal-body">
+            <p>If you notice something off in our results – maybe we graded one concept too harshly for this TOS, or maybe we graded it too leniently – you can help improve our model by letting us know.</p>
+            <p>Once you <strong>turn on Feedback Mode by clicking the button below</strong>, hovering over a concept will reveal some tools:</p>
+            <p>[screenshot]</p>
+            <p>Clicking the up arrow will tell us that this TOS is actually better on this concept than we think.</p>
+            <p>Clicking the down arrow will tell us that this TOS is worse on this concept than we think.</p>
+            <p>Once you're done evaluating concepts, click "Submit Feedback" in the footer where you originally launched this modal:</p>
+            <p>[screenshot]</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Got it</button>
+            <button id="turnOnFM" type="button" class="btn btn-primary">Turn on Feedback Mode</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

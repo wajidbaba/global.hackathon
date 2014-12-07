@@ -59,13 +59,22 @@ $(document).ready(function(){
 		return false;
 	});
 
+	$('#feedbackModal').on('show.bs.modal',function(){
+		$('#turnOnFM').on('click',function(e){
+			e.preventDefault();
+			// Setup new buttons in footer
+			// Setup hover for each result
+			return false;
+		});
+	});
+
 	$('[data-toggle="tooltip"]').tooltip();
 
 });
 
 function analyze(tos){
 	$('#link2results').hide();	
-	$.getJSON('https://tosdr.org/api/1/service/'+tos+'.json').done(function(data){
+	$.getJSON('https://106c0301-619fec6b2bb0.my.apitools.com/1/service/'+tos+'.json').done(function(data){
 		console.log(data.pointsData);
 		$('#results').empty();
 			$.each(data.pointsData,function(){
