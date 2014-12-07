@@ -6,13 +6,13 @@ Baroda + Ninjas = Barodian Ninjas
  
 
 | ![Leo](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja1.png) | Annad Thakkar | ![Anand](http://anthakkar08.koding.io/wp-content/uploads/2014/12/anand.png) |  
-|--- |--- |--- |--- 
-|![Donnie](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja2.png)| Dharmik Solanki |![Dharmik](http://anthakkar08.koding.io/wp-content/uploads/2014/12/dharmik.png)|
-|--- |--- |--- |---  
+|--- |--- |--- 
+|![Donnie](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja2.png)| Dharmik Solanki |![Dharmik](http://anthakkar08.koding.io/wp-content/uploads/2014/12/dharmik.png) |
+|--- |--- |---  
 |![Raph](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja4.png)| Supriya Sharma |![Supriya](http://anthakkar08.koding.io/wp-content/uploads/2014/12/sup.png)|
-|--- |--- |--- |--- 
+|--- |--- |---  
 |![Mikey](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja3.png)| Shilpi Vyas |![Shilpi](http://anthakkar08.koding.io/wp-content/uploads/2014/12/shilpi.png)|
-|--- |--- |--- |--- 
+|--- |--- |---  
 |![Raph](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja4.png)| Himal Thakkar |![Himal](http://anthakkar08.koding.io/wp-content/uploads/2014/12/himal.png)|
 
 Our Team
