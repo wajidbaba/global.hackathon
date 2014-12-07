@@ -1,10 +1,10 @@
 This is my page
 ===========================
 
-Hi, i'm Pulpo, and i am proud to present my solo team 'Octomouse'. 
-Octomouse comes from octopus (me) and mouses because two friends (Pinky and The Brain) were going to join me, but they were too busy trying to conquer the world so they couldn't actually join.
+Hi, i'm **Pulpo**, and i am proud to present my solo team 'Octomouse'. 
+Octomouse comes from octopus (me) and mouses because two friends _(Pinky and The Brain)_ were going to join me, but they were too busy trying to conquer the world so they couldn't actually join.
 
-It is my very first time in a hackathon! And i am very exited about the experience!
+**It is my very first time in a hackathon!** I am very exited about the experience!
 
 Follow my team on twitter! I'm posting updates every now and then! https://twitter.com/phk_nevermore
 
@@ -36,4 +36,6 @@ Since i've been left alone, i don't expect to get something big, but anyway i'm 
 I don't care if i dont win, in fact, i'm sure my solution will be unfinished and totally unpolished by the end of the hackathon. 
 I just hope I can share a cool idea with the world, and make somethig useful from this.
 
-Thanks for reading, and good luck to all the teams!
+_Thanks for reading, and good luck to all the teams!
+
+Germán Bobr._
