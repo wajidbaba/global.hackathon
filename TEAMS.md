@@ -5546,15 +5546,25 @@ Create flexible and fast application.
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
 <p align="center">
+  <img src="http://i.imgur.com/hdNDB46.png"/>
+</p>
+
+Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
+
+<p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
 
-Hello, we are a team mostly from Japan (Tokyo). Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
+Although there is an explosion in the popularity of computer science in the United States and other countries, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan, and being and engineer is not a popular job in Japan. We want to change this mindset and situation. Technology and engineering is making the world a better place, and Japanese engineers should contribute to that. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
+<p align="center">
+  <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
+</p>
+<p align="center">
+  TC Hackathon 2014 in Tokyo. ~135 people
+</p>
 
-私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
-
+私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
 About Our Team
 ===========================
@@ -5570,7 +5580,7 @@ Jumpei Yamane is an accomplished and experienced manager of various hackathons i
 
 Takuya
 =======
-Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
+Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He will be working as the main developer of the team because of his strength in web engineering, and the fact that he knows lots of web technologies. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
 
 Cherry
 =======
@@ -5583,6 +5593,7 @@ Tommy just recently started app development and web development, and he has fall
 Nam
 =======
 Nam is the most recent member of our team, and has years of experience in Android and Java development, and came to Japan and is permanently working here developing Android applications. He frequently goes to the Tokyo Android Group, and is an avid fan of the mobile OS. He also has some web development experience as well, and can't wait to try and learn more about web development in this hackathon. [Facebook](https://www.facebook.com/butchigo)
+
 
 ---------------------------------------
 
@@ -10431,19 +10442,17 @@ align="right">
 
 TNTeam consists of a mix of experienced hacker veterans, promising
 programming rising stars, and artists, all from Tunisia.  Some of us
-know each other since quite a while now (Rafik and Mohamed were
-classmates since high school), met during work (Rafik and Ibtissem
-happen to be coworkers, Elyes was an intern in the company Rafik and
-Ibtissem work in) or while attending Kendo training (Rafik and Chakib
-are Kenshis). But all in all, TNTeam is made of close friends, that
-all love hacking and fine arts.
+met at workplace (Rafik, Ibtissem and Marwa happen to be coworkers,
+Elyes was an intern in that same company work in) or while attending
+Kendo training (Rafik and Chakib are Kenshis). But all in all, TNTeam
+is made of close friends, that all love hacking and fine arts.
 
-* `Rafik` and `Mohamed` are Back-End Developers and
-architects. They'll probably will write Clojure, Java and Javascript
-(on the browser and in node.js). `Mohamed` is
-an egg on twitter because he chose to. They began hacking since the
-nineties, and were coding for living for fourteen years now.
-* `Ibtissem` is an experienced Front-End infrastructure engineer,
+* `Rafik` and `Ibtissem` are Back-End Developers and
+architects. They'll probably write lots of Javascript(On the
+browser, and servside as Node.js) even if
+they originally love Clojure. They will also join Front-end side if
+they have to, but only if there is no other choice.
+* `Marwa` is an experienced Front-End infrastructure engineer,
 though also having her word to say on back-end side of things. She
 knows a couple of things about Clojure, Java, HTML5 and JS. She
 accouns for three years experience.
@@ -10460,9 +10469,9 @@ up third by public votes. So Close!
 
 Here's what we all look like:
 
-Rafik | Mohamed | Ibtissem | Elyes | Chakib
------ |-------- |--------- |------ |--------
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='https://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png' alt='Mohamed'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1366999478/3am-Ettaher-Hurahara_400x400.jpg' alt='Chakib'/>
+Rafik | Ibtissem | Marwa | Elyes | Chakib
+----- |--------  |------ |------ |--------
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/2794660030/e182cf36ac18a0b311511a8e7345d2cc_reasonably_small.png' alt='Marwa'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1366999478/3am-Ettaher-Hurahara_400x400.jpg' alt='Chakib'/>
 
 ## So what are we cooking for you?
 
@@ -10496,6 +10505,8 @@ We'll be hosted at a local coworking space,
 [Cogite](https://www.facebook.com/Cogite.Coworking.Space). These guys
 were awesome enough to allow us to meet and enter the hackathon in
 their premices!
+Also, we'll be retreating at our mother company,
+[appsnsites](https://www.appsnsites.com), but no ads here.
 
 
 
@@ -12749,7 +12760,25 @@ The team
 
 ---------------------------------------
 
+This is our page
+================
+
 We are a group of enthused coders from Toronto.
+
+
+About your team
+===========================
+
+Coming soon...
+
+
+Skills
+=======
+
+- Java
+- C#
+- HTML
+- PHP
 
 
 ---------------------------------------
@@ -14408,6 +14437,67 @@ Programming languages and API's we used/still use:
 
 ---------------------------------------
 
+This is our page
+================
+
+Before introducing about our team, we definitely like to say thanks both of the organizers oDesk and all the board member’s of Koding who allowing us to participate in their fantastic global hackathon program this year that call “Global Hackathon”
+
+We want to Express – “It Sounds Like Hackers Meet the Cloud Cross the Border”
+
+This is our page and the code name for our team is {DOZENH@CK}. It is good to know that DozenHack has been counting as a participant for “Global Hackathon” this year 2014. Dozenhack consisted with two members. One of them is Mahfuz who got sponsorship/referrals from oDesk as a Top Contractor/Performer in oDesk   to participate in Global Hackathon and another name is Farhadur Rahim – who having many years of experience in software engineering and software architect. In this competition, he will play a role for back-end support and make it easy for me by solving critical logics. 
+
+
+About Our team
+===========================
+
+| Mahfuzul Haque | Farhadur Rahim
+|--- |--- 
+| <img width="100" height="100" src=' https://odesk-prod-portraits.s3.amazonaws.com/Users:thikadar:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=aF1H3qOIPudwFUjJxk7y9pznHUw%3D&1417006618' alt='Mahfuz'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1416284972/webmechanicx-1.jpg' alt='Frahim'/> |
+
+
+Mahfuzul Haque
+
+Most interested matter Mahfuz involving since 2010 as Front-end Developer and UI/UX Designer. He served many Good Companies at Bangladesh.
+
+Favorite Tools:
+- Javascript [Pure]
+- JQuery.
+- Adobe Edge
+- Photoshop, Illustrator
+- DropBox as Cloud Storage. [He is a Fan of DropBox]
+   - Odesk and Themeforest as MarketPlace
+
+Off-source Interest:
+
+- Only Music and Foods.
+
+
+Farhadur Rahim
+
+Project manager with over 10+ years of hands-on experience spanning program, project, PMO, product and team management. A diverse background in technical and managerial areas with experience in creating vision, strategies, portals, business management, software development, ecommerce, CMS applications, SEM, SEO, web strategies and for delivering business critical information system projects to clients located in North America & Europe.
+
+Favorite Tools:
+
+He is a real Combo for sure. The combo = Designer + Programmer.  
+
+He used to say, there shouldn’t be any limit for people to learn anything he/she loves to do and knowledge has no limit. So, keep Go! Go!
+
+A dozen of dev stacks he experienced with. Now last couple of months he has been digging with Python and imagine the power of AngularJS.
+
+Off-source Interest:
+
+- Watching Movies
+- Foods
+- Always love to help people with the exchange of their smiling face.
+
+What you are going to do?
+=======
+Here we go, we choose one of the themes in this competition and that has been really out of focus from many years. But now the time to make it happens. Thanks Koding Team for considering this issue and placed it as one of the themes under this competition.
+
+
+
+---------------------------------------
+
 drakeire
 ========
 
@@ -15174,6 +15264,47 @@ I'm an individual freelancer. I love challenging problems. I'm a good bug fixer 
 - PL SQL
 - PHP
 - js
+
+
+---------------------------------------
+
+LAHOREAY
+================
+Lahoreay is a team of developers and a designer based in Lahore, Pakistan working in a same company. We have been brain storming on many ideas together, though never got a chance to materialize these ideas in to products. But now we believe Koding hackathon has given us a chance to actually conceive an idea and develop it into a working product.
+
+Our Team
+===========================
+
+| Adnan Khan | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/435402024574660608/kLaSL_HJ.jpeg' alt="Adnan Khan" > 
+|--- |--- |--- |---
+| Adeel Rao | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540399236395712512/4iDAKka9_400x400.jpeg' alt="Adeel rao" >
+|--- |--- |--- |---
+| Ahmad Nawaz  | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540394055088087040/QXqC1ho2_400x400.jpeg' alt="Ahmad Nawaz" >
+|--- |--- |--- |---
+| Asif Rana | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/3115589372/d33a0c6ee6dc38e88e55980efaa6bfcb_400x400.jpeg' alt="Asif Rana" >
+|--- |--- |--- |---
+| Waqas Ahmad | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/3115589372/d33a0c6ee6dc38e88e55980efaa6bfcb.jpeg' alt="Waqas Ahmad" >
+|--- |--- |--- |---
+| Zahid Nadeem  | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540400678716178433/FOLE53u1_400x400.png' alt="Zahid Nadeem" >
+
+
+
+Team Combined Skills
+=======
+The team has experience in following technologies,
+PHP
+Javascript
+HTML5
+Phonegap
+MySql
+MongoDB
+
+
+What we are going to Build
+============================
+We plan to develop an educational HTML 5 game based on the World Bank Climate data API and datasets.
+
+
 
 
 ---------------------------------------
