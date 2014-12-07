@@ -1,4 +1,4 @@
-This is our page
+This is my page
 ===========================
 
 Hi, i'm Pulpo, and i am proud to present my solo team 'Octomouse'. 
@@ -6,14 +6,15 @@ Octomouse comes from octopus (me) and mouses because two friends (Pinky and The 
 
 It is my very first time in a hackathon! And i am very exited about the experience!
 
+Follow my team on twitter! I'm posting updates every now and then! https://twitter.com/phk_nevermore
+
 About octomouse
 ===========================
 
 | Germán 'Pulpo' Bobr
 |---
-| <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/65197_10200426366810151_600898626_n.jpg?oh=ef11c803a0a3510aca45a908159e3e14&oe=54FA7F84&__gda__=1426431573_00d3b6d1d55bade665048a7c2c7b1740" width='200px'/> |
-|---
-| _(That's me being powered by rubber duck debugging)_
+| <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/65197_10200426366810151_600898626_n.jpg?oh=ef11c803a0a3510aca45a908159e3e14&oe=54FA7F84&__gda__=1426431573_00d3b6d1d55bade665048a7c2c7b1740" /> |
+| _(Powered by rubber duck debugging)_
 Pulpo
 ===========================
 **Roles:** _Coding octopus_
