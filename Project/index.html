@@ -23,73 +23,81 @@
 
   <body>
 
-    <div id="link2results">
-        <a href="#" title="Shorten results link and copy to clipboard"><span class="glyphicon glyphicon-link"></span></a>
-        <input type="text" value="" data-toggle="tooltip" data-placement="bottom" title="ctrl-C to copy" />
-    </div>
+    <div id="wrap">
 
-    <div class="search">
-        <input type="text" id="search" placeholder="Enter the URL for a Terms of Service or Privacy Policy here, and we'll summarize and evaluate it" autofocus>
-    </div>
+        <div id="notFooter">
 
-    <section id="results">
-
-
-    </section>
-
-    <section id="footer">
-        <div class="row">
-            <div class="col-md-3">
-                <div class="padder">
-                    <h3>About TOSbot</h3>
-                    <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
-                    <p><a href="mailto:mark@npnd.com"><span class="glyphicon glyphicon-envelope"></span> Contact Us</a></p>
-                </div>
+            <div id="link2results">
+                <a href="#" title="Shorten results link and copy to clipboard"><span class="glyphicon glyphicon-link"></span></a>
+                <input type="text" value="" data-toggle="tooltip" data-placement="bottom" title="ctrl-C to copy" />
             </div>
-            <div class="col-md-3">
-                <div class="padder">
-                    <h3>APIs</h3>
-                    <ul>
-                        <li><a href="https://tosdr.org/">TOS;DR</a></li>
-                        <li><a href="https://www.apitools.com/">APItools</a></li>
-                        <li>
-                            <a href="https://www.mashape.com/">Mashape</a>
-                            <ul>
-                                <li><a href="http://runu.ga/">RuGu Shrink</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="http://sprint.ly">Sprint.ly</a></li>
-                    </ul>
-                </div>
+
+            <div class="search">
+                <input type="text" id="search" placeholder="Enter the URL for a Terms of Service or Privacy Policy here, and we'll summarize and evaluate it" autofocus>
             </div>
-            <div class="col-md-3">
-                <div class="padder">
-                    <h3>Resources</h3>
-                    <ul>
-                        <li><a href="https://tosback.org/">EFF's TOSback</a></li>
-                        <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
-                        <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
-                        <li><a href="http://jquery.com/">jQuery</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="get-involved col-md-3">
-                <div class="padder">
-                    <h3>Help Us Improve</h3>
-                    <div class="enable-feedback-mode">
-                        <p><a class="btn btn-lg btn-default turn-on-feedback-mode">Turn on Feedback Mode</a></p>
-                        <p><a style="color:#fff;" data-toggle="modal" href="#feedbackModal">Learn more about Feedback Mode</a></p>
-                    </div>
-                    <div class="feedback-mode-actions hidden">
-                        <p>Once you're done, click "submit" below to send your feedback to us.</p>
-                        <p class="text-center">
-                            <a class="btn btn-lg btn-default" href="#">Submit</a> <a class="text-primary" href="#">cancel</a>
-                        </p>
+
+            <section id="results">
+
+
+            </section>
+
+        </div><!-- #notFooter -->
+
+        <section id="footer">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>About TOSbot</h3>
+                        <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
+                        <p><a href="mailto:mark@npnd.com"><span class="glyphicon glyphicon-envelope"></span> Contact Us</a></p>
                     </div>
                 </div>
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>APIs</h3>
+                        <ul>
+                            <li><a href="https://tosdr.org/">TOS;DR</a></li>
+                            <li><a href="https://www.apitools.com/">APItools</a></li>
+                            <li>
+                                <a href="https://www.mashape.com/">Mashape</a>
+                                <ul>
+                                    <li><a href="http://runu.ga/">RuGu Shrink</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="http://sprint.ly">Sprint.ly</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="padder">
+                        <h3>Resources</h3>
+                        <ul>
+                            <li><a href="https://tosback.org/">EFF's TOSback</a></li>
+                            <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
+                            <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
+                            <li><a href="http://jquery.com/">jQuery</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="get-involved col-md-3">
+                    <div class="padder">
+                        <h3>Help Us Improve</h3>
+                        <div class="enable-feedback-mode">
+                            <p><a class="btn btn-lg btn-default turn-on-feedback-mode">Turn on Feedback Mode</a></p>
+                            <p><a style="color:#fff;" data-toggle="modal" href="#feedbackModal">Learn more about Feedback Mode</a></p>
+                        </div>
+                        <div class="feedback-mode-actions hidden">
+                            <p>Once you're done, click "submit" below to send your feedback to us.</p>
+                            <p class="text-center">
+                                <a class="btn btn-lg btn-default" href="#">Submit</a> <a class="text-primary" href="#">cancel</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
+
+    </div>
 
     <div id="feedbackModal" class="modal fade">
       <div class="modal-dialog">

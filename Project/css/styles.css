@@ -1,4 +1,8 @@
 * { box-sizing: border-box; }
+html, body { height: 100%; }
+#wrap { height: 100%; }
+#notFooter { min-height: calc(100% - 300px); }
+
 body { font-size: 18px; line-height: 150%; font-family: 'Open Sans', sans-serif; }
 p { margin-bottom: 15px; }
 

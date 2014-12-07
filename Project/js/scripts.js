@@ -12,7 +12,7 @@ $(document).ready(function(){
 			if ( tos === "" ){
 				location.href = location.href.split("?")[0];
 			} else {
-				location.href = location.href+'?search='+tos;
+				location.href = location.href.split("?")[0]+'?search='+tos;
 			}
 			return false;
 		}
