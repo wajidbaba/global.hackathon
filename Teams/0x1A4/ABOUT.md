@@ -15,7 +15,7 @@ I am fairly good at front-end development, and proficient at back-end.
 
 **Bio:**
 
- I distinctly remember my first encounter with coding. In 6th grade, my teacher assigned a webpage to showcase the work we had created throughout the year. While we could just use a website builder, I was enticed by the raw power of creation I could achieve through coding; I remember borrowing stacks of books on HTML/CSS, and JavaScript to learn how to make cool animations and effects. While in hindsight it is just a simple website, really did change my life by exposing me coding. Since then, I've taken all the advanced CS courses I could take, from AP Computer Science to Artificial Intelligence. What isn't offered in class, I have strived to learn on my own. This hackathon is a perfect opportunity to develop my programming skills and apply them to real world challenges
+ I distinctly remember my first encounter with coding. In 6th grade, my teacher assigned a webpage to showcase the work we had created throughout the year. While we could just use a website builder, I was enticed by the raw power of creation I could achieve through coding; I remember borrowing stacks of books on HTML/CSS, and JavaScript to learn how to make cool animations and effects. While in hindsight it was just a simple website, really did change my life by exposing me to coding. Since then, I've taken all the advanced CS courses I could take, from AP Computer Science to Artificial Intelligence. What isn't offered in class, I have strived to learn on my own. This hackathon is a perfect opportunity to develop my programming skills and apply them to real world challenges
 
 **Skills:**
 

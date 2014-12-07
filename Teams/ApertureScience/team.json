@@ -18,7 +18,19 @@
       "name": "Super Bear",
       "twitter": "superbear_cn",
       "koding": "superbear",
-      "location": "wuhan, CN"
+      "location": "Wuhan, CN"
+    },
+    {
+      "name": "Cyril Ogana",
+      "twitter": "rhossis",
+      "koding": "rhossis",
+      "location": "Nairobi, KE"
+    },
+    {
+      "name": "Andrew Plazar",
+      "twitter": "Nubix15",
+      "koding": "insidious",
+      "location": "Long Valley, US"
     }
   ]
 }

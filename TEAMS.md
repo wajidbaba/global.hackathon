@@ -74,7 +74,7 @@ I am fairly good at front-end development, and proficient at back-end.
 
 **Bio:**
 
- I distinctly remember my first encounter with coding. In 6th grade, my teacher assigned a webpage to showcase the work we had created throughout the year. While we could just use a website builder, I was enticed by the raw power of creation I could achieve through coding; I remember borrowing stacks of books on HTML/CSS, and JavaScript to learn how to make cool animations and effects. While in hindsight it is just a simple website, really did change my life by exposing me coding. Since then, I've taken all the advanced CS courses I could take, from AP Computer Science to Artificial Intelligence. What isn't offered in class, I have strived to learn on my own. This hackathon is a perfect opportunity to develop my programming skills and apply them to real world challenges
+ I distinctly remember my first encounter with coding. In 6th grade, my teacher assigned a webpage to showcase the work we had created throughout the year. While we could just use a website builder, I was enticed by the raw power of creation I could achieve through coding; I remember borrowing stacks of books on HTML/CSS, and JavaScript to learn how to make cool animations and effects. While in hindsight it was just a simple website, really did change my life by exposing me to coding. Since then, I've taken all the advanced CS courses I could take, from AP Computer Science to Artificial Intelligence. What isn't offered in class, I have strived to learn on my own. This hackathon is a perfect opportunity to develop my programming skills and apply them to real world challenges
 
 **Skills:**
 
@@ -95,9 +95,46 @@ Best at: Backend Web Development, Design
 
 ---------------------------------------
 
+0x614b
+================
+
+Lone participant from Cape Town, ZA
+
+Skills
+=======
+Erm. something's supposed to go here I guess xD
+
+
+---------------------------------------
+
 0xDEADBABE
 ================
-*** Stay Tuned ***
+
+## About the team
+Well there is nothing to say about the team - we are here just to have fun
+
+## Who we are
+We are programmers and doing it just as a hobby and only if it is fun :)
+
+## Combined Skillset
+- HTML5 + CSS
+- PHP
+- Java/JavaScript
+- Polymer
+- NodeJS
+- AngularJS
+- SQL
+- Python
+- Perl
+- C/C++
+- Verilog
+- Scala/Chisel
+- ...
+- 
+
+## What are we going to do
+Not sure yet - still arguing about the prefered project :)
+
 
 
 
@@ -143,11 +180,23 @@ Languages we love
 
 # 125 Programmers
 
+## Quick Overview
 125 Programmers is composed of [Jorge Garcia](https://twitter.com/Jorge_AGZ), current engineering student at Umass Boston
-
 as well as [Camilo Gonzalez](https://twitter.com/camilo_g86) current 11th grade Revere High School student.
-
 We are both also part of the FRC robotics team [125 Nutrons](http://nutrons.com/)
+_______________________________________________
+<img width="100" height="100" src='http://i.imgur.com/IqfKCvD.png' alt='Camilo Gonzalez'/>
+### Camilo Gonzalez 
+Camilo Gonzalez is a young 15 year old Revere High School student. Started to teach himself programming at the age of 10. 
+In the last 5 years of programming he has grasped the basics of programming through python, javascript and C. He has also worked extensively with programming languages such as Java, C++, Arduino and even Matlab. Experiences in the programming field vary from quadcopter/iosApps/personal projects all the way to websites for Startups as well as Machine Learning for Northeastern University
+
+To find more about his experiences, visit [Camilo Gonzalez's LinkedIn account](https://www.linkedin.com/in/camilogonzalez86)
+________________________________________________
+<img width="100" height="100" src='http://i.imgur.com/GjDvsT3.png' alt='Jorge Garcia'/>
+### Jorge Garcia
+Jorge Garcia is a current freshman college student in UMass Boston University. Ever since in preparatory school he has been excited about all the possibilities technology open up to everyone. Though himself programming from a very early age and continues to use his knowledge in his own projects as well as in real work. Work experiences vary from website building all the way to the PCB as well as its programming. Skills go from simple front-end development all the way to more robust back-end development technology such as PHP, Python, SQL. Has worked extensively with Matlab, C, Arduino, Assembly
+
+To find more about his experiences, visit [Jorge Garcia's LinkedIn account](https://www.linkedin.com/in/JorgeAGarcia1)
 
 ## Languages we love:
 * Java
@@ -155,12 +204,27 @@ We are both also part of the FRC robotics team [125 Nutrons](http://nutrons.com/
 * Javascript
 * HTML5
 * PHP
+* Arduino
 * Python
 
 ## Check us out:
 - [@camilo_g86](https://twitter.com/camilo_g86)  - Camilo Gonzalez
 - [@Jorge_AGZ](https://twitter.com/Jorge_AGZ) - Jorge  Garcia
 
+
+---------------------------------------
+
+1Ninja
+================
+
+Just a one man team
+
+
+| <img width="100" height="100" src='http://i1095.photobucket.com/albums/i480/Baldonado_John_Gerome/10356008_889255624424096_6438429749823722420_n-1.jpg?t=1417604091' alt='johngerome'/>
+|---
+| John Gerome Lustre Baldonado
+
+> “If I have seen farther than others, it is because I was standing on the shoulders of giants.”
 
 ---------------------------------------
 
@@ -555,7 +619,7 @@ About Me
 
 | Krishna
 |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/533563528326569984/Y_roXyC8.jpeg' alt='Krishna'/> |
+| <img width="100" height="100" src='https://lh3.googleusercontent.com/-zgQnZA8K58A/UuQlp6mjQNI/AAAAAAAAE7E/MxwTr63Hy9M/s200/WP_20130913_003%2B-%2BCopy%2B-%2BCopy%2B-%2BCopy.jpg' alt='Krishna'/> |
 
 Tell us who you are, why you did you decide to join?
 
@@ -581,7 +645,7 @@ List includes, Google, Facebook, Twitter, Fitbit, Payment Gateways, VoIP gateway
 Learning Power is very strong. So, Adpating to new APIs is just only a matter of few hours.
 For other skills, Checkout my oDesk profile via link above.
 
-I wasn't able to brainstorm on themes Yet but as soon as I have an Idea ready, I will update this section :)
+I will develop a project on first theme. Only, This theme is attracting my attention. Regarding the IDEA, I may try on future of dimishing resources that are available on earth.
 
 
 
@@ -626,6 +690,19 @@ Method:
 <li>Reduce the number of lawyers necessary for everyday life. Render fineprints obsolete.</li>
 <li>Increase the number of programmers, as coding is always necessary for life. Programming education is essential in today's world.</li>
 </ol>
+
+
+---------------------------------------
+
+About AMK team
+===========================
+
+| Mohamed Kamal Kamaly (Developer) | Aya Mohiy El-Deen (Designer) |
+|--- |--- |
+| <img width="100" height="100" src='http://fc00.deviantart.net/fs71/f/2014/315/e/9/profile_picture_by_komalo-d8655dz.jpg' alt='Mohamed'/> | <img width="100" height="100" src='http://fc01.deviantart.net/fs70/f/2014/316/a/9/profile_picture_by_ayahmohiy-d865hkr.jpg' alt='Aya'/> |
+| [Linkedin](http://linkedin.com/in/mohamedkamalkamaly), [Github](http://github.com/mohamedkomalo), [deviantArt](http://komalo.deviantart.com) | [Linkedin](http://eg.linkedin.com/pub/aya-mohie-el-deen/40/783/34b), [Github](http://github.com/ayahmohiy), [deviantArt](http://ayahmohiy.deviantart.com) |
+
+We are senior year students at Faculty of Computers and Information - Cairo University. We love hackathons and try to particpate at them where ever they are. We particpated at the Global Game Jam before with a small game [SaveMinions](http://globalgamejam.org/2014/games/saveminions). In addition, Mohamed particpated at both 2013 & 2014 [NYUAD International Hackathon](http://nyuad.nyu.edu/en/news-events/conferences/nyuad-hackathon.html).
 
 
 ---------------------------------------
@@ -758,13 +835,14 @@ About the team
 Who we are?
 ===========================
 
-More coming soon...
+We are 4 friends and work colleagues with common interests like: software development, innovation and entrepreneurship.
+The 4 of us has are experiences in the whole software development cycle and with very strong skills working in both
+frontend and backend development of a software.
 
 Why we decide to join?
 ===========================
 
-We love Hackathons and we love coding. 
-More coming soon..
+We love Hackathons because it challenges us to build a solution to a specific problem in a very short period of time and because we would like to be part of the first virtual Hackathon.
 
 Our skills
 ===========================
@@ -775,12 +853,16 @@ Our skills
 - Angular
 - MongoDB
 - Scrum
-- More coming soon...
+- Nancy
+- MVC
+- Bootstrap
+- ExpressJS
+- SPA
 
 What are we going to do?
 ===========================
 
-More coming soon...
+We are going to build a simple and interactive solution for building and viewing fine prints.
 
 
 
@@ -843,6 +925,26 @@ My Name Is Alladin El Akhrass  an enthusiastic and self-motivated front end web 
 
 ---------------------------------------
 
+Welcome to the Team Aleph-Null Page of AWESOME
+===========================================
+
+
+About The Team
+==============
+
+| Amaan 
+|--- 
+| <img width="100" height="100" src='https://lh5.googleusercontent.com/-qKJYyghTHxs/VGj5lqMcJ8I/AAAAAAAAFBw/LPTq_I5s4BY/s356-no/androidify.gif' alt='Amaan'/>
+
+Amaan
+=====
+I have been coding for a few years now and have had some experiences with Java, Python, HTML, CSS, & Javascript.
+I thought I would have a larger team and lots of kids at my high school were interested but I couldn't find anyone to commit lol
+But here I am trying to do my best and who knows? Maybe something will click
+
+
+---------------------------------------
+
 ```
              _    __   _             __  __   _                               _   _         
      /\     | |  / _| (_)           |  \/  | (_)                             | | (_)        
@@ -885,6 +987,22 @@ Feel free to send me an email (`public [AT] missaglialfio [DOT] pw`) if you're i
 
 ---------------------------------------
 
+This is our page
+================
+We're a team.  We do team things.
+
+About your team
+===========================
+We're a cool team.
+
+About your skills and what you are going to do?
+=======
+We be droppin' some algos and rhythms up in here.
+
+
+
+---------------------------------------
+
 Francis
 --------------
 I'm a senior Computer Science Student at Stony Brook University
@@ -907,6 +1025,11 @@ Language I love
 - C++
 - Java (Including Android Development) 
 - C# 
+
+
+---------------------------------------
+
+Hi, I am Jazib Ullah. I am a Karachi, Pakistan based PHP Developer. I have been working a lot with WordPress projects lately. I am still thinking about what to code for this hackathon. I joined because its great to join a "hackathon" while staying in my country.
 
 
 ---------------------------------------
@@ -949,6 +1072,34 @@ We also commonly work with
 
 ---------------------------------------
 
+Welcome To AmbesaEri's Page
+================
+
+I am Alem Sisay, a Java programmer. I am here to code, learn, grow, have much fun, and win.
+
+Good Luck!
+
+
+---------------------------------------
+
+Amethyst
+====
+
+Currently, I'm a student of Electrical Engineering, who's interested in computer programming. I've participated in a number of programming contests before, and 3 or 4 hackathons. In a hackathon held in our school, our team even scored the first. I have almost no experience doing serious web design, but I've spent enough time messing up with sources and APIs I think I *can* do something. 
+
+Talking about the hackathon, living in Iran *and* Tehran, I can't be indifferent about environmental issues. A number of major Iranian lakes and rivers are drying, which result in many problems, including but not limited to damages to agriculture, damages to animal and plant life, decrease in already-rare water resources, dust rising from those dried lakes, which is already becoming a problem, and... To make it all worse, Tehran is already running out of water resources, which means that the tap water might become unsafe to drink. 
+
+Concidering all these, I decided to do a project which would help solve (or reduce the magnitude of) these problems. I'll also learn to work with github, learn more web design, and have a good time participating in a hackathon at 3 AM :)
+
+Here I am: 
+
+| M2Moradi (MMS)
+|---
+| <img width="100" height="100" src='http://codeforces.com/userphoto/title/MMS/photo.jpg' alt='M2Moradi'/>
+
+
+---------------------------------------
+
 
 About your team
 ===========================
@@ -966,26 +1117,63 @@ Haven’t decided what to do yet, but it will be done using Python
 
 ---------------------------------------
 
-Angel Eats
+Welcome
 ================
 
-This is our team (for now it's just me, but I'm looking for reinforcements) on Koding Hackathon. 
+I'm software developer maniac and a personal growth scientist. 
+
+
+About Me
+===========================
+
+| Andrew Katasonov |
+|--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/488673635964432388/dNusy5C8_400x400.jpeg' alt='Andrew Katasonov'/> | 
+
+My IT experience started at 11 years when I got my first computer. Since then I've been a system admin, a developer, a project manager and finally a chief technology officer. You can find my experience outline below.
+
+
+About my skills and what I'm going to do
+=======
+- 4 years server management (Linux)
+- 3 years hardcore C++
+- 10 years web development (PHP, XHTML/CSS, JS - jQuery and Angular)
+- 8 years project management and leading a team of 5-6 developers, multiple parallel projects
+- good expertise in algorithms and data structures (made it to ACM semifinals)
+- 2 years Java/Android and some experience in iOS/Objective C.
+
+Studying R and Data Analysis. I'm a universal ninja :) Forgot to mention that I'm a fluent English speaker!
+
+Participated in local and international programming contest including ACM International Programming Contest (semi-final)
+
+Proactive, open minded, analytical, quick learner, critical, able to focus quickly.
+
+Goals: Create value every day. Make a meaningful contribution to the world
+
+I'm going to address the issue of people not reading legal documents. Or something else :)
+
+
+---------------------------------------
+
+Angel Eats
+===========================
+
+This is our female team on Koding Hackathon. 
 
 ===========================
 
-| Camelia 
+| Camelia (@aissatech)
 |--- 
 | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/3518330?v=3&s=460' alt='aissatech'/> 
 
-My name is Camelia Boban (https://github.com/aissatech), I am a intermediate programmer no more young anymore, a bit "bigger" than the average. 
-Web application developer, Google enthusiast and open source/data/gov lover.   
+| <a href="http://it.linkedin.com/pub/camelia-boban/22/191/313">Camelia Boban</a>
 
-I am going to participate to Koding Hackathon because I like challenges, I like to compare myself with others and I want to learn. But also 
-because I want to see how it looks my project idea (java webapp about food/diet/health) on fresh technologies like Polymer, Angular and Firebase :-)
+Intermediate programmer no more young anymore, a bit "bigger" than the average. Web application developer, Google enthusiast and open source/data/gov lover.
 
+I am going to participate to Koding Hackathon because I want to see how looks an "old & heavy" java enterprise web app about diet/health/nutrition/food/recepies (just ready) on fresh technologies like Polymer, Angular and Firebase.
+I will try, first of all getting fun! :-)
 
-Skills:
-=======
+###Skills:
 
  * Java EE
  * Struts, Spring (IoC), Hibernate
@@ -997,6 +1185,28 @@ Skills:
  * some Firebase
  * some AngularJS
  * some JQuery
+
+===========================
+
+| Maria Beatrice (@mbeawk)
+|--- 
+| <img width="100" height="100" src='https://github.com/aissatech/aissatech.github.io/blob/master/images/Maria_Beatrice_Koding.jpg' alt='Maria Beatrice Wierusz Kowalska'/> 
+
+| <a href="https://www.linkedin.com/pub/maria-beatrice-wierusz-kowalska/11/aa5/9a6/it">Maria Beatrice Wierusz Kowalska</a>
+
+Web and graphic design, publishing and advertising graphics, illustration and design, management of corporate image, interface design for the web and for mobile device.
+
+###Skills:
+
+ * Adobe Creative Suite CC (Photoshop, Illustrator, Lightroom, InDesign, Muse, Edge Animate, Edge Code, Edge Reflow, Dreamweaver, Flash) 
+ * CMS (Wordpress)
+ * IDLE
+ * Python 
+ * Actionscrip
+ * Html5
+ * CSS3
+
+===========================
 
 
 ---------------------------------------
@@ -1035,7 +1245,32 @@ always possible to make it awesome.
 
 ---------------------------------------
 
-//about
+
+Aperture Science
+================
+*We Do What We Must Because We Can*
+
+Our team was formed entirely from the community on Koding.com with a diverse mixture of developers providing us with unique and creative perspectives for exploring the challenges presented by the Koding.com themes.
+
+
+Welcome to the Laboratory!
+--------------------------
+
+| Tim | Eric | Super Bear | Cyril | Andrew
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://stories.koding.com/wp-content/uploads/2014/05/tim-152x152.jpg' alt='Tim'/> | <img width="100" height="100" src='https://gravatar.com/avatar/b8b837a9172a6fd9421f78ec8dc959fc?size=143&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.143.png&r=g' alt='Eric'/> | <img width="100" height="100" src='https://gravatar.com/avatar/bc6812dd8a156880db0babc661ee3704?size=143&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.143.png&r=g' alt='Super Bear'/> | <img width="100" height="100" src='https://gravatar.com/avatar/bf0a188834a138489431b47228d84e57?size=143&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.143.png&r=g' alt='Cyril'/> | <img width="100" height="100" src='https://gravatar.com/avatar/baf23bd019395ea892fec25631c11a1c?size=143&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.143.png&r=g' alt='Andrew'/> |
+
+More about us!
+==============
+For most (if not all) of us, this is our first hackathon! We want a challenging, competative experience in which we can engage and learn as we work together to meet our project goal in providing a solution to one of the Koding.com themes.
+
+* Eric) A front-end designer and developer with 6+ years of experience (HTML/CSS/JS).
+* Super Bear) A back-end developer (PHP, MySQL,Mongo, Redis, some Python, some Shell) using Linux/mac.
+* Tim) Full stack developer, own a web dev company, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java.
+* Cyril) Back-end developer
+* Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!)
+
+We're going to attack the challenges presented by the hackathon themes, collaborate and develop a creative, unique solution, and produce a useful product to meed the presented need.
 
 
 ---------------------------------------
@@ -1106,6 +1341,22 @@ GLOBAL HACKATHON
 
 ---------------------------------------
 
+# Armenia Here
+
+I am Hayk, and i want to present my small country here.
+
+As i have no team members (they are all busy !!! in their projects), I'm an only representative of team :)
+
+## So languages i enjoy
+- PHP
+- Javascript
+- MySQL
+- ActionScript
+- others ...
+
+
+---------------------------------------
+
 # Aryans
 
 ## About us:
@@ -1125,20 +1376,23 @@ GLOBAL HACKATHON
 
 ---------------------------------------
 
-AsepCo
-================
-We are located in South Jakarta, Indonesia.
+#AsepCo
 
-About your team
-===========================
-We are a couple of husband and wife, and have big passion in technology.
+<p align="center">
+  <img src="https://dl.dropboxusercontent.com/u/3196067/avatar-koding.jpg" alt="Asep and Retno" />
+</p>
 
-About your skills and what you are going to do?
-=======
-1. Asep Bagja Priandana is a full stack developer. I love writing code in Clojure, PHP, and Objective C.
-2. Retno Ika Safitri is a great UI and UX designer. She loves making gorgeous design.
+We are a husband and a wife who have big passion in technology. We live in South Jakarta, Indonesia. In Koding.com global hackathon event, we will doing "legal document" theme, because making people want to read legal document in a website is the most challenging problem for us.   
 
-We are interested to work on #1 or #3 theme.
+##[Asep Bagja Priandana](http://id.linkedin.com/in/asepbagja)
+
+He is a full stack developer who loves writing code in Clojure, PHP, Javascript, and Objective C.
+
+##[Retno Ika Safitri](http://id.linkedin.com/in/alcatrazia)
+
+She is a great UI and UX designer, also writing html and css code.
+
+__Let's code with love <3__
 
 
 ---------------------------------------
@@ -1198,6 +1452,15 @@ Hi there, we are all students at the University of Alabama in Tuscaloosa and we 
 - HabitRPG for project management
 - The all knowing Google and Reddit
 - Ramen and Pizza
+
+
+---------------------------------------
+
+#Atique-IT
+We are Atique IT team
+#About US
+-Atique: Team Leader
+-Tanvir: 
 
 
 ---------------------------------------
@@ -1291,6 +1554,13 @@ We see this as a unique challenge that will be very difficult for all of us.
     -Python
     -Flask
     -backbone.js
+
+
+---------------------------------------
+
+# Team Awksome
+
+Combining awkwardness and awesomeness!
 
 
 ---------------------------------------
@@ -1392,32 +1662,17 @@ BabesFromVictoria
 The Team
 ===========================
 
-| Erika | Leslie | Quintan | Jeremy
+| Erika | Leslie | Jeremy
 |--- |--- |--- |---
-| <img width="100" height="100" src='https://gravatar.com/avatar/5608c1777ec53c15a869483cae2fa881?size=150&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.150.png&r=g' alt='Erika'/> | <img width="100" height="100" src='' alt='Leslie'/>| <img width="100" height="100" src='' alt='Quintan'/>| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=150&height=150&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fpollodiablo%2Favatar-1416941509973' alt='Jeremy'/> |
+| <img width="100" height="100" src='https://gravatar.com/avatar/5608c1777ec53c15a869483cae2fa881?size=150&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.150.png&r=g' alt='Erika'/> | <img width="100" height="100" src='' alt='Leslie'/>| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=150&height=150&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fpollodiablo%2Favatar-1416941509973' alt='Jeremy'/> |
 
 Total babes, right? We joined to learn and demonstrate our skills, and because a global hackathon sounds awesome!
 
+Unfortunately, stress got the better of us and we have chosen not to participate in this hackathon, but instead study for our end-of-term finals. (Operating Systems, Database Management, AND Security Engineering?! Ickk!)
 
-Our skills
-=======
-Erika - 3rd year Software Engineering student who loves python, user interaces, and is able to make C cooperate.
+In any case, we wish the best of luck to all other teams! Happy Hacking!
 
-Leslie - 4th year Computer Science student. Co-op experience in cloud computing, database management and front-end design & implementation. 
-
-Quintan - blurb
-
-Jeremy - 3rd year BSEng. Best with C/C++ and Java/Groovy. Co-op experience primarily with QA and test automation.
-
-
-What we'll do
-=======
-We've chosen to combine themes 3 & 4 - we're going to create a fun HTML5 game to encourage users to read EULAs.
-
-Technologies we'll use: ...
-APIs we'll use : ...
-
-Then we're going to win.
+#[StressedOut]BabesFromVictoria
 
 
 ---------------------------------------
@@ -1496,6 +1751,14 @@ Python for sure!
 
 ---------------------------------------
 
+
+# BAMBAM
+
+"Talk is cheap. Show me the code." - Linus Torvalds
+
+
+---------------------------------------
+
 Barodian Ninjas
 ================
 
@@ -1524,6 +1787,40 @@ About Our Project
 
 Humm we would like to Keep it Secrete for a while but as an Hint we are going to buid some awesome stuff using the google Apis as they are simply awesome :)
 
+
+
+---------------------------------------
+
+BatCode
+====
+
+I am a developer who is passionate with what I do and am always trying to learn new languages/techniques to make
+myself the best developer possible.
+
+This is my first ever Hackathon and I am really looking forward in taking part.
+
+My team is also open to anyone else who would like to join, just submit a pull request onto my repository at
+https://github.com/Michael-Brooks/global.hackathon I will then merge it in and and send it over to Koding's repo.
+
+About BatCode
+----------
+
+|                                 Michael Brooks                               |
+|------------------------------------------------------------------------------|
+| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/3197231?v=3&s=460' alt='Profile Image'/> |
+
+Skills
+------
+Programming languages (that may be used):
+	- PHP
+	- SQL
+	- HTML/CSS and JS
+
+Project
+-------
+
+I want to show what I can do with the tools I've been given and to do it in the most simple way possible. I want
+my project to show exactly what I am capable of.
 
 
 ---------------------------------------
@@ -1567,6 +1864,31 @@ We are making the world better.
 - SQLite database
 - JSON & XML types
 - NDK
+
+
+---------------------------------------
+
+
+<h1> BiCoders </h1>
+
+> <h3> /-```-\ Bharath, The Anode </h3>
+> <h3> (-```-) Irene, The CATION </h3>
+
+--------------------------------------------
+
+>> <h5> We are ENGINEERS, when we build and repair</h5>
+>> <h5> We are PLUMBERS, when we fix the leaks</h5>
+>> <h5> We are POSTMAN, when we deliver the packages</h5>
+>> <h5> We are WAITERS, when we serve our customer requirements</h5>
+>> <h5> We are WATCHMAN, when we watch out our responsiblities</h5>
+>> <h3> And atlast,</h3>
+>> <h5> We are COMEDIANS, when we laugh at our own mistaks :)</h5>
+
+--------------------------------------------
+
+We are specialized in  Java, Javascript, jQuery, HTML, CSS, and Google App Engine
+
+
 
 
 ---------------------------------------
@@ -1664,6 +1986,8 @@ I'm excited to learn `Please Insert`.
 
 #Team Bits Please
 
+Joke: e^x and constant are walking on a road when they see a differential operator approaching. The constant gets scare and says it will disappear if the differential operator applies on it and runs away. e^x approaches the differentialy operator and says "you have no effect on me, man". The differential operator replies "Hi, I am d/dy"
+
 We are third year students from University of Toronto. Since I just created this profile, we'll be coming back to update it
 
 ##About Us
@@ -1671,9 +1995,11 @@ We are third year students from University of Toronto. Since I just created this
 -Sanjana: Well I've been looking forward to an online hackathon since forever. Currently I am on my 16 months internship at 
 Environment Canada.
 
--Rayun: Hackathon is life. Hackathon is love. Currently I am on my 12 month internship at Ministry of Health.
+-Rayun: Hackathon is love. Hackathon is life. Currently I am on my 12 month internship at Ontario Ministry of Health.
 
--Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon.Keep Calm and Coding on! 
+TWO BLONDES WALK INTO A BAR. YOU'D HAVE THUNK ONE OF THEM WOULD NOTICE IT.
+
+-Richa: Doing my 16 month Co-op at a startup called Cirba, that deals in Cloud Infrastrucuture control. Excited about the forthcoming hackathon. Keep Calm and Coding on!
 
 ##Languages
 -Java
@@ -1691,32 +2017,34 @@ Environment Canada.
 
 ---------------------------------------
 
-Team Name
-================
+#BitsPlease
 
-Hi all, we are engineers of UofT, excited to participate in the first ever global hackathon!
+Hi all, welcome to the home of #BitsPlease
 
-About your team
-===========================
+##About Us
 
-| paulliwali | lyamelia | phantastik | Benwang | Matt |
+
+| paulliwali | lyamelia | phantastik | benwang | mattpua |
 |---|---|---|---|---|
 |<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg' alt='paulliwali'/>|<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg' alt='lyamelia'/>|<img width="100" height="100" src='http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg' alt='phantastik'/>|<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09d/23d/06b70dc.jpg' alt='benwang'/>|<img width="100" height="100" src='http://placehold.it/350x150' alt='Matt'/>|
 
-Tell us who you are, why you did you decide to join?
+Individually we are engineers from different disciplines at the University of Toronto. Together we are BitsPlease.
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+The team is made up on a group of very diverse individuals, and just like the country we are from, CANADA, we believe it is our greatest asset. We have Amelia Ly from Regina who is studying to become a Civil Engineer. Some might say that she is just a small town girl, living in a lonely world, who took the midnight train that landed her right here in Toronto. We also have Paul Deng, an Infrastructure Engineer from Surrey BC. Now if you know anything about the greater Vancouver area, you would know that Surrey is not the best neighbourhood. However, Paul was able to overcome all that and make it all the way here. He believes that every major decision he made in his life has lead up to this moment - the Global Hackathon. Next up, we have Brian Phan. This man is not only a Systems Specialist interning at one of the best hospitals in Toronto, he is also a marathon runner. Legend has it that he once debugged a program while running the Toronto Waterfront Marathon. Another member of the team is Matt Pua. He is a man with brain and bronze. This Electrical Engineer fills his spare time with dragon boating and running obstacle courses that literally end with him jumping through fire. The final member of the team is Benjamin Wang, an Industrial Engineer from Vancouver. In high school he was nominated as most likely to be a used luxury car salesman. However, today he walks a different path and hopes that the Global Hackathon will change his future.
 
-We are PEY Students.
+##About your skills and what you are going to do?
 
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+Programming is a lifestyle for our two ECE members and a passion for all of us. We are still in the process of learning and discovering new and interesting languages to use, while fine tuning some skills that we learned along our careers.
 
-You can change your mind, that's ok. Just push an update here when you do.
+| paulliwali | lyamelia | phantastik | benwang | mattpua |
+|---|---|---|---|---|
+| ```python``` | ```Design``` | ```C``` | ```Objective C/Swift``` | ```Javascript``` |
+| ```HTML/CSS``` | ```Objective C/Swift``` | ```PHP``` | ```JAVA``` | ```C``` |
+
+We are planning to build a challenging game involving numbers and spatial thinking intended to enahnce the players' spatial intelligence , hope you enjoy it!
+
+
+
 
 
 
@@ -1847,6 +2175,39 @@ Kyle - Aplication engineering. Enjoy JS
 
 ---------------------------------------
 
+
+# Blue Shirt Academy
+
+West Michigan Aviation Academy is a STEM-based highschool operating out of Grand Rapids, MI. It has a focus on engineering and aviation and the uniform requires students to wear khaki pants and blue shirt thus giving us our name. Go WMAA!
+
+## About Us
+
+### Teddy
+<img width="100" height="100" src='/path/to/img.jpg "Title"' alt='alt text'/>
+
+I am a senior at WMAA and I have been exposed to technical design and programming for about 7 years. I am interested in physics and theoretical computer science. These interests have gotten me involved at Michigan State University in a mesoscopic physics lab and as an intern at the Van Andel Institute of Science engineering experiments with code.
+
+### Rachel 
+<img width="100" height="100" src='/path/to/img.jpg "Title"' alt='alt text'/>
+
+I am a junior at WMAA and I have an interest in all areas of math and science. I am especially interested in biomedical sciences and I work in a vasospasm lab at Grand Valley State University. I am new to coding but I am fascinated by the mechanics of web design. It's been eye-opening to be involved in such a male-dominated field and I look forward to applying my skills to new areas of math and science.
+
+## Languages We Love
+
+-HTML
+-CSS
+-Python
+-Javascript
+-Java
+-C++
+-C
+-PHP
+-Verilog
+-C#
+
+
+---------------------------------------
+
 About me
 ===========================
 
@@ -1944,21 +2305,49 @@ My skills, languages and other dev knowledge:
 - Frontend development in
   - html, css, js
   - also tried dart
-  - vanillaJS :), angluarJS and polymer
+  - vanillaJS , angluarJS and polymer
 - Backend development in
   - php, nodeJS and dart
   - appengine, heroku
   - kinvey
 
 
-About my skills and what I'm going to do?
+What I'm going to do?
 =========================================
 
-I think, I'll target theme #2 or #4 or both and I'm going to use maybe dart or nodeJS and of course html5 with css3.
+I think, I'll target theme #1 and I'm going to use html5 with css3 and polymer.
 
 
 
 
+
+
+---------------------------------------
+
+Welcome to BrGyn team page
+================
+
+We are the BrGyn team from Brazil and we are trying to make the living and the experience in this crazy world most exciting and happy from creative and really useful ideas.
+
+About Our Team
+===========================
+
+| filipebezerra | mateus
+|--- | ---
+|<img width="100" height="100" src='http://filipebezerra.github.io/img/team/1.jpg' alt='Filipe'/> | <img width="100" height="100" src='http://www.acijordan.com/upload/images/unknown_person2.png' alt='Mateus'/>
+
+Filipe Bezerra
+=======
+Java and Android passionate, lover and consumer of technology. I love learn > practice > create > learn more > do better. Thanks Koding.com for this opportunity.
+
+* Love Java and Android
+* Learning and doing awesome things in Angular
+
+[Website](http://filipebezerra.github.io/)
+
+Mateus Sousa
+=======
+A really cool guy.
 
 
 ---------------------------------------
@@ -2102,6 +2491,17 @@ We will update this as soon as we've made up our minds.
 
 ---------------------------------------
 
+# Cellcote
+
+Hi! I'm Rik and I am a computer science graduate at TU Eindhoven. I'm interested in Big Data and their corresponding visuazations. 
+
+## Languages
+
+I like Java and PHP so I will probably use on of these in combination with HTML/JavaScript.
+
+
+---------------------------------------
+
 
 # ChamGeeks
 
@@ -2233,6 +2633,83 @@ Ops. I still have no idea. Just want to build something simple and useful as a p
 
 ---------------------------------------
 
+Cian Team
+================
+
+
+| DenJohX | Davgon35 | CindyJho | cheves05 |
+| ------- | -------- | -------- | -------- |
+| <img width="100" height="100" src='https://www.gravatar.com/avatar/9779cc35dbe33eba14ba654e9be93b6a.jpg?s=120' alt='DenJohX'/> | <img width="100" height="100" src='https://www.gravatar.com/avatar/25c9ec727c0d2582d2cff4b0d3b6fdf9.jpg?s=120' alt='Davgon35'/> | <img width="100" height="100" src='https://www.gravatar.com/avatar/f40dc4ca5dd022c6d610dd79844e2af9.jpg?s=120' alt='CindyJho'/> | <img width="100" height="100" src='https://www.gravatar.com/avatar/6f888966d539d232eefab85896ac96df.jpg?s=120' alt='cheves05'/>
+
+
+We are from Guatemala, passionate about technology and web development.
+
+
+Skills
+=======
+
+We have some experience with with AngularJS, ExtJS, NodeJS, Python, Django, and Crossbar.io.
+
+
+
+---------------------------------------
+
+# Civic Hackers
+I am a technology enthusiastic about civic solutions to improve our lifestlye through technology
+
+## About Me
+-- I am a Microsoft Certified Solution Developer working as a software Engineer in the software industry.
+
+## Language I work with
+- .Net Technolgoy Stack (C#, Asp.net, Asp.net MVC ...)
+- Java Script
+-
+
+
+---------------------------------------
+
+CleverCrypter
+================
+
+Welcome to the CleverCrypter one man team page.
+
+About CleverCrypter
+===========================
+
+| Jack Atkinson
+|---
+| <img width="100" height="100" src='http://i.imgur.com/DTbcYdR.jpg' alt='Devrim'/>
+
+Hello, my name is Jack Atkinson! I'm an Australian citizen born July, 1996 who moved to America in 2005 which
+is where I currently reside. Since I first gained the ability to turn on my mothers computer I have had an avid
+interest in how they work. My curiosity was not getting me into too much trouble until I had a failed attempt at
+dual booting her computer with Ubuntu. The end result of that endeavor led to her computer being sent back
+to HP for the first time. That interest has manifested itself into a love for programming and solving problems
+with computers. After delving deeper and deeper into the land of software development I had heard about hackathons
+but thought they were a little bit above my level. When I read about Koding's Virtual Hackathon that was mostly
+aimed towards High School students, I thought I should give it a shot and to my astonishment and excitement I was
+accepted! One fact that made this competition stick out to me was that I didn't need to travel anywhere which made
+it easily accessible as I am in my senior year at high school.
+
+Skills
+========
+Currently my strongest skills are: C++, C#, Python, HTML, CSS, DOS(Batch Files)
+
+For this project I plan on expanding my skillset of Javascript.
+
+
+The Plan
+========
+I have chosen the theme of Introducing software development to a beginner. To make my idea a reality I will be
+using the following API's:
+
+CreateJS 
+
+Ace
+
+
+---------------------------------------
+
 #About our Team
 
 Suresh | Eshwar
@@ -2302,6 +2779,19 @@ We are Kuzma and Vadim, we like both hacking and games, and we believe it's some
 ## Our goals
 
 We love creativity and we want to show anybody it can be pleasure to build your own program. Who likes boring lessons? Who likes lessons at all? Let's play and then you realise you can do much more and it's fun!
+
+
+---------------------------------------
+
+My team
+===========================
+This is my one man "team". I am young boy from a small town from small country. The moment I got my first computer,
+I started spending hours finding new things about it. And my interest was growing and by the time was in High School,
+I went into the more "serious part". For now I am interested in Web Development, but who knows what the future holds?
+
+About your skills and what you are going to do?
+=======
+I have knowledge of HTML5, PHP, MySQL, MongoDB, JavaScript, NodeJS, AngularJS and CSS(but it's not my thing).
 
 
 ---------------------------------------
@@ -2391,6 +2881,29 @@ We are a group of IT nerds from Mumbai, India
 
 ---------------------------------------
 
+CodeBrazil Team
+================
+
+Coming Soon..
+
+
+About my team
+===========================
+
+Coming Soon..
+
+
+My skills.
+=======
+
+-HTML5
+-JavaScript
+-CSS3
+-Python
+
+
+---------------------------------------
+
 # Team CodeBreakers
 
 We are a group of enthusiastic developers around the world and passioned
@@ -2407,16 +2920,56 @@ performance.
 
 ---------------------------------------
 
+Will be updated in the near future.
+
+# Code Crafters
+
+# About Us
+Sven Cowart
+- Specializes in JS, PHP, front-end development
+
+Eban Bisong
+- Specializes in Java, Hadoop, PHP and backend development
+
+
+---------------------------------------
+
 About CodeGreen Team
 ===========================
 
+We are a passionate group of developers, interested in making a difference and determined to help protect the environment by taking small, everyday steps. We look forward to collaborate and create something unique by participating to this challenge
+
+
 | Maurizio | Max | Meni | Dimuthu
 |--- |--- |--- |---
-| <img src="https://pbs.twimg.com/profile_images/536400530075971584/_zOPB12Q_400x400.jpeg" width="200px"/>|<img src="https://pbs.twimg.com/profile_images/536841741039464448/Z8QM0uFh_400x400.jpeg" width="200px"/>| <img width="100" height="100" src='https://lh4.googleusercontent.com/-o6M_83UTvfQ/VHN8Wjl2vRI/AAAAAAAAAFc/p1cziyNrXNo/w849-h848-no/profile_pic.jpg  =400x' alt='Meni'/> | <img width="100" height="100" src='http://oi61.tinypic.com/5p3r6r.jpg  =400x' alt='Dimuthu'/> |
-|CTO at Mylaensys, entrepreneur and globetrotter. Apache Software Foundation fellow  Mentor at the Google Summer of Code 2013 passionate developer.|Max is a traveler and entrepreneur.  An ex-BCGe, he owns his own businesses in Brazil and the US with a focus on quantative modeling, analytics, and tourism. He holds a degree in Operations Research and Financia Engineering from Princeton University.|Software Engineer at AppScale Systems, Inc. Studied Computer Systems Technology at University of Athens, Greece. I like challenge and I'm passionate about writing code and traveling the world.|Computer Engineering Undergraduate at University of Moratuwa - Sri Lanka. Google Summer of Code participant in year 2013 and 2014 with Apache Software Foundation.
+| <img width="100" height="100" src='http://oi62.tinypic.com/vxuea.jpg' alt='Maurizio'/> | <img width="100" height="100" src='http://oi62.tinypic.com/ofrmds.jpg' alt='Max'/> | <img width="100" height="100" src='http://oi57.tinypic.com/711car.jpg' alt='Meni'/> | <img width="100" height="100" src='http://oi58.tinypic.com/15znj89.jpg' alt='Dimuthu'/> |
 
 
-We are a passionate group of developers, interested in making a difference and determined to help protect the environment by taking small, everyday steps. We look forward to collaborate and create something unique by participating to this challenge
+##### Maurizio
+
+CTO at Mylaensys, entrepreneur and globetrotter, Apache Software Foundation fellow Mentor at the Google Summer of Code 2013, passionate developer.
+##### Max
+Max is a traveler and entrepreneur. An ex-BCGr, he owns his own businesses in Brazil and the US with a focus on quantative modeling, analytics, and tourism. He holds a degree in Operations Research and Financial Engineering from Princeton University.
+
+##### Meni 
+Software Engineer at AppScale Systems, Inc. Studied Computer Systems Technology at University of Athens, Greece. I like challenge and I'm passionate about writing code and traveling the world.
+
+##### Dimuthu 
+Computer Engineering Undergraduate at University of Moratuwa - Sri Lanka. Google Summer of Code participant in year 2013 and 2014 with Apache Software Foundation.
+
+
+---------------------------------------
+
+Team CodeJunkies About Us
+
+Oussama Bouguerne
+
+Languages I love
+
+Clojure
+Scala
+Java
+Ruby
 
 
 ---------------------------------------
@@ -2520,6 +3073,79 @@ More coming soon...
 This is our page
 ================
 
+We are the Koding team, so we are not really participating. But this page is here
+to give you an idea about your own page.
+
+
+About your team
+===========================
+
+Tell us who you are, why you did you decide to join?
+
+Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
+Tell us why you want to win.
+
+
+About your skills and what you are going to do?
+=======
+Don't reveal too much about your project, this is a competition but maybe
+you can tell us the technologies, APIs you are going to use and what kind
+of application you are going to build.
+
+You can change your mind, that's ok. Just push an update here when you do.
+
+
+
+---------------------------------------
+
+
+
+#team CodeSterix
+
+We are Swarup, Abhinav and Kabir and we love creating cool and exciting things.
+
+##About us
+
+ - Swarup : I am Swarup, and I love javascript
+ - Abhinav : I am Abhinav, and I am passionate about both frontend and backend.
+ - Kabir : I am Kabir and I love backend staff.
+ 
+ ##Language we love
+ 
+ - Javascript,
+ - Perl,
+ - PHP,
+ - C++,
+ - Java
+
+
+---------------------------------------
+
+
+# CodeTiburon
+
+We love software development in all it's aspects and love to create amazing things utilizing modern technologies.
+
+## About Us
+
+- Koscoder: My name is Kos, I am an expert in backend development
+- Termosa: My name is Stas, I am big fan of JavaScript
+- VadimCT: My name is Vadim, I like SQL and Frontend
+
+## Technologies and languages we love
+
+- JavaScript
+- PHP
+- AngularJS
+- CasperJS
+- Zend Framework
+
+
+---------------------------------------
+
+This is our page
+================
+
 proud to be a part of Koding team.
 
 
@@ -2568,14 +3194,22 @@ http://www.codeepy.com/about/
 
 # Coder53
 
-We are Coder53. A team consists of 2 coders and a designer. 
-
+<img src=http://coder53.com/team.png></img>
+<p>
+We are Coder53. A team consists of 2 coders and a designer. This is our first hackathon.
+</p>
 # About Us
-
-Kin Meng - I am the lead and coder. I do Java, Objective-C and Javascript.
-Wai Kit - I am the coder. I do Java and Javascript.
+<ol>
+<li>
+Kin Meng - I am the lead and coder. Liverpool fans. I do Java, Objective-C and Javascript. I workout too.
+</li>
+<li>
+Wai Kit - I am the coder and streetballer. I do Java and Javascript.
+</li>
+<li>
 Wai Yen - I am the designer. I design beautiful stuff.
-
+</li>
+</ol>
 # Languages we love
 
 - Java
@@ -2583,6 +3217,31 @@ Wai Yen - I am the designer. I design beautiful stuff.
 - Objective-C
 - HTML
 - CSS
+
+
+---------------------------------------
+
+#TeamName: Codetogo
+
+- We are team of 3 members
+- Here for good!
+- Belong to same college and pre-final year undergraduate students
+
+About us:
+
+##Anurag Patel
+- Loves Astrology
+- http://twitter.com/anurag1695
+
+##Chinmay Joshi
+- Loves to code!
+- http://chinmayjoshi.com
+
+
+##Vivek Iyengar
+- Loves to Code
+
+We have nver participated in Hackathon earlier. We are working on theme 2 and trying to make something awesome in our vacation time.
 
 
 ---------------------------------------
@@ -2665,6 +3324,27 @@ using existing open source frameworks and APIs for test automation.
 
 ---------------------------------------
 
+CompileError
+
+About our team
+
+We are a group of IT nerds from Mumbai, India
+
+Languages we love
+
+PHP
+
+Javascript
+
+CSS3
+
+HTML5
+
+Creativity!
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -2720,23 +3400,34 @@ My project is an HTML5 games that are educational and learning oriented. (multip
 
 Copihue
 ================
-We are a Chilean Team composed by 3 developers. "Copihue", known as Chilean bellflower is the
+We are a Chilean Team composed by 2 developers. "Copihue", known as "*Chilean bellflower*" is the
 national flower of Chile and a real symbol of passion.
 
 About Copihue
 ================
 
-| Shelo | Tilder | Autopawn |
-|--- |--- |--- |---
-| No Pictures avaiable at the moment. |
+| Shelo | Tilder |
+|--- |--- |
+| <img width="100" height="100" src='http://104.131.173.250/media/img/shelo.jpg' alt='shelo normal'/> | <img width="100" height="100" src='http://104.131.173.250/media/img/rcastill.jpg' alt='tilder normal'/>  |
+| <img width="100" height="100" src='http://104.131.173.250/media/img/shelo2.png' alt='shelo on fire'/> | <img width="100" height="100" src='http://104.131.173.250/media/img/fun.jpg' alt='tilder on fire'/> |
 
-We decided to join because of our passion of large continous hours of pure programming, so you know, this is just perfect.
+We decided to join because of our joy for large continous hours of pure programming, so you know, this is just perfect.
 
 About your skills and what you are going to do?
 =======
-We are fans of games, so thats where we will be going, of course, using one of the themes presented.
+**Shelo**
 
-The game will be connected with facebook and (probably) will use Google Game Services.
+Real name: Marcelo Jara Almeyda
+
+Skills: C#, Java, HTML5, JS, jQuery and Python principally
+
+**Tilder**
+
+Real name: Rodolfo Castillo Mateluna
+
+Skills: C, C++, Java, Python, Network programming.
+___
+We are fan of games, so that's what we're doing, of course, using one of the themes presented.
 
 
 ---------------------------------------
@@ -2764,22 +3455,59 @@ My name is Vedran, I have a lot of ideas and I want to make some of them happen.
 
 ## About me
 
-I'm a front-end developer who is excited about the endless potential of the web, and being able to build things that a lot of people can use every day. I'm passionate about my craft, I have a good eye for details and an absolute commitment to making sure features are well implemented. I always write maintainable front-end markup. I love responsive web design and mobile-first perspective. 
+I'm a front-end developer who is excited about the endless potential of the web, and being able to build things that a lot of people can use every day. I'm passionate about my craft. 
 
-I can transform designs and concepts into efficient and lively interactive user experiences that are quick and responsive.
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/516293918623690752/4GeUU8Fw.jpeg' alt='Vedran'/>
 
-My second passion is crafting user interfaces with a seamless user experience in mind. Creating prototypes and wireframes is my joy. 
+I added my picture because I have cool glasses. B-)
 
-I have working knowledge on the application level programming with Ruby on Rails. I will be using RoR for making my idea happen.
+## My Passion 
 
-### What I know
+One thing that I'm most passionate about is changing the way we provide education today.
+I'm currently making two projects that are related to changing the education. 
+And I hope that on this hackathon I will make the third one.
 
-Modern HTML, JavaScript and CSS
-JavaScript MVC framework AngularJS
-Third party CSS and Javascript libraries and frameworks
-Application level programming with Ruby on Rails
-Social web services and APIs (Facebook, Twitter, etc)
-Working with version control (GIT)
+### My Toolbox
+
+On this hackathon I will be using HTML/CSS/SASS + MEAN stack (mongo, express, angular, node)...
+I will try to integrate my app with some API and social sites. 
+Technology today provides as with cool real time based communication so my solution for this hackathon will 
+be solution will be in realtime between users. hint -> Socket.IO
+
+---------------------------------------
+
+<img width="100" height="100" src='http://williamgoldie.com/imghost/crash.gif' alt=''/>
+
+*"Pool on the roof must've sprung a leak"*
+
+#Members:
+
+##wgoldie
+Computation, computer graphics, application programming.
+
+I'll take my windows tiled, not stirred
+
+我說 C++, C#, Java, Clojure, JS, Scheme
+
+"(cadr '(Don't quote me on this...))"
+
+###arjunyg
+Infosec, cryptocurrencies, shell scriptin', encryptin', sysadminin'. 
+
+Ask me about my .vimrc
+
+Ich spreche Python, C, Obj-C, Java, Scheme
+
+"I literally can't like even"
+
+## thealtus
+Web 3.0. Let's bring Myspace pages back.
+
+// TODO: actually write code
+
+HTML, CSS, JS, C++, Java, Scheme
+
+"Oh, yes. Little Bobby Tables, we call him."
 
 
 ---------------------------------------
@@ -2795,8 +3523,7 @@ in building an application in 48h and competing on world level!
 
 - Tea: design master
 - Martina: UX master
-- Stanko: front-end master
-- Miłosz: REST API master
+- Miłosz: frond-end and REST API master
 - Anamarija: back-end master
 
 As you can see, we are all masters, each specialized in specific field.
@@ -2841,10 +3568,32 @@ CrowdAppz
 
 ---------------------------------------
 
+Gaining Momentum
+================
+Forever unsatisfied with the state of Dev-tools, finally ran out of excuses not to try my own..
+
+Team Crystallized
+=================
+Pascal -> very briefly Java -> Python -> C++ -> Javascript.
+
+Looking forward to giving something back to the community.
+
+What?
+=======
+Fell in a love-hate relationship with Javascript 2 years ago. 
+
+This weekend, we are gonna have the talk - can we make it work long term? Or are the scars from her past just too deep? 
+It will be Famo.us!
+
+*In case it goes well, maybe will bring in a designer friend to polish things up a bit
+
+
+---------------------------------------
+
 About Cu3mBY Team
 =================
 
-We are group of friends we love coding together, solve problems and have fun creating apps.
+We are a group of friends who love coding, solving problems, and having fun creating apps.
 
 #### Languajes
 - Javascript + NodeJS (steroids)
@@ -2854,7 +3603,7 @@ We are group of friends we love coding together, solve problems and have fun cre
 - Scala
 - iOS
 - Android
-- (and more even brainfuck)
+- (and more, even brainfuck)
 
 #### What we love:
 - RESTfuls APIS
@@ -2866,14 +3615,15 @@ We are group of friends we love coding together, solve problems and have fun cre
 - Nice and clean code
 
 ##So let's introduce our Dream Team:
-|Cristina | Alex | Juan | Angel
-| ------- | ---- | ---- | -----
-|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/524896?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3292625?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/636987?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/6215607?v=3&s=200' alt='GitHub Logo'/>
+|Cristina | Alex | Juan | Angel | Adrian |
+| ------- | ---- | ---- | ----- | ------ |
+|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/524896?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3292625?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/636987?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/6215607?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/2242224?v=3&s=200' alt='GitHub Logo'/>
 
 - https://github.com/CristinaSolana
 - https://github.com/atasciuc
 - https://github.com/onel0p3z
 - https://github.com/angel-cuemby
+- https://github.com/aramonc
 
 
 ---------------------------------------
@@ -2896,6 +3646,21 @@ We're a couple who loves to code.
 
 
 
+
+
+---------------------------------------
+
+
+# Team DAGE
+
+## About me
+
+My name is George Dragnea and I am a web developer.
+
+## Languages and frameworks I love
+ - PHP & MySQL
+ - CodeIgniter
+ - JavaScript & node.js
 
 
 ---------------------------------------
@@ -2943,19 +3708,23 @@ Danish - Reydi - Yana
 
 ---------------------------------------
 
-About my team (well, me really)
+About my team 
 ===========================
-Team member: Naglaa Eid (aka nagheid or nag for short ;) )
+Team member:
+
+| Naglaa Eid |
+|---|
+| <img width="100" height="100" src='https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10446518_10152438985915862_5249127924409743744_n.jpg?oh=44e6dbef9535c0fa608edee93a8433a6&oe=550FA545&__gda__=1425779258_8bae71901ede33833587da9fb750aed1' alt='Naglaa Eid'/> |
 
 I am a final year Software Engineering undergraduate student at the University of Ottawa in Ottawa, ON, Canada.
 
-If I am not coding, I am either climbing walls or trying to get discovered by a bear in a forest. Or finding a roof in town that is cool enough to hang out on.
+If I am not coding, I am either climbing things (rocks, trees ...) or trying to get discovered by a bear in a forest. Or finding a roof in town that is cool enough to hang out on. Also, generally trying new things.
 
 Why I decided to join?
 =======
-As a busy student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
+As a student with finals this week, I decided to join a hackathon for the fun of it. And trust me, they are super fun. Ah, I feel the adrenaline already!!
 
-Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. With an engineering degree, you'd think  when do I have time? And I don't. That's why I am joining this hackathon. After 5 years of studying engineering and filling my resume with high-tech jobs. I seek more "hackathony" experience to create the things *I* want ... I joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working from scratch fully functional with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
+Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. Along with an engineering degree, I don't find time for extracurricular projects. That's why I am joining this hackathon. I once joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
 
 About my skills
 =======
@@ -2963,13 +3732,15 @@ I worked on back-end, front-end and everything in between. So far, I worked on 6
 
 Some of the languages I know: C, C++, HTML, CSS, Python, PHP, Perl, Java and others
 
-What I are going to do?
+What I am going to do?
 =======
-The project will be related to a distributed systems algorithm and will target themes 1, 2 and 4. 
+The project will be related to distributed systems algorithms.
 
-If I say anything more, I will have to find you and kill you.
+Currently there are so many distributed algorithms out there with tedious pseudo code and big blocks of text that lose meaning. So I'll be developing a program to help visualize these algorithms. This will cover theme 2 of the hackathon.
 
-But it will be something awesome!
+The web app can be later expanded to add more algorithms.
+
+Will be coding in Java.
 
 ---------------------------------------
 
@@ -3144,6 +3915,67 @@ My day-job is in robotics, and we can leave it at that. I do, however, have a ba
 
 ---------------------------------------
 
+#Shinobi salutes you!
+Hello, this is DIEMPI (you can read it as D.M.P , sounds cool right?),just like Jason Derulo I'm riding solo. This is my first hackathon and I hope to give my best for it!
+## About the shinobi
+====
+###DIEMPI
+
+| DIEMPI 
+|--- 
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1102885?v=3&s=460 "I'm DIEMPI"' alt='I'm DIEMPI'/>
+
+My name is Didier Gabiam also known as DIEMPI , more developer than designer, high tech lover, sushi and chocolate adorer. When I'm not coding I'm might be doing the other thing I love doing: DJ'ing and I'm pretty good at that. I finally decided to do hackathons because I need to practice and learn to improve my skills, so let's do this!
+
+## Skills
+====
+
+ I work with PHP, Javascript, HTML and CSS. I have some C++ and Turbo Pascal left in the back of my mind from some pasts courses but I don't think that I'll use them here(well we never know...),
+ I got PHPStorm ready, my mind ready, let's get ready for the rumbleeeee!!
+
+
+---------------------------------------
+
+#DevOps
+---
+
+Welcome to our team information sheet. We are glad that you are taking your time to review our skills!
+
+We are three full stack software enthusiasts currently working together in a SAAS application for fitness.
+
+###1. Ruben Paz
+<img width="100" height="100" src='https://gravatar.com/avatar/6442fc1bfaf540eeb650ae4691255f01?size=165.0000035762787' alt=''/>
+* **Brief description:**
+  Hey there! I'm Ruben, 23 years old guy from Spain. I've been into development for a long time as a hobbyist and as professional for only one year and half (as much). I really love being in the cutting edge, trying and testing new methodologies and paradigms.
+* **Main Skills:** 
+  - `Android`
+  - `Play Framework`
+  - `AngularJS`
+  - `MongoDB`
+  - `Linux`
+* **Languajes:**
+  - `Java 8`
+  - `Scala`
+  - `Python`
+  - `JS & Coffeescript`
+
+---
+
+###2. Giancarlo Sanchez
+<img width="100" height="100" src='https://gravatar.com/avatar/da9261bb3a54e409f37736571878afd0?size=165.0000035762787' alt=''/>
+
+**WIP**
+
+---
+
+###3. Alexis Romero
+<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1bd/3d4/0b366bb.jpg' alt=''/>
+
+**WIP**
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -3189,6 +4021,67 @@ We are a group of developers coming from all corners of the world. We joined hac
 
 The technology that we will be using is NodeJS and we are planning to build a game that enables people to see what is the situation of our planet today, it is to help raise awareness that our planet Earth is in need of our help. We believe that by making a game, the message will retain on peoples minds rather than making them read an article. 
 Our skills consists of but not limited to: NodeJS, ExpressJS, Socket.io, AngularJS.
+
+
+---------------------------------------
+
+
+# <img width="100" height="100" src='https://cloud.githubusercontent.com/assets/6871312/5327950/a0d5af1e-7d67-11e4-9505-f268266976ba.png' alt='devo'/> Devopensource
+We three are part of the company Devopensource. We wanted participate in this Koding - Hackathon to give the best of us.
+For more info, visit us! <http://devopensource.com/>
+## Members
+
+| Oliver Montes | Bio | More 
+|--------|--------|--------
+| <img width="100" height="100" src='https://cloud.githubusercontent.com/assets/6871312/5327825/38822c34-7d63-11e4-9fd5-33ac3da9ad72.jpg' alt='oliver'/>| Senior develpment with more than 6 years of experience and expert Magento developer.<br>Love programming and undertake new startups and projects |   Likes to eat at good restaurants and pandas lover, especially this [gif](http://1.bp.blogspot.com/-qW4iyblG78Q/T6VgUfdPJWI/AAAAAAAAFpI/detvYFdrQrU/s1600/panda.gif)
+
+| Marc Bernabeu | Bio | More 
+|--------|--------|--------
+| <img width="100" height="100" src='https://cloud.githubusercontent.com/assets/6871312/5327941/576a9420-7d67-11e4-9106-f961e816a180.jpg' alt='marc'/> |Pro developer with high knowledge of programming, our Swiss Army Knife.<br>Can tackle any new project and make it look easy |  Dog lover, and he has a [cat](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr8GrX4DaCPbcdgYBn3Qy_ubqjsn8lqNo0Kwu91i0Fqu_NeaRgsw)
+
+| Adrian Olcina | Bio | More 
+|--------|--------|--------
+| <img width="100" height="100" src='https://cloud.githubusercontent.com/assets/6871312/5327843/bacf1ac6-7d63-11e4-9d33-e238dbc8f48e.jpg' alt='adri'/>|The Project Manager team that manage tasks and oversees the project, with a little programming knowledge <br>The cornerstone that unifies the team | Likes practice any sports and play coumputer online-games
+
+
+
+
+---------------------------------------
+
+[Arthur Ryu]: https://www.youtube.com/watch?v=7FPELc1wEvk
+
+# Team Dharma49
+
+## One guy,
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/oldguy.jpg"/>
+</p>
+(yeah, I'm almost that old)
+
+## Surrounded by Texas,
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/640texas.png"/>
+</p>
+(Austin isn't *in* Texas, it's surrounded by it...)
+
+## who does *this* for a living:
+<p align="center">
+<img src="http://www.freegamersjournal.com/uploads/640work.png"/>
+</p>
+(except that I'm doing "serious games" right now, so I'm using the Hackathon as an excuse to write fun stuff. :) )
+
+## Obligatory Japanese Fighting-Game Style Bio
++ Birthdate: 5/1/69
++ Birthplace: Libby, MT
++ Height: 6' 0"
++ Weight: 180 lbs
++ Eye Color: brown
++ Hair Color: brown
++ Fighting Style: [Arthur Ryu]
++ Likes: Javascript, Objective C, Dogs, Cookies, Judge Dredd
++ Dislikes: Brussel Sprouts, Star Trek: Into Darkness (don't mess with "Wrath of Khan")
+
+
 
 
 ---------------------------------------
@@ -3413,6 +4306,51 @@ We like useful things, so that's what we hope to create here - a useful tool.
 
 ---------------------------------------
 
+#Intro
+We work at Ecomp, a junior enterprise located in Curitiba - Brazil and study in the Universidade Federal do Paraná.
+We really like challenges and belive that join the first global virtual hackaton will sum up a lot of knowledge and for certain will be a lot of fun!
+
+##Programming languages that we list the most:
+- Javascript
+- Coffescript
+- Ruby
+- PHP
+- SQL
+- C/C++
+
+##Some Frameworks/tools that we are considerating to use to develop our idea:
+- Panda JS
+- EaselJS
+- Rails
+
+
+---------------------------------------
+
+My  name is reem iam studying master of cyber security in Tallinn universty of technolgy
+i love 
+C
+assembly 
+html
+pentesting
+php
+my name is Hatem Wasfy iam Linux System Administrator at Egypt - Japan University of Science and Technology ( E-JUST )
+shell scritping
+C
+Apache
+java 
+vpn
+
+Javascript
+java
+python
+php
+eclipse
+css
+mobile app
+
+
+---------------------------------------
+
 ## Team El-Belon
   
   Bunch of Portuguese guys trying to do something nice and have fun with programming stuff
@@ -3487,6 +4425,31 @@ We are still in planning for what we are going to do. To be updated soon.
 
 ---------------------------------------
 
+
+
+#Team EnigmaTrips
+
+We are Heshan,Thushila,Nipun and dinuka.
+We are Undergraduates from University of Moratuwa,Srilanka.We Currently involved with java development using spring,
+mybatis, Rest Express, Angularjs and node.js With latest web technologies such as html5 and bootstrap.
+In our work we are practicing agile methods to develop software.
+During Our studies we were involved in many projects and have experience with 
+php, java,c++,c+,c#,mysql etc. And we also involed with some freelancer
+work such as web development with ,joomla and wordpress.
+Currently developing an Inventory controlling system using javaEE and  hoping to sell and
+deploy it for a private company next month.We already started developing another
+system for "Student Management" in universities and we are hoping to use JavaEE
+technologies such as SpringMVC, JPA and AngularJS.
+
+#About Us
+-Heshan:my name is heshan jayasinghe i am good at in serverside programming with Spring MVC in java and good at in android ios development.
+-Thushila:my name is Thushila,i am good at in frontend programming with HTML5,jsp,AngularJS and bootstrap
+-Nipun:my name is Nipun,i am good at in databases like mysql,oracle Db and i know JPA and more things about DB side.
+-dinuka:my name is dinuka,i am good at in web services and serverside programming.
+
+
+---------------------------------------
+
 # Epic Coders
 
 ## About Us
@@ -3522,7 +4485,13 @@ We don't know yet! :D
 
 ---------------------------------------
 
-http://eventhorizon.pl/
+#About EventHorizon
+
+##Michal Piotrowski
+
+<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/566953?v=3&s=460' alt=''/>
+
+Tools that I use for my every day job: PHP, Symfony 2.x, Doctrine 2.x, HTML, CSS, JavaScript etc. You can read about my other skills on http://eventhorizon.pl/
 
 
 ---------------------------------------
@@ -3578,6 +4547,32 @@ Languages
 
 ---------------------------------------
 
+#FacePalm
+
+##About Team
+Attending individually in the hackathon contest. I'm determined to solve problems. The selected themes of Koding.com was very interesting and I'm very excited to offer some great solutions to this problems.
+
+##About Me
+I'm *Anisuzzaman Khan* from Dhaka, BD. Undergraduate student, programmer, problem solver, developer, gamer.<br>
+Will be working on topic #3 (interactive solution to TOS, EULA, legal documents)
+
+##Skills
+ * C/C++
+ * C#
+ * Java
+ * PHP
+ * MySQL
+ * Python
+ * HTML5
+ * CSS3
+ * JavaScript
+ * jQuery
+ * AngularJS
+ * NodeJS
+
+
+---------------------------------------
+
 == Team Name: Factorify
 
 -- About Us:
@@ -3591,6 +4586,101 @@ Languages :
 -> Javascript w/ jQuery & Angular.js
 -> HTML5/CSS3
 -> MongoDB
+
+
+---------------------------------------
+
+This is my page
+=====
+
+Hi, I am Prashanth. I am a free thinker :D
+you too are free to think ofcourse!
+I keep reminding myself that freedom is all we need. I try to break free of all things that bind me. Things like jobs.
+
+I would like to create that which is necessary for freedom, just for the love of it.
+
+Ok, enough philosophy. I am a test and automation engineer, was a freelance programmer coding in scientific computing
+till about half a year ago, I am a Python programmer and I am in love with everything that is open source *Github rocks*.
+
+Why did I decide to join Koding Global Hackathon?
+Lately I have been ideating a lot. Now I have a whole bunch of ideas, unimplemented, untested. So I see this hackathon as
+a nice opportunity to make something fun.
+
+About my skills and what I am going to do?
+====
+
+I can pretty much handle python. So I would like to use Flask and polymer.js to make a simple app.
+
+What is this app about?
+Patience my friend. All I can tell you now is, its got to do with unlocking myself and the world along with me :D
+
+All the best! and thanks for wishing me luck ;)
+
+
+---------------------------------------
+
+# FelixInteractive
+
+Hi everyone! We are `koders/hackers/weirdos` based in `Amman, Jordan`.
+
+Our talents/skills are everywhere but we definitely love playing with new things. (So watch out all those API's!)
+
+Can't wait to show everyone what we got at the hackathon!
+
+
+
+**FelixInteractive**
+
+
+---------------------------------------
+
+Fifth Dimension
+================
+
+We are experienced Web Developers from Georgia and we intent to change the way people learn programming.
+
+About Us
+===========================
+
+| Davit | George
+|--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000309593201/0a505a42c43719856fcf33b84e767917.jpeg' alt='Davit'/> | <img width="100" height="100" src='http://f.cl.ly/items/1y3B2E1v1f131Q0b431v/5f1a9263969242ccf227119261eaa7a7.jpeg' alt='George'/> |
+
+Our skills
+=======
+**Davit** - Is a Full-stack developer with 5 years of experience , currently working with Node.js mainly. [blog](http://davit.io) [odesk](https://www.odesk.com/users/~01306718208d0750b7)
+
+**George** - Has 6 year experience in web-development mainly working with PHP, Ruby and [more](https://www.odesk.com/users/Web-Developer_~01735790c52a7bb0ee)
+
+Our Idea
+=======
+
+We choose to work on theme 2 and 4.
+
+
+---------------------------------------
+
+
+# Fill your cup
+
+I am Rassulzhan, and my project is related to the ability
+evaluate your vocabulary, regulary improve your speaking and writing skills.
+Also it really good things to develop your intuition and knowledges in different directions.
+
+#About Us
+
+- Rassulzhan: My name is Rassul, i love Java, SpringMVC, JavaScript, Foundation.css, Angular.js
+
+#Languages we love:
+
+- Java;
+- C#;
+- C/C++;
+- Python;
+- PHP;
+- DART!!!
+
+
 
 
 ---------------------------------------
@@ -3831,13 +4921,35 @@ We love what we do so work is play.
 Funky Fresh Boyz
 ====================
 
-| N     | Member          | Role          | Twitter                                               | Editor |
-| :---- | :----           | :----:        | :----                                                 | :----  |
-| 1     | Cristian Cortez | Dev/Architect | [@cortezcristian](https://twitter.com/cortezcristian) | Vim    |
+<img width="100" height="100" src='http://moviesmedia.ign.com/movies/image/article/784/784153/kios-jamie1_1177708841.jpg' alt='FFB'/>
 
-More info coming soon...
+Directly from Rosario (Argentina), we're the Funky Fresh Boyz!
+
+| N     | Member            | Role            | Twitter                                               | Editor   |
+| :---- | :----             | :----:          | :----                                                 | :----    |
+| 1     | Cristian Cortez   | Ninja Team Lead | [@cortezcristian](https://twitter.com/cortezcristian) | Vim      |
+| 2     | Cristian La Spina | Trooper         | none                                                  | Brackets |
+| 3     | Lucas van Dongen  | iOS guy         | [@lucasvandongen](https://twitter.com/lucasvandongen) | Xcode    |
+
+
+# Cristian Cortéz
 
 <img width="100" height="100" src='http://cortezcristian.com/images/fpo-carousel-imge-4.jpg' alt='Crisboot'/>
+
+Passionate full stack developer, fell in love recently with the MEAN stack. Creator of [anyandgo MEAN framework](https://github.com/cortezcristian/anyandgo). Visit his [website](http://cortezcristian.com/) or [follow him on twitter](https://twitter.com/cortezcristian). His girlfriend will finally left the apartament if he doesn't succeed.
+
+# Cristian La Spina
+
+<img width="100" height="100" src='https://imagizer.imageshack.us/v2/800x320q90/673/BiKy62.jpg' alt='Viejo'/>
+
+Good old friend always willing to help, also known as "viejo" [follow him on github](https://github.com/viehot/). He will continue living with his parents if he doesn't win.
+
+
+# Lucas van Dongen
+
+<img width="100" height="100" src='http://imagizer.imageshack.us/a/img633/6561/a6ZquR.png' alt='Holandes'/>
+
+Professional Xcode Wrestler. Sucks at speaking at least five languages. Receives flak for liking Microsoft. His wife will bitchslapp him for hanging out with the nerds, if he doesn't bring any prize money home.
 
 
 ---------------------------------------
@@ -3848,6 +4960,34 @@ More info coming soon...
 I'm a high school student from Macedonian. I like developing video games.
 
 I'm still not sure what APIs I will be using. But most likely I will use Node.JS and maybe use PubNub API.
+
+
+---------------------------------------
+
+This is our page
+================
+
+A drifting programmer :D
+
+
+About your team
+===========================
+
+| Shamir Raza (Futago-za Ryuu) 
+|-------------
+| Can't find an image of my self, will upload one later and place it.
+
+I've been programming for 8 years now, but only started seriously in the last 4 years,
+and most of that time has been devoted to creating random Node.js projects, hacking away at them,
+then dumping them! Dont get me wrong, its just after I've achieved a sense of satisfaction
+from what I've done so far, my interest wanes so I move on. The only 2 consistant thing have
+been trying to create my own programming language and creating a cross-platform/language
+game using it.
+
+
+About your skills and what you are going to do?
+=======
+So far I've decided I'll be making a Three.js based game, still have to decide the rest.
 
 
 ---------------------------------------
@@ -4004,6 +5144,28 @@ web technologies, .NET, C#, C, C++, HTML... I love to code. And I love cats and 
 
 ---------------------------------------
 
+# Galleria
+
+Galeria (*gallery* in english, the two "L" in the team name it's a bad practice of *how to make a name cool*) it's a place to show things, like paintings.
+
+What this gallery presents? Crazy guys, crazy minds, craziness.
+
+<img width="100" height="100" src='https://unsplash.imgix.net/45/tkLOe7nnQ7mnMsiuijBy_hm.jpg' alt='Our crazy ideas stored'/>
+
+# About Marcos SF Filho - Team Leader
+
+The idea that anything can be made in a "virtual space" fascinates me above everything. If someone challenges you to program something, you can.
+
+I'm young, 19-years old. Know a bunch of things, like PHP, Java, Ruby, Web development, games development, but I'm not a specialist in any of these.
+
+Born in Brazil, and still living in Brazil.
+
+------------------------------------------------------------
+*Thanks to [Unsplash](https://unsplash.com) for making beautiful images available easy, and to [Patrik Goethe](http://www.slashie.org/), who takes the photo that I used as cover art. You can find more of his photos in Unsplash [here](https://unsplash.com/patrikgoethe).*
+
+
+---------------------------------------
+
 # Team Gamma
 
 I am Alexander Barsukov.
@@ -4045,6 +5207,68 @@ An awesome guy who participated in some coding contests and also participated in
 
 ---------------------------------------
 
+Welcome to Geekventorz team page!
+================
+<p align="center">
+  <img src="http://dahngeek.com/d/Geekventorz/bannergeekventorz.jpg"/>
+</p>
+Hello / Hola!
+Majority of us are from Guatemala, we are students who love to code and build things, we've had experience not only with coding but with Electronics and Creative Technology.
+
+Hola! Somos un equipo de Guatemala, somos estudiantes a quienes les gusta programar y construir cosas, no solo hemos tenido experiencia programando sino jugando un poco con Electrónica y Tecnología Creativa, la cual es muy poco aplicada en nuestro país.
+
+Our Team
+===========================
+
+|Daniel (dahngeek)|Edgar (colochob)|
+|--- |---|
+| <img width="100" height="100" src='http://dahngeek.com/d/Geekventorz/smalldahngeek.jpg' alt='Dahngeek'/> | <img width="100" height="100" src='http://dahngeek.com/d/Geekventorz/smallcolochob.jpg' alt='Colochob'/> |
+
+Edgar
+=======
+Loves to learn more and more and is just very curious at everything, he's very good at electronics.
+
+Daniel
+=======
+He considers himself as Geek and loves to Code so as to Play with electronics.
+
+
+---------------------------------------
+
+================
+
+We are the Geeky254 Team, so we are participating in Koding from Nairobi. We are quiet but our minds
+are forever at work.
+
+Joel Okomoli & Felista Moraa 
+
+About your team
+===========================
+
+Joel is a social entrepreneur who would invest in Agricultural enterprises that aim to increase food production while conserving the environment or Green Energy Companies that seek to enhance the use of renewable energy across the continent to meet the persistent shortage of power in Africa. I would also seek to invest in the under-utilized high rainfall zones (small holder farmers) or in the semi-arid regions with potential for irrigation. Horticulture and growing non-staple foods that are highly nutritious such as fruits and vegetables would be my area of interest. This is to ensure sustainable research and improved quality of yields. This can be realized by employing emerging mobile technologies.
+
+Felista is a system administrator with a passion for programming, system analysis and design. She works in Nairobi and participates in the development of ICT in Africa. 
+
+Tell us who you are, why you did you decide to join? 
+
+We decided to join because we love challenges and always look for opportunity to improve our skills in software development. 
+
+We would like to inspire our students with the right skills and urge them towards problem solving within the environment we live in. A lot of situations could be improved with the right tools and technologies but these are a long time coming due to lack of innovation.
+
+
+About your skills and what you are going to do?
+=======
+Joel:
+I have excellent IT skills and experience of working with adult learners using MS Outlook, Word and Excel, php, ASP.Net and SQL. I have also taught business statistics to Accounting students. Previously I have worked as head of department (IT) at Oshwal College Parklands and Century College Machakos charged with implementation of IT projects, training, monitoring and evaluation, user support, programming, database design and implementation as well as data management. I have skills in IT audit procedures, risk analysis, hardware maintenance and network configuration in Windows/Unix environments. I hold a Bachelor of Science in Statistics and Computer Science (Moi University) and I am writing my final project for a Master of Science Degree in Information Systems at the University of Nairobi.
+
+What we wold like to do as a team is to develop an android native application that will improve farmers' access to market information and motivate their savings culture by posting weekly updates amongst peer organiations. This will keep the savings on an upward trajectory.
+
+Felista:
+Coming soon
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -4070,6 +5294,50 @@ Technologies: super PHP and amazing JS.
 
 ---------------------------------------
 
+# Ghosts. The Team
+
+Programmer & Designer
+
+## Max: 
+I'm interested in educational & useful instruments. And I use PHP + MySQL/MongoDb or C# + MSSQL for do that I want. Also interested in JS as functional programing language.
+
+But don't like any frameworks, don't know why
+
+## Taras:
+Design - its my passion! I always wanted improve peoples life in all areas. This is why I love create Human User Interfaces with perfect User Experience. If you want be professional you must create your products with sincerity and love!
+
+
+---------------------------------------
+
+This is our page
+================
+
+This team is called Go For Broke.  
+
+
+About your team
+===========================
+
+| mortdeus 
+
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000684947508/122b64dedd96542ed80b57e1597df0ae.jpeg' alt='mortdeus'/> | 
+
+Hi my name is Roger and I decided to join because I felt like it would be a fun experience to participate in the first ever virtual hackathon. I am personally inspired by the way the internet has revolutionized and inspired the act of a worldwide collaboration between hackers who collectively work together in open source software projects. 
+
+I believe the internet is a tool that enables for the best possible software to be produced because it provides an open channel for the best minds to communicate and share ideas. In the same way that the internet inspires collaboration, I am fascinated to participate in this virtual hackathon to see if the internet will inspire competition in a similar manner. Are we about to witness an epic battle between the smartest and most creative hackers in the world? I am excited to find out.       
+
+
+About your skills and what you are going to do?
+=======
+I am primarily a Go developer. (the team name being a pun where you run a goroutine on a for loop that calls a function broke; invalid syntax perhaps but "go func(){for{broke();}}" was a bit unwieldy)
+
+I like to poke my head around exotic low level software like research operating system kernels (plan9, inferno, etc) and new language compilers/runtimes. (go, rust, etc).
+
+The project I am going to be working on is a competitive multiplayer game that  
+helps teach Programming with an insight towards key principles like resource optimization and the design of powerful artifical intelligence algorithms.  
+
+---------------------------------------
+
 GoKode
 ================
 
@@ -4085,6 +5353,74 @@ Hello, my name is Archit and I'm a software engineer from Hyderbad, IN.
 Skills
 =======
 Programming: Java, Python, C, C++
+
+
+
+---------------------------------------
+
+Gothic Elephant
+================
+
+Our team consisting of two developers and one designer that works together for a long time.
+
+This is not our first joint project, but our first participation in the Hackathon.
+ 
+
+**Staff:**
+
+**Nickolay Kopylov**
+
+PHP-developer,
+
+Closed Stock Company "Mamba"
+
+**Olimzhon Iuldashov**
+
+Mobile developer. According to the hackathon rules (mobile apps are not allowed) he will be web-developer (both client-side and server-side)
+
+Unofficial employee of Science Institute of Higher Nervous Activity
+
+**Danila Alpatov**
+
+UI/UX designer, client-side developer.
+
+Ekoprom Business Group
+
+
+Project
+================
+
+During the hackathon we intend to develop a project focused on handling such a global problem as psychiatric illnesses.
+
+**Why mental disorders make a global challenge?**
+
+Statistically as many as 20-25% global population suffer this or that mental disease.
+
+Meanwhile this statistics ignores the influence of psychiatric disorders of the sick on their families. It does not take into account the effect on the global economy either (covering expenses for hospital admissions, unemployment, disability allowances, unplanned vacations, etc.). But the latter turns this problem into the most  important one for the mankind.
+
+**Which goals does our project pursue?**
+
+We set two mutually important aims:
+
+**1)**	To collect the information on the illnesses dynamics and various factors influence for further studies and treatment adjustment.
+
+**2)**	To ease as much as possible patients’ sufferings by raising control over the disorder.
+
+**How can our project tackle the problem?**
+
+We are going to develop a system for collecting information about patients’ condition and forwarding the data gathered to doctors, psychologists, therapists, self-aid groups and researchers. 
+
+**What about privacy?**
+
+All personal data are to be syphered and be available for those who will be authorized by the user only. Researches will be able to obtain such information impersonally.
+
+**Which information is the application to collect and how?**
+
+We are well aware of our closest rivals who gather data about moving, talking, etc. and then analyse this information arriving at highly inaccurate results.  But we have chosen another way as it is the patient him/her-self who can be almost the best judge of his/her condition. Our client application is designed as a system for obtaining daily medical history through filling in customized tests.
+
+**Why has our team picked up this topic and why are we confident in our project success?**
+
+The idea for our project was born by our team member Olymzhon Iuldashev who personally had gone through alarm, panic attacks, depersonalization, derealization, depression, psychosis, euphoria, delusion, paraphrenia and schizoaffective disorder. Having but a very close experience of a close friend’s disease our team is aware of how important IT decisions are for mental patients and we know the way to deal with this global challenge
 
 
 
@@ -4149,6 +5485,65 @@ It will be an awesome project created with node and HTML5 stack.
 
 ---------------------------------------
 
+GranaHack
+================
+
+GranaHack is a team from Granada, Spain, coordinated from the [University of Granada](http://www.ugr.es) by the [Free Software Office](http://osl.ugr.es)
+
+
+Here we are
+===========================
+
+From the [OSL](http://github.com/oslugr) we would like to boost the development of free software in the city (and the university) and to have fun while programming. There is a great pool of students, researchers and hackers and we would like to beat up the bushes a bit to know who's there and create, in the future, bigger projects.
+
+|Who | Avatar |
+----| ------ |
+|[JJ](http://github.com/JJ)|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519369785616789504/qrohKeDR_400x400.png' alt='JJ'/>
+|[Pablo](http://github.com/psicobyte)|<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1206823?v=3&s=460' alt='Pablo'/>
+|[Sera](http://github.com/seravb)|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/1315992?v=3&s=460' alt='Sera'/>
+|[Renato](http://github.com/renatolrr)|<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/4101274?v=3&s=460' alt='Renato'/>
+|[Pablo "Ferguson"](http://github.com/fergunet)|<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/3056690?v=3&s=460' alt='Pablo'/>
+
+About your skills and what you are going to do?
+=======
+
+We do a lot of Perl and Java, a good amount of Javascript and a bit of Python.
+
+
+
+---------------------------------------
+
+# Great Idea!
+
+This team is formed by just one people. This maybe don't was a good ideia but first let me try.
+
+<img width="100" height="100" src='http://i.kinja-img.com/gawker-media/image/upload/s--qOw8koA5--/japbcvpavbzau9dbuaxf.jpg' alt='I have no Ideia'/>
+
+### About the "team"
+- [Jv](http://www.twitter.com/JotaV) (aka João Vitor) - Game Design and Developer, fond of Python...
+
+
+---------------------------------------
+
+This is my page
+================
+
+I'm a Python developer and I've been programming since I was 5 years old. So I love it!
+
+
+About your team
+===========================
+
+| grover
+|---
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/7706920?v=2&s=460' alt='Grover'/> |
+
+I've been programming since I was 5 years old. My final goal was to study Systems Engineering, so I applied for that career when I was 16 years old. Now I'm a Systems Engineer and Master in Business Administration. And I'm working on what I love.... Developing systems.
+
+
+
+---------------------------------------
+
 GudegUnited
 ===========
 
@@ -4166,39 +5561,54 @@ Create flexible and fast application.
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
 <p align="center">
+  <img src="http://i.imgur.com/hdNDB46.png"/>
+</p>
+<p align="center"><em>Logo designed by Jumpei-san (・ω・)</em></p>
+
+Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
+
+<p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
 
-Hello, we are a team mostly from Japan (Tokyo), except for one of us, Fan, that I would like to call "Fan Fan". Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
+Although there is an explosion in the popularity of computer science in the United States and other countries, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan, and being and engineer is not a popular job in Japan. We want to change this mindset and situation. Technology and engineering is making the world a better place, and Japanese engineers should contribute to that. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
+<p align="center">
+  <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
+</p>
+<p align="center"><em>
+  TC Hackathon 2014 in Tokyo. ~135 people
+</em></p>
 
-Fanさん以外、私たちは日本にいても、Fanさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
-
+私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
 About Our Team
 ===========================
 
-| Jumpei | Cherry | Fan | Tommy
+| Jumpei | Takuya | Cherry | Tommy | Nam
 |--- |--- |--- |--- |---
-| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg' alt='Jumpei'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg' alt='Cherry'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg' alt='Fan'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg' alt='Tommy'/>
+| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg' alt='Jumpei'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/591981691/icon.png' alt='Takuya'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg' alt='Cherry'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg' alt='Tommy'/> | <img width="100" height="100" src='https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10850519_10205530840778377_121262478_n.jpg?oh=70740ef04dea9b700bbacb35a17ccb4a&oe=5484D376&__gda__=1417991399_4cead31002ddb05da9eb44f98ed7ce35' alt='Nam'/>
 
 
 Jumpei
 =======
-Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery株式会社, and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery Inc., and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the UI/UX designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+
+Takuya
+=======
+Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He will be working as the main developer of the team because of his strength in web engineering, and the fact that he knows lots of web technologies. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
 
 Cherry
 =======
 Cherry is an engineering student at the University of Waterloo, and has a lot of Android and Java experience. She is passionate about Android development, technology, and internet of things. She is currently interning at Microsoft and wants to learn more web development from this hackathon. She will be one of the engineers of this team. She also really likes Gundam. [Website](http://cherryzhang.net)
 
-Fan
-=======
-Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He will be one of the engineers on this team. He also really likes Gundam. [Website](http://thefanzhang.com/)
-
 Tommy
 =======
-Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
+Tommy just recently started app development and web development, and he has fallen in love with it. He used to be a mechatronics engineer at the University of Waterloo, but recently switched to computer engineering so that he can get both a hardware, but more software engineering experience (he loves coding). He has definitely learned a lot of languages very quickly in frosh year, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
+
+Nam
+=======
+Nam is the most recent member of our team, and has years of experience in Android and Java development, and came to Japan and is permanently working here developing Android applications. He frequently goes to the Tokyo Android Group, and is an avid fan of the mobile OS. He also has some web development experience as well, and can't wait to try and learn more about web development in this hackathon. [Facebook](https://www.facebook.com/butchigo)
 
 
 ---------------------------------------
@@ -4226,6 +5636,50 @@ Still brainstorming, probably best ideas always take little time to grow!
 
 
 
+
+
+---------------------------------------
+
+Hack the Planet
+================
+
+| Charlie Sinclair | Simon Girma | Markcus Wallace | Daniel Godfrey | Chris Wesley
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://justinakapaste.com//wp-content/uploads/2014/02/tumblr_n0ckh5eFEZ1trn8dmo1_500.jpg' alt='Charlie'/> | <img width="100" height="100" src='http://cdn1-www.craveonline.com/assets/uploads/2013/02/Hackers-Matthew-Lillard-Cereal-Killer.jpg' alt='Simon'/> | <img width="100" height="100" src='http://showbizgeek.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-18-at-18.53.18.png' alt='Markcus'/> | <img width="100" height="100" src='http://www.kitguru.net/wp-content/uploads/2013/07/zerocool.jpg' alt='Daniel'/> | <img width="100" height="100" src='http://www.hotflick.net/flicks/1995_Hackers/995HAC_Renoly_Santiago_008.jpg' alt='Chris'/> |
+
+Tell us who you are, why you did you decide to join?
+
+We are team Hack the Planet, we decided to join, because we wanted to try a new challenge and face our fear of the internet.
+
+Tell us why you want to win.
+
+Participating is our real test. This will be a great way to test our ability to work as a team. Winning is just icing on the cake.
+
+About your skills and what you are going to do?
+=======
+
+Java, Python, Javascript, HTML, and CSS
+
+We shall conquer problem number 1
+
+
+
+---------------------------------------
+
+# Hack1es
+
+Just two guy with some ideas.
+
+## Team Members
+
+- [siegfried](https://github.com/siegfried)
+- [Herac1es](https://github.com/Herac1es)
+
+## Languages we use
+
+- Ruby
+- Coffeescript
+- Javascript
 
 
 ---------------------------------------
@@ -4303,7 +5757,11 @@ __Why do we want to join the competition?__
 - To have fun, gain experience, meet new people and form a great team.
 
 Our Team
-========
+--------
+
+| Gabriel | Kleber | Rajesh | Venkateswaran |
+|---------|--------|--------|---------------|
+| [<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/432849?v=3&s=150' alt='Gabriel'/>](https://github.com/gdumitrescu) | [<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/245691?v=3&s=150' alt='Kleber'/>](https://github.com/klebervirgilio) | [<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1542998?v=3&s=150' alt='Rajesh'/>](https://github.com/Rajesh-Veeranki) | [<img width="100" height="100" src='https://avatars2.githubusercontent.com/u/9083583?v=3&s=150' alt='Venkateswaran'/>](https://github.com/mailmevenkat) |
 
 #### Name: Gabriel Dumitrescu
 - Reason to participate: Prove that a distributed team can be as productive as a team working in the same room
@@ -4359,26 +5817,7 @@ We will be possibly utilizing NLP technologies and APIs such as NLTK, wit.ai, or
 
 ---------------------------------------
 
-This is our page
-================
-
-We are University of Akron students from Akron, OH who are passionate about software development!
-
-
-About your team
-===========================
-Drew Mazak
-
-
-Jessica Groot
-
-
-About your skills and what you are going to do?
-=======
-We are still brainstorming.
-
-
-
+Omerta
 
 ---------------------------------------
 
@@ -4683,6 +6122,41 @@ We still thinking about our ~~retarded~~ ideas. Don't worry. They will be here s
 
 ---------------------------------------
 
+#ආයුබෝවන්! to "IOsalli"
+
+#About 'IOsalli' Team
+
+"IOSalli" team from Sri Lanka. All the team members are Computer Science undergraduate students of Uva Wellassa University of Sri Lanka. They have participated to several hackathon in the past.
+
+##Team Members,
+
+##1. Thilina Jayawardana  
+
+Thilina is interested and fluent in Javascript, Java, JQuery, PHP and MySQL  
+
+## 2. Nayanajith  Pilapitiya
+
+Pilapitiya has skills on PHP, Java, C#, Android, Javascript, CSS, SQL and MySQL
+
+## 3. Prasad Thilakarathne
+ 
+Prasad is interested in Java, Javascript, MySQL, JQuery and PHP 
+
+## 4. Praveen Buddhika
+ 
+Praveen has skills on Java, PHP, CSS, JQuery, MySQL, Javascript and Android
+
+## 5. Uthpala Bandara
+
+Uthpala is Interested in C#, ASP.net MVC, SQL, Java, Javascript, JQuery and EF
+
+
+
+##Idea will be updated soon
+
+
+---------------------------------------
+
 IQHacker
 ================
 
@@ -4751,6 +6225,47 @@ Tech stack:
 [itbeaver.co](http://itbeaver.co)
 
 
+
+---------------------------------------
+
+#ITStep from Ukraine
+
+
+About your team
+===========================
+- Illya Rochev
+- coming soon
+- coming soon
+
+Tell us who you are, why you did you decide to join?
+=======
+We are team that try to develop great code
+
+
+About your skills and what you are going to do?
+=======
+- HTML5 / CSS3
+- PHP
+- JS / JQuery
+
+
+---------------------------------------
+
+This is our page
+================
+
+We are the Idealisers team : we realise Ideas and help others realise theirs
+
+
+About your team
+===========================
+As a team we already participated in 4 hackathons in the past and already won some prizes. Now it's time to check out the global Hackathon scene!
+
+
+
+About your skills and what you are going to do?
+=======
+We'll brainstorm on day 1 together to get the best idea out of the proposed themes.
 
 ---------------------------------------
 
@@ -5036,6 +6551,58 @@ Our Skills
 
 ---------------------------------------
 
+### Hi there
+we are ['JHackers'] team ,All of us from India and developers.Passion to Learn and do experiments in Programming.
+
+
+## Srinivas Miriyala
+
+### Hi, I'm srinivas2828.
+
+I'm a developer who writes code regularly especially in java and like to learn scripting languages and I felt Koding is a
+platform which will help to learn more scripting and sharing ideas and code with others.lives in Hyderabad,India.
+
+- [github](https://github.com/srinivas2828)
+- [koding](https://koding.com/srinivas2828)
+
+
+## Akshat Singh
+
+### Hi, I'm Akshat.
+
+I'm a developer in java,javascript,shell script and python.currently lives in Pune,india.
+
+ [koding](https://koding.com/log2akshat)
+
+
+
+## Kumaran SB
+
+### Hi, I'm Kumaran.
+
+I'm a developer in java,javascript,bootstrap.currently lives in Pune,india.
+
+ [koding](https://koding.com/javagiri)
+
+
+
+## Aditi Bhatt
+
+### Hi, I'm Aditi.
+
+I'm a student and love to learn scripting and programming.lives in Pune,india.
+
+
+
+
+
+
+
+
+
+
+---------------------------------------
+
 *JLaso*
 
 Patrick JL Laso
@@ -5068,6 +6635,49 @@ How we are getting to the moon...
 =======
 
 I'll be using AngularJS and WebGL to write the frontend and Java on Google App Engine to persist state.tea
+
+---------------------------------------
+
+# Jasko Koyn
+
+### About
+
+I'm a guy that just loves to code, eat food and play music.
+
+##### Members
+- Jack
+
+##### My Essential Toolkit for creating awesomsauce web apps!
+- Food
+- PHP
+- JavaScript
+- My Bed
+- Music
+
+
+---------------------------------------
+
+JavascriptCebu
+==============
+
+
+### 1. Seth Malaki
+
+***title : Alien***
+
+<img width="100" height="100" src='http://www.gravatar.com/avatar/5c69408a6e17d591b402d2e9bce54ca9?s=200' alt=''/>
+
+### 2. Neil Paul Molina
+
+***title : Alien***
+
+<img width="100" height="100" src='https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c66.66.828.828/s160x160/181307_4188399912827_365751004_n.jpg?oh=16fad2f5da68f679cb5e9572bfd07f61&oe=54FD4DF0&__gda__=1426938171_60ac2a71e40f482571b000de7b1698f2' alt=''/>
+
+### 3. Gerard Banasig
+
+***title : Alien***
+
+<img width="100" height="100" src='https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xfa1/v/t1.0-1/c33.33.414.414/s160x160/420016_10151406572333124_2147372793_n.jpg?oh=b620b5ab86af14f95ca642f9a340a60a&oe=5518FD8E&__gda__=1427655362_9e8d1df886d6ae62b955d81ea26a9a92' alt=''/>
 
 ---------------------------------------
 
@@ -5105,14 +6715,32 @@ I really would have like have more prepared for this event, but... Thanks and aw
 # Just Dev It
 
 Just a few guys who enjoy solving problems with code. Our curiosity drives us.
+Before we were programmers we started out as candle makers and milliners
 
 ## About Us
 
-5 guys who studied Computer Science at Anderson University in Anderson, IN.
+4 guys who studied Computer Science at Anderson University in Anderson, IN.
 
-## Languages We'll Likely Use
+Languages we know
+COBOL, Prolog, Perl, Lua, Haskell, Action Script, C#, Vb script, SQL, Entity framework
 
-- Javascript
+What we like to do / mad skillz:
+Video games, writing code and eating pizza, metalurgy forging, fencing, candle making, bench press 450
+
+Our favorite web browser: IE 7 / netscape
+
+we like brazillian steak houses and brazillian women
+
+we are pokemon the trading card game champions
+
+## Languages We'll Likely Use for hackathon
+
+- probably Javascript
+- node.js
+- fortran
+
+My dad is better than your dad
+
 
 
 ---------------------------------------
@@ -5286,6 +6914,13 @@ We will tell more about us later...
 
 ---------------------------------------
 
+# Keepers Team
+
+
+
+
+---------------------------------------
+
 #KerkezoiWarriors
 
 A team with warrior spirit
@@ -5324,6 +6959,35 @@ Coming soon...
 
 ---------------------------------------
 
+This is our page
+================
+
+Yo, this is Mallowigi from the Klarth Corporation. Please refrain using tomes in public places.
+
+About your team
+===========================
+
+| mallowigi
+|--- 
+| <img width="100" height="100" src='http://gallery.abyssalchronicles.com/albums/userpics/10002/klarth_3.jpg' alt='Klarth'/>
+
+What, do you really read this? 
+
+Ok my name is Klarth and I am a developer from the city of Euclid, Sylvarant. Nice to make your acquintance.
+
+My Skills
+=======
+I am highly talented into tome magics, but I'm also programming on my free time.
+
+Loved languages and frameworks:
+* Javascript
+* Coffeescript
+* Node.JS
+* AngularJS
+
+
+---------------------------------------
+
 Knecth
 ================
 
@@ -5341,6 +7005,21 @@ I believe web is great tool that can be used to enhance our lives.
 Because of all the development difficulties people are being less creative and less efficient when pushing the envelope of web possibilities.
 
 My plan is to create one of educational prototypes for this first global hackathon, primarily using JavaScript.
+
+
+---------------------------------------
+
+#TEAM THE KNIGHT KODER
+
+Now I am alone in this team and I  like to do new things in programming and learn New awesome things.
+
+#ABOUT MY TEAM:
+  Name : Nabin Bhattarai
+  -> I love coding and solving problem in different and check which one is efficient one.
+     I love opensource and Linux.
+#Langauge:
+  -> C++
+  -> Python
 
 
 ---------------------------------------
@@ -5402,6 +7081,52 @@ We are Creaters and Demolishers....!!!
 
 ---------------------------------------
 
+Kodeeo
+================
+
+We are team Kodeeo. We virtualize your problems into solution to give you a better world.
+
+
+The team
+===========================
+
+| smseleem |
+|--- |
+| <img width="100" height="100" src='http://i0.wp.com/www.sumonselim.com/wp-content/uploads/2014/10/pp.jpg?fit=300%2C300' alt='Selim'/> |
+
+I am a passionate web/mobile application developer coding since last 6 years. It was my hobby when I started coding.
+
+But now-a-days, I can see it's actually a tool, a super power that you can use to solve problems - actually real life problems. To make human life more simple, comfortable and beautiful. To make a better world.
+
+This is my main inspiration to join this hackathon and I will build something that will actually open a path to bring some goodness in people's life.
+
+I will want other change makers to join me and be my companion to continue this run :) Happy coding!
+
+
+Skills and Project
+=======
+I have more than six years of working experience working with PHP and MySQL. Currently I do most of my development works with Laravel 4. I have sound knowledge on front-end development and I use Bootstrap most of the time. Started developing both native and hybrid mobile app now-a-days.
+
+We will build a web app that will try to solve the biggest problem of third world cities - "Transportation Problem".
+
+Features:
+* Traffic Jam Updates
+* Car Pooling
+
+API to be used:
+* Facebook
+* Google Geocoding
+* Twitter
+* Google Maps
+* Google AJAX Libraries
+* Mashape
+* Sprintly
+* APITools
+* Intuit
+
+
+---------------------------------------
+
 TEAM KOLIAS, GO!
 ================
 About our team:
@@ -5443,6 +7168,18 @@ a class at UC Berkeley and have coded together winning multiple small scale hack
 - Python
 - Ruby (not Alice)
 - Javascript
+
+
+---------------------------------------
+
+Kuafu is a giant in Chinese mythology who wished to capture the Sun, while team kuafu is a team focus on opensource php projects that bring light to people.
+# Our technology
+-PHP (laravel, magento, drupal, wordpress)
+-Javascript (jQuery, prototypejs)
+-Mobile (phonegap, intel xdk, ionic)
+-Mysql
+-Flex
+-Keep learning...
 
 
 ---------------------------------------
@@ -5512,6 +7249,31 @@ We are really interested in educational aspects of #3 but #1 and #5 also has our
 
 ---------------------------------------
 
+LOL
+=============
+We're doing this for fun!
+
+
+What we're going to do
+=============
+We have a front-end developer, a designer, and a full-stack developer. We'll probably do something based on the Laravel framework but we still got some brainstorming to do. :)
+
+---------------------------------------
+
+# Team Lage
+
+Hello, my name is Dinis and I've been in Web Development for the past 6 years.
+I decided to join this hackaton for the fun of it. I'm still not sure what the contents of it will be but look
+forward for some challenges that make me play outside the _comfort zone_.
+
+### Languages on my daily life
+
+- Ruby
+- Perl
+
+
+---------------------------------------
+
 We are the "Lamp" and we are awesome
 
 ### devpony ###
@@ -5561,6 +7323,27 @@ API is my passion and I'm going to show how the API will change the world and yo
 
 ---------------------------------------
 
+Team Lemonsweat
+
+About your team
+===========================
+
+| adrianlee | jerechua
+|--- |---
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/793431?v=3&s=150' alt='adrianlee'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/1859344?v=3&s=150' alt='jerechua'/> |
+
+We are friends looking for an excuse to build something for fun and for a purpose. Instead of procrastinating, we decided to make something happen with this hackathon!
+
+
+About your skills and what you are going to do?
+=======
+We want to experiment with new languages such as GO but is now the time? Otherwise, node.js or phython.
+
+We are brainstorming projects for theme 2 & 3 
+
+
+---------------------------------------
+
 Lexington Techs
 ================
 
@@ -5599,6 +7382,21 @@ I plan to use a python related web development framework, javascript, html5 and 
 
 ---------------------------------------
 
+All our team members are final year students at IIT Roorkee with interests ranging over a wide spectrum of topics. 
+
+**Samyak Datta** is an ML enthusiast and a budding Computer Vision researcher.
+
+**Jitesh Khandelwal** specialises in web development, both back-end and front end.
+
+**Vishal** has managed to create his own niche in Android development and game programming
+
+**Nitesh Kumar** is the creative genius in our group who specialises in UX/UI.
+
+**Aayush Gupta**, our future Facebook engineer is another Android enthusiast.
+
+
+---------------------------------------
+
 # M-Team
 
 My team is still a one member team but soon we will be 2 or 3 members :)
@@ -5617,6 +7415,17 @@ My team is still a one member team but soon we will be 2 or 3 members :)
 - Unity 3D
 - PhoneGap
 
+
+---------------------------------------
+
+Team MAACC is
+===========================
+WIP
+
+
+Our project is about
+===========================
+WIP
 
 ---------------------------------------
 
@@ -5645,6 +7454,31 @@ along with some APIs, had my brain work in nitrous mode for 24 god damn hours, a
 I have also learnt Java, Python and can do basic coding in them. I am passionate about DB though, but I like coding too.
 
 #Peace
+
+
+---------------------------------------
+
+# MLPIC
+
+We are a team of creative and with a great experience of attending such events. Although the online version of the event we are new. Our experience is more than 6 years of programming in the field of web development and game development. These events force us to work more efficiently and to create something new and interesting to us and to the people.
+
+## Languages and DB :
+
+* C#
+* asp.Net
+* PHP
+* Javascript
+* Java
+* C++
+* HTML
+* CSS
+* Mysql
+* MongoDB
+
+## About Us
+
+We can tell a lot on this we'll just win and talk personally)
+  
 
 
 ---------------------------------------
@@ -5690,6 +7524,32 @@ As the theme of this hacketon is problems faceing the earth, and as I recently w
 Hi, this is Rafael Matsuyama writing, I'm a entrepreneur and software developer, anxious to do this hackathon! \o/
 
 Hi, this is Luckas Farias writing, and I'm a software and hardware developer, anxious to do this hackathon! \o/
+
+
+---------------------------------------
+
+# The Magento Team
+
+We are Prakash, Prabin, Rajan and Michael working for Magento related Application for long time. 
+
+# About US:
+  - Prakash : Magento Expert and also working in Nosql databases like MonongoDB, Ccouchbase and Rethinkdb. 
+  - Rajan : Design Expert.
+  - Prabin : mobile applications plus responsive design
+  - Michael: visualization
+  
+  ## Language we love
+  - PHP
+  - JavaScript & Nodejs
+  - XQuery & XPATH
+  
+  ## Databases:
+  - Mysql
+  - BaseX(XML database)
+  - Mongodb
+  - Couchbase
+  - Rethinkdb
+  
 
 
 ---------------------------------------
@@ -5761,6 +7621,13 @@ My Stack
 
 ---------------------------------------
 
+#Team manalee
+
+I am manali. I love machine learning.
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -5770,25 +7637,23 @@ We are Team Maracanã, in honor to the home of brazilian football teams from Rio
 About your team
 ===========================
 
-| lalkmim | coutinhop
-|--- |---
-| No picture | No picture
+| lalkmim
+|--- 
+| No picture
 
 Tell us who you are, why you did you decide to join?
 
-We are work colleagues, heard about hackathon and decided to join.
+I heard about the hackathon through a friend and decided to join.
 
-We're both first timers on hackathons and our goal is to see how far we can go.
+This is my first time on a hackathon and the goal is to see how far I can go.
 
 
 About your skills and what you are going to do?
 =======
 
-lalkmim: been a web developer for 8 years, strong background on Java and JS
+I've been a web developer for 8 years and have a strong background on Java and JS. User interface design is my main problem.
 
-coutinhop: not so experienced programmer with background mostly in UNIX and C
-
-Our goal is to develop a game that can be an entry point to anyone into the programmin world.
+The goal is to develop a game that can be an entry point to anyone into the programming world.
 
 ---------------------------------------
 
@@ -5816,6 +7681,30 @@ We are Eric, Gerry, and Irene. We are all from UBC and love creating awesome and
 
 ---------------------------------------
 
+MaxusMS
+================
+
+I am a senior Drupal Developer based in Molde, Norway.
+
+
+My Team
+===========================
+
+| Sven. Senior Drupal Developer
+
+
+Skills and intended project
+=======
+- PHP
+- CSS3
+- HTML5
+- Javascript
+- JQuery
+- Drupal
+
+
+---------------------------------------
+
 <p align="center"><img src="https://raw.githubusercontent.com/3emad/koding-hackathon/23db3c2/Maze/Mazesolve_bbc.gif"/></p>
 
 Welcome to the Maze
@@ -5832,6 +7721,30 @@ About Our Team
 |--- |--- |
 | <img width="100" height="100" src='https://s.gravatar.com/avatar/dbc38b4a6b385c35d98cbde918134103?s=120' alt='Emad'/> | <h5>Emad Al-Shihabi</h5> [Website](http://www.3emad.com) <br /> A passionate software engineer specialized in web development <br />techonologies who loves to hack prototypes once an idea pops up in his <br />head or he couldn't find a tool to help him with his life daily.  |
 |<img width="100" height="100" src='https://s.gravatar.com/avatar/55fa7c8732748824675b5b6bc0429686?s=120' alt='Myrddin'/>|<h5>Myrddin Emrys</h5> [Website](https://plus.google.com/+MyrddinEmrys/posts) <br/>Having worked in IT for twenty years as a Network Admin, Web Developer, <br />Database Analyst, and a lot of other buzzwords, Myrddin was the sole <br />technical employee at his first job, a small ISP, and wore every hat. Since <br />then he has grown to prefer helping people use technology by making <br />systems easier to use and supporting them directly. He is a jack of all trades <br />and master of few.|
+
+
+---------------------------------------
+
+MedTeam
+================
+
+Hi, team contain only one member
+
+
+About My team
+===========================
+
+That's my first time to participate in hackathon,  I love coding... i have created few project just for fun...
+
+
+
+skills
+=======
+PHP
+HTML
+JQUERY
+CSS
+JAVASCRIPT
 
 
 ---------------------------------------
@@ -5882,6 +7795,42 @@ Hello from Belarus, Global Hackathon!!!
 
 ---------------------------------------
 
+MidnightDesign
+================
+
+<table>
+<tr><td>
+<img src="https://pbs.twimg.com/profile_images/1389022310/brooks_0037_head_200x200.jpg" />
+</td><td style="text-align:center">
+<p style="font-style:italic;">Teaching computers<br />to make art with just some code.<br />It is what I do.</p>
+<p><a href="https://github.com/MidnightLightning">GitHub</a> &bull; <a href="http://twitter.com/midnight426">Twitter</a> &bull; <a href="http://www.linkedin.com/in/midnightlightning/">LinkedIn</a></p>
+</td></tr>
+</table>
+
+I am Brooks Boyd; designer and developer. I love making wonderful things, and using code to do so is just another way to create art in my mind. I've been developing web applications for nearly two decades now, and joined into this Hackathon as a means to focus on one of several projects I've been toying around with.
+
+About your skills and what you are going to do?
+=======
+I'm a long-time PHP developer, and as the technology has been shifting more client-side, getting more and more emphasis on Javascript in addition to HTML5 and CSS skills.
+
+For this Hackathon, I'll be working on a project pursuing theme number 4 (HTML5 games that are educational and learning oriented); I have a game I created years ago in PHP, that I'll be updating to use HTML5 advancements to make it much more interactive. I'll be utilizing the [Meteor](https://www.meteor.com/) Javascript/[NodeJS](http://nodejs.org/) stack, and possibly adding in the PubNub service for game interaction notifications that need to be faster than Meteor's default two-way binding updates allow.
+
+
+---------------------------------------
+
+# Mindvalley Steam
+
+| Jimmy | Ramin | Maryam | Victor |
+|---|---|---|---|---|
+|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/377774?v=3&s=460' alt='Jimmy'/>|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/1049480?v=3&s=460' alt='Ramin'/>|<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/6123182?v=3&s=460' alt='Maryam'/>|<img width="100" height="100" src='https://avatars2.githubusercontent.com/u/949409?v=3&s=460' alt='Victor'/>|
+
+Languages
+===================
+- Ruby
+- Javascript
+
+---------------------------------------
+
 # team miracle
 
 i am jabir ali
@@ -5891,6 +7840,48 @@ i love actionscript
 
 #language i use
 as3
+
+
+---------------------------------------
+
+#Welcome, we're team Mirai （未来）！
+
+
+#About Us
+Neither of us have a lot of experience in anything specific, but we hope to learn a lot from being in this Hackathon (also our very first!)
+We are both of Grand Rapids, Michigan and we are seniors at West Michigan Aviation Academy. 
+
+
+- Brandon Azer -
+Currently a senior in high school. My desired major in college in Computer Science. I have taken a small course in VB.net, curently learning and developing an iOS application and learning Swift as I do that. I'm really interested in how programs work and I've started to make plans for future projects as I learn new things. In my free time, I like to play Osu (music game) and games in general, play piano, and learn Japanese. 大学後で、日本に住みたいです。
+
+
+- Henry Velasquez aka *MC Ultimate Slacker/Master Procrastinator* -
+I don't have much programing experience other than a course in VB.net but I would like to gain experience. One of my main hobbies is being part of First the robotics club. 
+I am deciding on Majoring in Mechanical Engineering or Computer Science.
+
+
+
+
+---------------------------------------
+
+# Team MoeABM
+
+I am Andrew Moore. I am a CS graduate of CSUB and currently work at KGTV channel 10 as IT manager.
+
+## About me
+
+- Andrew: This is my first Hackathon and am very excited to be apart of the adventure!
+
+## Languages/Frameworks I have worked with
+
+- Javascript
+- Ruby (via RoR)
+- Bootstrap
+- C/C++
+- Java
+- PHP
+- more...
 
 
 ---------------------------------------
@@ -5947,6 +7938,23 @@ Marilia Ferreira @m_ntns
 
 ---------------------------------------
 
+# Mulish
+
+A kenyan developer who is in it to win. Wooohh!!, lets do this.
+
+## About Me
+
+-Mulili: My name is mulili and I love javascript, c++, java
+
+## Languages I love
+
+-Javascript
+-Java
+-C++
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -5967,6 +7975,29 @@ About our skills and what we are going to do?
 Our skills: HTML5, CSS3, Javascript, jQuery, BackboneJS, AngularJS, Twitter Boostrap, Ruby on Rails, MySQL, PostgreSQL, MongoDB.
 
 We are thinking of building an application to help the world increase their awareness of issues which our planet is facing today. We could not share more at the moment :).
+
+---------------------------------------
+
+
+# Naigra
+
+We are a Computer Science and Engineering student team from University of Moratuwa
+
+## About Us
+
+-Jawadh:
+-Murshith:
+-Safwan:
+-Riyafa:
+-Amanda:
+
+## Languages we love
+
+-Java
+-PHP
+-JavaScript
+
+
 
 ---------------------------------------
 
@@ -6083,6 +8114,18 @@ Bring the thunder!
 
 ---------------------------------------
 
+
+#nicewalnutstudios
+
+We will be creating a multiplayer game :-)!!
+
+##About US
+
+We will be using HTML5 to do that using Construct SDK
+
+
+---------------------------------------
+
 Hello everybody,
 
 my name is Stefan Blamberg, I am a 17-year-old hobby developer from Germany and this is my first hackaton.
@@ -6149,10 +8192,31 @@ We are part of a young start-up, and we joined this hackathon to challenge ourse
 About skills and project
 ========================
 The goal of our project is to show the correlation between good analogies and the mastering of programming skills via simple games. This corresponds to the second theme.
-To be fair, we can work with many languages and frameworks. But, for this particular project, we may use only these:
-	- C
-	- VB.NET
+To be fair, we can work with many languages and frameworks. But, for this particular project, we may use these:
+	- C || Lua || Php
 	- HTML and JS
+
+
+---------------------------------------
+
+##NoobThunder
+
+ we love coding ;;
+
+##Our Team
+
+ #Kishore K J 
+ 
+ #Dinesh Kumar 
+ 
+ #Bhavani Ravi 
+
+##About Us
+-Kishore : i love to code in C++
+
+-Dinesh : i love to code in C
+
+-Bhavani : i love to code in java
 
 
 ---------------------------------------
@@ -6198,6 +8262,17 @@ but there is more we can do. I'm gonna work for it!
 
 ---------------------------------------
 
+
+# Nt9142
+
+Hi there! I'm Nikita, and I love programming.
+
+I'm good at JS and PHP languages.
+
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -6214,6 +8289,69 @@ About our skills and what we are going to do?
 - Java
 
 
+
+
+---------------------------------------
+
+This is our page
+===========================
+
+Hi, i'm Pulpo, and i am proud to present our team 'Octomouse'. 
+
+We are a bunch of friends, with a history of many years working and studying together.
+
+I met Brain at tech school, we've been bench mates, and made many cool science fair projects toghether! Nowdays we are both teachers at the same school :)
+
+Pinky and The Brain are best friends since forever, and they rocked the university together, they are now two awesome engineers.
+
+We are all cubicle mates at our actual job, wich is great.
+
+About octomouse
+===========================
+
+| Germán 'Pulpo' Bobr | Ricardo 'Brain' Bevilacqua | Facundo 'Pinky' D'Aranno
+|--- |--- |---
+| <img src="https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10375098_10204775796903185_3680917940863290559_n.jpg?oh=08e89cf944bd03e99f9ca5b25069b5ea&oe=551B65C6" width='200px'/> | <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/314378_2333916556225_1689479_n.jpg?oh=a92429c204006b52dbfea83377455caf&oe=5515566D&__gda__=1423036980_8d6f85b7b463ad54541766ee515dc3cf" width='200px'/> | <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/299042_2408892619397_838105690_n.jpg?oh=2029eebce13f04f27aff5b55c0fbe5f5&oe=54D3812E&__gda__=1427047910_66709804040ee4a3b303f3f2461c9607" width='200px'/> |
+
+Pulpo
+===========================
+**Roles:** _Coding octopus_
+
+<img src="http://www.finalfantasy500.com/500/charimagessz/ultros3.jpg" width='100px'/>
+
+I am coding since i was 14. 8 years doing that professionally. I changed jobs so many times that i'm not deeply experienced in any language or tool but i learned a lot along the way.
+I joined this hackaton because i love challenges and i want to do something fun an exciting.
+
+
+The Brain
+===========================
+**Roles:** _Lab rat, world coqueror, evil mastermind_
+
+<img src="http://images.sodahead.com/profiles/0/0/3/6/3/1/7/0/3/Pinky-and-the-brain-107523493925.jpeg" width='100px'/>
+
+
+He is too bussy trying to conquer the world, so he can't write his description. 
+
+I'll do it for him: He is awesome, creative, and a great coder. Specialist in database design.
+
+Pinky
+==========================
+**Roles:** _Lab rat, spoiling world conquers mastermind, narf!_
+
+<img src="https://pbs.twimg.com/profile_images/549419368/Pinky.jpg" width='100px'/>
+
+
+He is too bussy bothering the brain and spoiling his plans, so he can't write his description. 
+
+I'll do it for him: He is awesome, creative, and has an eye for perfection. Specialist in web technologies.
+
+
+About your skills and what you are going to do?
+=======
+
+We are a solid team, with great communication, we are mostly experienced in web and backend development.
+
+Our goal is to have fun making something both challenging and innovative for this global hackaton!
 
 
 ---------------------------------------
@@ -6352,13 +8490,13 @@ Welcome to Team OurBrilliance!
 </p>
 
 We are a group of high school students with varying degrees of experience with code and a burning passion for creation! We're looking forward to working with all of the frameworks we can here!
-For Qile, Akash, Arsalan and Fiza, this will be our second ever hackathon. It'll be the first one for Mona! We're all here to learn as much as we can, and do our very best to make something great!
+This will be our second ever hackathon, but not together.  We're all here to learn as much as we can, and do our very best to make something great!
 We're all psyched out to be a part of the world's first ever global virtual hackathon!
 
 
-| Qile | Akash | Andany | Fiza | Mona
+| Qile | Akash | Andany | Fiza | Lahiru
 |--- |--- |--- |--- |---
-| <img width="100" height="100" src='http://i.imgur.com/UH74YC5.jpg' alt='Qile'/>| <img width="100" height="100" src='http://i.imgur.com/ixbdc3o.jpg' alt='Akash'/>| <img width="100" height="100" src='http://i.imgur.com/vrpZDn1.jpg' alt='Andany'/>| <img width="100" height="100" src='http://i.imgur.com/UnBkSZG.jpg' alt='Fiza'/> |<img width="100" height="100" src='http://i.imgur.com/z8AsmZZ.jpg' alt='Mona'/>|
+| <img width="100" height="100" src='http://i.imgur.com/UH74YC5.jpg' alt='Qile'/>| <img width="100" height="100" src='http://i.imgur.com/ixbdc3o.jpg' alt='Akash'/>| <img width="100" height="100" src='http://i.imgur.com/vrpZDn1.jpg' alt='Andany'/>| <img width="100" height="100" src='http://i.imgur.com/UnBkSZG.jpg' alt='Fiza'/> | <img width="100" height="100" src='http://i.imgur.com/GfWRX9L.jpg' alt='Lahiru'/>|
 
 
 Qile
@@ -6384,14 +8522,13 @@ Fiza
 ========
 Fiza is an ambitious Software Engineer, currently in highschool. She is a self-taught coder and has experience coding in JavaScript, Python and Perl. She is passionate about robotics, photography and coding. Geek at heart and ready to code the next big phenomena with team OurBrilliance.
 
-Mona
+Lahiru A.K.A. "Larry"
 ========
-Mona Shamte is a canadian twelfth grader. She is originally from Dubai.
-Mona loves to code and is super psyched about participating in the
-world's first virtual hackathon. She is a proficient java-and-html-er
-and looks forward to putting her skills on the test. She is often called 
-the newb of her group (as this is her very first hackathon ever) but 
-she's here to shake that title off!
+Larry or Lahiru, is the youngest of the group. Dragged in against his own will, Larry will be experiencing his
+first hackathon. He is a grade 11 IB student hoping to continue his studies at the University of Waterloo for Software Engineering or Computer Science. 
+Larry is fascinated by the world around him, like how engines work, why are some trees' bark so thick, why are there hats? 
+and where is the human race headed towards. Larry is proficient in Java, HTML/CSS and a little bit of Objective C / Swift. Remember to
+feed him regularly, as he becomes fiesty and will not work! (or maybe he's just lacking the essential nutrients to stay alive).
 
 
 ---------------------------------------
@@ -6405,6 +8542,23 @@ she's here to shake that title off!
 - PHP
 - JavaScript
 - HTML/CSS
+
+
+---------------------------------------
+
+# Who are we ?
+- We Are PEKKA , we are student & try to do programming for fun & learning we mostly love problem solving
+  
+# What are we going to do ? 
+- as this is our first hackathon , so we gonna see what can we do & we want to do some algorithm development & implementation 
+
+
+# Programming languages
+- C/C++
+- Java
+- Javascript
+- PHP
+- SQL
 
 
 ---------------------------------------
@@ -6487,6 +8641,29 @@ javascript, php
 
 ---------------------------------------
 
+Peekaboo!
+================
+
+* Dr Jekyll as back-end developer
+* Mr Hyde as front-end developer
+
+
+I am
+===========================
+
+<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/029/017/2c58c5c.jpg' alt='Miodrag'/>
+
+An experienced C#/.NET & JavaScript developer with roots in C programming language. 
+
+
+Gonna/Wanna
+=======
+
+Make a concerted effort to build a very simple app. 
+
+
+---------------------------------------
+
 # Team PhelanGood
 One man, on a mission, to save the world through the Koding Global Hackathon. Just kidding.
 
@@ -6537,6 +8714,30 @@ Project
 ------
 
 To Be Defined
+
+---------------------------------------
+
+Phoenix Rising
+================
+
+Phoenix AZ based team.
+
+
+About your team
+===========================
+
+| Alex
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2963968330/7701c91ab26f6b6411e3293fbba61936.png' alt='Evilnames'/> 
+
+Development team that loves to create cool stuff that people actually want to use each day.  We came into this contest to build something fun for a weekend and get our minds off of our day to day regiment.  Our goal is to build something amazing and have it functionable at the end of the weekend.
+
+About your skills and what you are going to do?
+=======
+Developing using Javascript, PHP, MySQL, MongoDB and other technologies.  
+
+
+
 
 ---------------------------------------
 
@@ -6631,14 +8832,15 @@ Welcome to Plummy
 
 We are the Plummy team, so we are participating.
 That's not it, well yeah, we are team in both real world and this koding event. We are doing many projects as a startup currently. All of our team are Indonesian, but one of our team currently living in Melbourne.
-We always work remotely and this event is our chance to do some work together and train our work team.
+We always work remotely and this event is our chance to do some work together and train our work team (and conquer the world).
+This is our double live. To live as a coder, die as a legend.
 
-About your team
+Sounds Plummy :)
 ===========================
 
-| bagus | rizky | bayu
-|--- |--- |--- 
-| <img width="100" height="100" src='http://plummy.web.id/images/maja.png' alt='Bagus'/> | <img width="100" height="100" src='http://plummy.web.id/images/rizky.png' alt='Rizky'/> | <img width="100" height="100" src='http://plummy.web.id/images/bayu.png' alt='Bayu'/> 
+| bagus | rizky | bayu | adit
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://scontent-b-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/155991_3985471201867_748649182_n.jpg?oh=3b29b1b628ff7b2709b0f56819c13d22&oe=551C6B5E' alt='Bagus'/> | <img width="100" height="100" src='https://scontent-a-sin.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/20036_105831439443381_1491895_n.jpg?oh=fac8361d23bf14607bc62f1f94063a01&oe=54FB283B' alt='Rizky'/> | <img width="100" height="100" src='https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1794696_10202024983039989_1758303051_n.jpg?oh=5932b9ee6d5c016f724b86e350ca30d2&oe=550E95FA&__gda__=1426117920_6c28aeb9534154d5c551cb520eeeac01' alt='Bayu'/> | <img width="100" height="100" src='https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/321164_2714223663893_1467828379_n.jpg?oh=175896402103a3d2b320013f3fa74000&oe=550B72A1&__gda__=1427307880_3599150be350fdf4b23daa3530587fc7' alt='adit'/> 
 
 Bagus
 ----------
@@ -6654,6 +8856,10 @@ Bayu
 --------
 
 Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is also our business guy, please talk money with him.
+
+Adit
+-------
+Size doesn't matter. She might be small yet powerful designer. One and only girl in our team. 
 
 
 
@@ -6679,6 +8885,23 @@ About your skills and what you are going to do?
 =======
 
 Java.
+
+
+---------------------------------------
+
+# Prime 57
+
+We are Prime 57 and are passionate about making the web beautiful.
+
+## About Us
+
+We are a team of two. We have both been doing software engineering for over 5 years, and started at very young ages.
+
+## Our Skills and Plans
+
+We have both explored the many regions of computer engineering, from artificial intelligence, to Node.js, and have loved every minute, well except when we had to recompile gcc from source ;-)
+
+We see the biggest problems in tech, the ones that everyone seems to avoid, but the difference is, we’re not afraid to address them.
 
 
 ---------------------------------------
@@ -6755,6 +8978,37 @@ After a while, I asked the other two members to join us in this hackathon, **Ken
 
 The team's **goal** for this competition is to *have fun* in the hackathon, *show what we can do* and *what we can contribute*. We think that this event is a **big help** for us to reach our goal which is to create our own **start up company** which can be beneficial for a lot of people. *Winning* in this competition might be **hard** and **intimidating**, but what isn't? We'll give it a shot and do our **best**!
 
+Team Members
+========
+
+Ron
+=======
+A guy with big dreams. He loves to create different things and knows programming can take him there.
+
+| Ron
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-ron.jpg' alt='Ron'/>
+
+Kenneth
+======
+Programming master/ninja. He loves js so much that he uses it for a living.
+
+| Kenneth
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-kenneth.jpg' alt='Kenneth'/>
+
+Joell
+======
+He is a Mozilla Representative. He inspires others (mostly students) by giving talks to different mozilla events in the Philippines.
+
+| Joell
+|----|
+| <img width="100" height="100" src='http://pumpeddevs.com/images/koding-joell.jpg' alt='Joell'/>
+
+Bryan
+======
+He loves programming.
+
 About our skills and plans?
 =======
 All of us use the following technologies:
@@ -6792,6 +9046,11 @@ We are students from Taiwan, we love hackathon and enjoy coding!
 - Perl
 - Shell
 
+## What we want to do
+- We aim to do the fifth theme ( Challenges associated with real time communication and translation )
+- Since it is a real-time web app, we think PubHub's api may help. And we will also use the google api to process the audio.
+- The first application we thought about this theme is a chat room. However, it's kind of boring if it's only able to do communication and translation. Therefore, we want to build it as a game. Users not only communicate, but also attack others with the cannonball formed with translated words. Users will understand the meaning of others' responses, so we think the dialog won't become impolite. The length of sentences in competitor's language and the time of attack may affect the result. We think the users will need some time to find out the strategy to win, so in our opinion, it will be a BRUTAL game!!!
+
 
 ---------------------------------------
 
@@ -6819,6 +9078,26 @@ Since we are not github users, please refer to our projects on bitbucket:
 
 ## Project
 When the last tree is cut, the last river poisoned, and the last fish dead, we will discover that we can't eat money...
+
+
+---------------------------------------
+
+
+Welcome to Team RIKSOF!
+================
+
+[RIKSOF is a team of web and mobile app developers](http://www.riksof.com). We love being part of startups looking to build high-impact, innovative products.
+
+The Team
+===========================
+
+| Khurram | Zeeshan | Lalani |
+|:----:|:----:|:----:|
+| <img width="100" height="100" src='https://dl.dropboxusercontent.com/s/fvb5di7forgt3ia/lead.jpg' alt='mkhurramali'/> | <img width="100" height="100" src='https://dl.dropboxusercontent.com/s/qksqhfxxcg5gf82/d1.jpg' alt='mzeeshan'/> | <img width="100" height="100" src='https://dl.dropboxusercontent.com/s/wy5sgbdyfux2yzh/d2.jpg' alt='zzlalani'/> |
+| I have been part of the tech industry for over 14 years and have had the fortune of working in a variety of industries including embedded, web and finally mobile. | Stand out of the crowd! Over 5 years producing mobile an web applications, I bring creative ideas to the virtual life. I am passionate about my work and I like to get things done well. I develop web based applications using PHP, MySQL, JavaScript, jQuery, Zend Framework and Node.js. | Highly motivated and dedicated software engineer & architect with comprehensive knowledge, can work tirelessly under stress and strain. Excellent experience working with object oriented PHP & MySQL using Yii MVC framework and Objective C iOS. |
+| Rehan | Sharjeel | - |
+| <img width="100" height="100" src='https://dl.dropboxusercontent.com/s/asbngo8y0lvj27h/q1.jpg' alt='riksof-rehan'/> | <img width="100" height="100" src='https://dl.dropboxusercontent.com/s/a2xp5bw63imyl38/d3.jpg' alt='sharjeelkhan'/> | - |
+| Passionate QA Professional having worked on multi-dimensional projects. Love challenges that test my conceptual, technical and managerial skills. | I am a Graphic Designer with fresh ideas. I specialize in User Interface Design and Development. I build clean, appealing, and functional interfaces that comply with the latest web and mobile standards. | - |
 
 
 ---------------------------------------
@@ -6873,6 +9152,29 @@ About your skills and what you are going to do?
 I'm interested in both the theme of realtime communication and translation and the theme of problems facing our planet and data visualization.
 
 I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather some other devs/designers and come up with a more concrete idea soon.
+
+---------------------------------------
+
+#Razrs
+================
+
+We are #razrs. We shall put more here later.
+
+
+About your team
+===========================
+
+| amcorreia | perfectmak | walexi4great | saopayne | lolzballs | 
+
+We are razrs. We have people from North America, South America and Africa!
+
+More stuff happening here when stuff gets decided.
+
+About your skills and what you are going to do?
+=======
+We are #razrs and all we know is saopayne is working on the frontend and everyone else backend. Meetings will be held shortly to decide things. Going between PHP(CakePHP) or Node.JS for backend.
+
+
 
 ---------------------------------------
 
@@ -6992,6 +9294,30 @@ We are Giang, Hoat and Tham from Viet Nam and we will give you awesome app!
 
 ---------------------------------------
 
+# Retarted Robots
+
+  The name of the team inspired from "Codi the retarded Robot".
+
+## About us
+
+  - Ghassen a top notch Pythonista, right now he working on spreading knowledge to the new Pythonista
+  around through the Python Tunisia Comunity where he has been Pyhon Advoate since 2009.
+  
+  - Fourat is a trend setting Pythonista (one of the 19% most active Python users on Github), 
+  currently he is busy with  his new born project, as he is enjoying seeing it grow.
+  With 1K download per month jasmin sms gateway is becoming a to be the #1 choice when it comes to 
+  Open Source SMS Gateway. 
+
+
+---------------------------------------
+
+Skills:
+Cinder C++ framework
+Audio visual creative coding
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -7033,6 +9359,49 @@ Last time I took programming was in 2004, recently have been practicing up on it
 
 ---------------------------------------
 
+#Team RolyNet
+
+I'm RolyNet, I do awesome things!
+
+## About us
+
+- RolyNet: My name is RolyNet, I love PHP and Java
+
+## Languages we love
+
+- Java
+- PHP
+- HTML, CSS, JS (jQuery)
+- SQL (MySQL, MSSQL, PostgreSQL)
+
+
+---------------------------------------
+
+RookieSmarts
+================
+I am the team representative for Rookie Smarts.
+
+About the team
+===================
+Team is located in Chennai.
+
+Tell us who you are, why you did decide to join ?
+================================
+We are Code passionate, hackers and most important a learner. We decide to join because i love coding and developing new products. We also love to participate in hackathon.
+
+About your skills and What you are going to do ?
+===================================
+Full stack dev
++ Python
++ Javascript
++ Jquery
++ Postgres
++ RubyonRails
++ R
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -7054,6 +9423,39 @@ About our skills and what we are going to do?
 
 
 
+
+---------------------------------------
+
+# About SARIMANOK
+
+Marc Tan - Mobility Specialist
+
+I speak:
+
+- Java
+- Golang
+- Javascript
+- Groovy
+- Nodejs
+
+Manikandan Selvaraju - a hardcore Android and Javascript guy
+
+I speak:
+
+- Java
+- Javascript
+- C++
+
+
+---------------------------------------
+
+#TeamName: SDK
+
+- We are 3 member team (Sudeesh signamalla/Devendra Kumar Dora M/ Kranthi kiran guduru ) pursuing computer science & engineering in National Institute of Technology Warangal ,India
+
+-We all three have experience in web and app development.
+
+- Theme not yet decided
 
 ---------------------------------------
 
@@ -7081,6 +9483,64 @@ We not a choose now which of our ideas to put into Hackathon, but as far as tech
 
 ---------------------------------------
 
+SKGers
+===========================
+
+Hey there! This is SKGers, a group of passionate engineers living in Thessaloniki, Greece.
+
+About us.
+===========================
+
+| Kostas Bariotis | Thanasis Polichronakis | Theodore Keloglou | Aristotelis Dossas |
+| -------------- | -------------- | ------------ | -------------- |
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/605742?v=3&s=460' alt='Kostas'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/458813?v=3&s=460' alt='Thanasis'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/553444?v=3&s=400' alt='Theodore'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3739293?v=3&s=460' alt='Aristotelous'/> |
+
+Kostas Bariotis
+--------------
+Team leader, Web Engineer (PHP, Javascript, Node.js).
+
+Thanasis Polichronakis
+--------------
+Node.js Guru and DevOps assistant
+
+Theodore Keloglou
+--------------
+Front End lover (HTML, CSS, UX/UI)
+
+Aristotelis Dossas
+------------
+Back End lover (Node.js)
+
+About Us
+=============
+We are a group from Thessaloniki, Greece. We love coding, breaking and reassembling the web. We actively contributing to open source projects and local tech communities. We have also participate in many local hackathons.
+
+About our project.
+===========================
+
+We believe we can create a fun way to introduce programming to people. We will mess with the Front End a lot and use the well known APIs to make it more social.
+
+---------------------------------------
+
+# Team Sakul6499
+
+I'm Lukas, 15 Years old, from Germany!
+I'm actual a Student but I have great Java Skills.
+
+
+### <- Programming Language -> ###
+- Java
+  * and mostly JavaFX
+  
+# Why I want to win? #
+I want to win because I have some Plans about my next School Years and I need money to do it.
+A great Expample is a Exchange between Germany and Japan. (I also know the Language Japanese :D)
+
+Also I want to do something for the world and join the First Hackaton of my live! (^-^)
+
+
+---------------------------------------
+
 # Team Salap
 
 We are a group of young professionals living in the Philippines who love to create new and awesome things!
@@ -7103,6 +9563,22 @@ We are a group of young professionals living in the Philippines who love to crea
 ---------------------------------------
 
 Hey so my name is Sacheth and I am a one man team.
+
+
+---------------------------------------
+
+This is the page for Saruman's Pensieve
+================
+
+Currently this is a one wizard team. More are sure to follow.
+
+
+About the Istari
+===========================
+
+| zoraiz |
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1144769012/Image0967_Charcoal_4_400x400.jpg' alt='Zoraiz'/> | 
 
 
 ---------------------------------------
@@ -7138,6 +9614,64 @@ Other information:
 
 ---------------------------------------
 
+# Shack
+
+We are a bunch of developers from all corners of the world
+<p align="center">
+  <img src="http://i.vimeocdn.com/video/465255665_640.jpg"/>
+</p>
+
+## About Us 
+| Nikhil | Archie | Ismail | Tyler
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/nikhil.jpg' alt='Nikhil Sapkota'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/archie.jpg' alt='Archie Makuwa'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/sim.jpg' alt='Sim Ismail'/> | <img width="100" height="100" src='http://www.aatsol.co.za/demos/hackathon_avatars/tyler.jpg' alt='Tyler'/> |
+
+## Skills
+- Nikhil Sapkota (UX Designer and Web Developer | Nepal)
+- Archie Makuwa (Web developer - php, html5, css3, and js | South Africa)
+- Sim Ismail (Node.JS and MongoDB developer | UK)
+- Tyler (Node.js/mongodb/angular dev. UX nerd | USA)
+
+
+---------------------------------------
+
+This is our page (seriously!)
+=============================
+
+We are freelancers, college friends and really new to the concept of Hackathons!
+
+What we love? Food, Drinks, Mobiles (who doesn't?), memes (yes we're above 18, but who cares?), and to code (this is not the last priority, it just looks cool to be in the end, leaves an effect)
+
+Wondering about the team name? Well you should, the story is very nostalgic for every Indian being brought up to our age *drum rolls*
+
+
+About Team Shaktiman
+=============================
+
+| Nitesh | Rohit
+|--- |---
+| <img width="100" height="100" src='https://scontent-a-sin.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1497747_4823924371441_3892016588921484435_n.jpg?oh=ef439f4789ca5829397f12da9a75445f&oe=551971C2' alt='Nitesh'/> | <img width="100" height="100" src='https://scontent-a-sin.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/p526x296/10636295_10201927308943797_5100808012451197358_n.jpg?oh=76d4fa814e27769773ab41f24920cd7d&oe=551BA932' alt='Rohit'/> |
+
+Well you can just tell Nitesh loves food, and Rohit to click moments. (can't you? k)
+Team Shaktiman is all about nostalgia, Shaktiman being the 1st Indian Superhero 
+will live forever in our hearts and that is what we'll be aiming at, to recreate
+nostalgia.
+
+
+About your skills and what you are going to do?
+=======
+Well we're freelancers! We fix day to day glitches, create cool stuff, we're currently working on something very cool btw (not ready though, but that's for another day).
+Our skills include eating while sitting on the couch, drinking while watching TV and 
+work our ass off to get what we want.
+
+What you can expect from us? "Well, you'll be pleasently surprised"
+
+<img width="100" height="100" src='http://i2.ytimg.com/vi/OgrZ2ofIcT8/0.jpg' alt='Shaktiman'/>
+
+-> *Respect Shaktiman - He taught us many things* <-
+
+---------------------------------------
+
 Shamas
 ================
 
@@ -7156,6 +9690,63 @@ My name is Dmytro Torianik and my team is called Sidlejinks. I'm passionate abou
 Had and experience with Java SE/EE as well as HTML5/CSS3 as well as core JavaScript. Also interested in Ruby (on Rails).
 
 Good luck!
+
+
+---------------------------------------
+
+The Department of Silly Walks
+=============================
+
+We are team Silly Walks, a small team of programmers passionate about Python
+and data from the Philippines.
+
+We aim to visualize disaster recovery efforts starting from the most recent
+typhoon that hit our nation, typhoon "Yolanda", internationally known as
+"Haiyan".
+
+The hope is to bring about awareness and information about these disasters,
+i.e. how much was the cost of damage to people and infrastructure, foreign and
+local aids, etc.
+
+In this effect, we are addressing problem set 1.
+
+
+## Meet the Team
+
+Note: This section is a work in progress. More details coming soon.
+
+#### Matt Lebrun
+
+Django/Python craftsman at Save22 and Advocate of PythonPH
+
+w: mattlebrun.com
+t: @cr8ivecodesmith
+
+#### Micaela Reyes
+
+Software Engineer at Freelancer.com. Lover of Open Source and all things Python
+
+w: codemickeycode.com
+t: @codemickeycode.com
+
+#### Ray Dino
+
+Software Engineer @ Save22. Aspires to make great things.
+
+w: raydino.com
+t: @theraydino
+
+
+
+---------------------------------------
+
+# About Us
+
+We are a small group of programmers from a school. We consist of: Adam.H, Adam.P, Alex, Callum and Jake!
+
+#Favourite Languages
+
+The majority of our programming is in Python however we share experience in languages such as C++ and JavaScript!
 
 
 ---------------------------------------
@@ -7181,6 +9772,36 @@ Hi, we're Harrysuke and fr3ker from Malaysia.
 ##THEME
 We choose theme #1:
 Problems facing our planet, explained using interactive data visualization. (e.g. ISIS)
+
+
+---------------------------------------
+
+# SixDevelopment
+
+SixDevelopment is a team with [Sixten Revström](https://twitter.com/revstrom)
+
+## Contact us at
+- [@revstrom(https://twitter.com/revstrom) Sixten Revström
+
+
+---------------------------------------
+
+SixWings
+================
+
+I am a software developer/engineer.  Los Angeles California is my home.  I love mathematics and code.
+
+
+About your team
+===========================
+
+Full-stack developer.  Expertise in enterprise, and mobile solutions.
+
+About your skills and what you are going to do?
+=======
+
+C#, SQL, Python, Clojure, Java.  I hope to contribute a quality project.
+
 
 
 ---------------------------------------
@@ -7263,6 +9884,23 @@ Skills
 - Rails
 - .NET
 
+
+
+---------------------------------------
+
+We are The Soft Pyramid
+================
+
+We are one of the best laravel framework developers in the world, and the No.1 Laravel Framework developer in pakistan.
+
+
+About Us
+===========================
+We have Developed and Delivered Enterprise Level Custom Solutions like CRM's , Online Advertising & Marketing Frameworks, Document Management Systems, Websites with complex data logics and RESTful API's for Mobile Ends.
+
+About our skills and what we'll do
+=======
+We would like create an awesome web application using Laravel Framework and Angular JS wrapped in a Twitter bootstrap theme.
 
 
 ---------------------------------------
@@ -7367,6 +10005,30 @@ Interested in all things tech
 
 -C
 -Python
+
+
+---------------------------------------
+
+This is our page
+================
+
+Coming soon...
+
+
+About our team
+===========================
+
+Coming soon...
+
+
+About our skills and what we are going to do?
+=======
+- PHP
+- NodeJs
+- HTML5
+- Creativity!
+-WebRTC
+
 
 
 ---------------------------------------
@@ -7541,6 +10203,58 @@ Our goal is to create something creative and helpful.
 
 ---------------------------------------
 
+Sunrise in Segoroan
+===================
+
+We are passionate team of developers from Sevastopol and we will try to solve one of 
+the problem facing to our planet and population. 
+Hackathon is only start for us and if our idea get positive feedback from auditorium 
+we will launch an OpenSource project.  
+
+Segoroan is the name of perfect virtual place that contains mental parts of our teammates. 
+All problems have solved in Segoroan and we will bring solutions to real life. 
+This name has constructed using parts of our names. 
+
+About our team
+==============
+
+| Ivan | Ivan | Roman | Yegor | Serafim |
+|------|------|-------|-------|---------|
+| <img width="100" height="100" src='http://cs624426.vk.me/v624426884/39d7/1BlIY5id1YA.jpg' alt='Ivan'/> | <img width="100" height="100" src='http://cs617517.vk.me/v617517759/19b0b/c21FlLkuZZU.jpg' alt='Ivan'/> | <img width="100" height="100" src='http://cs307313.vk.me/v307313622/db40/a2gG75DD_d4.jpg' alt='Roman'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/521230077971820545/s_rk1kCN_400x400.png' alt='Yegor'/> | <img width="100" height="100" src='http://cs418125.vk.me/v418125998/7fd7/DAiuJatseW8.jpg' alt='Serafim'/> |
+
+[Ivan Ignatiev](http://ignatiev.su) is now working on cloud solutions and living 
+in Paris, France. 
+
+[Ivan Lypko](http://vk.com/scrimers) is envolved to PhD program of Sevastopol 
+State University and interesded by web-technologies and demoscene. 
+
+[Roman Levkevich](http://vk.com/roman_levkevich) works on e-commerce and 
+financial web-services.
+
+[Yegor Zhumikov](http://vk.com/yegorf1) and [Serafim Urukov](http://vk.com/serafim_urukov) 
+are studying in hight schools at Sevastopol and they are both members of Minor Academy 
+of Science and have amazing programming experience. 
+
+We have different experience, skills and background but we continuously improve them every day. 
+
+About our plans
+===============
+
+We are going to do a lot of experiments on this hackathon.
+
+Each memeber of the team during the hackaton will try something new : Python and Node.js, 
+Social networks APIs, notifications APIs and maps, pair programming and TDD, and remote work.
+
+SendGrid, Google Maps, Facebook and Twitter, Freebase APis ? 
+
+We will not sure about technologies but as working environment Koding IDE is going to help us. 
+We will decide and apply everything that we can during 48h this WEs by EET and CEST time zones.
+
+Thank you for visiting our ABOUT.md page and good luck to everyone!  
+Let's hack! 
+
+---------------------------------------
+
 Hi everyone.My name is Hristo and I'm a 19 years old software engineering student. I'm going to be building a WebGL game using
 Three.js & Javascript(of course). I have an idea about the game and I won't be revealing it just yet so stay in touch.
 
@@ -7612,6 +10326,78 @@ We plan to try our hand at an multiplayer educational game using React for inter
 
 ---------------------------------------
 
+# Swift
+
+Recently awarded BSc (Hons) Computing, looking to further my experience
+
+## About us
+
+- Terry: I used Java throughout my degree and have dabbled with JavaScript, Python and PHP, most likely to be using JavaEE
+
+## Languages used
+
+- Java, JavaScript, PHP, Python
+
+
+---------------------------------------
+
+#About The Team
+
+We are a group of friends of high school students and technology enthusiasts. We specialize in front and back end web development. This is also our first time working together on a large project. Each of us have our own skillset, and we feel like together we make a strong team. Altogether we are extremely excited for this Hackathon, and are planning to utilize our skills to the fullest to create an awesome web application. We all view this Hackathon as an amazing opportunity to improve and sharpen our skills, contribute to the Koding community, and raise awareness to help create the next generation of hackers.
+
+#About Us
+
+###Michael Leng
+
+Project Lead, Front End Developer, UI Designer
+
+<img width="100" height="100" src='https://www.synergi.cc/ProfileSquareMediumJPG.jpg' alt='Michael'/>
+
+Hello, I am Michael Leng, an aspiring 16 year old high school hacker. I initially started working with computers at the age of around 8, and started messing around with programming around 5 years ago. I mainly work with web languages, but have dabbled in languages like Java and C++. I enjoy coding for fun, skiing, and gaming. My main role in this competition will be front end development and design, as well as the coordination of the activities of other team members. This is my first hackathon, and I am extremely excited to participate.
+
+###Max Campbell
+
+Back End Developer
+
+<img width="100" height="100" src='https://www.synergi.cc/maxPic500.jpg' alt='Max'/>
+
+Hi, I am Max Campbell, a 16 year old coder and general computer enthusiast from the UK. I started playing with computers at about the age of 7-8 (with bash scripts). I then started coding with php and dabbled in other lanaguges like C and Java, but loved the portability of the web. Now I mainly work with Node and am best at all things back end related. This is my 3rd hackathon; the other two were one week long and aimed at people my age.
+
+###Dennis Planting
+
+Full Stack Developer
+
+<img width="100" height="100" src='https://www.synergi.cc/tryyPic500.jpg' alt='Dennis'/>
+
+Hello, I am Dennis Planting. I am 16 years old and from Sweden. I am a programmer and a server administrator. I have knowledge of multiple languages ranging from simpler languages like LUA and JavaScript up to languages like C++, Java and so on. I enjoy anything related to technology like coding, gaming, hardware hacking, etc. I can't call my self an expert in most areas, but I am fairly well rounded in everything, so my main role will be helping in multiple areas as well as helping where others know less.
+
+(Dennis may or may not be a unicorn/pegasus.)
+
+#Our Combined Skillset
+
+HTML5, 
+CSS3, 
+JavaScript, 
+jQuery, 
+Node, 
+PHP, 
+Java, 
+C#, 
+C++, 
+C, 
+Python, 
+Ruby, 
+Lua
+
+#Our Plan
+
+Our current plan is to make a HTML5 based game that teaches beginners how to code in a unique and new way. We will be using HTML5 and CSS3 as well as JavaScript, jQuery, and Node.js. We will also be using MongoDB for the database. We might also throw in some other scripting languages if needed. This plan and the API's we are planning to use as listed here is tentative.
+
+#Thanks for Reading, and good luck to all the other teams!
+
+
+---------------------------------------
+
 ## About Me
 
 Greetings Koding Hackathon Judges,
@@ -7657,43 +10443,86 @@ I will use PHP + node.js + iron.io and WebGL + Canvas... may also WebSpeechAPI
 
 ---------------------------------------
 
-TNTeam
-========
+TNTeam rocks!
+=============
 
-## Who we Are
+<img src = "./TNTeam-LOGO.png" alt="TNTeam Rocks Logo" title="Freddie Yeah!"
+align="right">
+> "I won't be a rock star. I will be a legend."
+- Freddie Mercury
 
-Our team consists of a mix of experienced hacker veterans, promising
+
+
+
+## Who we are
+
+TNTeam consists of a mix of experienced hacker veterans, promising
 programming rising stars, and artists, all from Tunisia.  Some of us
-know each other since quite a while now (Rafik and Mohamed were
-classmates since high school), met during work (Rafik , Elyes and
-Ibtissem are coworkers) or while attending Kendo training (Rafik and
-Chakib are Kenshis). But all in all, TNTeam is made of only friends,
-that share a deep love for hacking and love arts.
+met at workplace (Rafik, Ibtissem and Marwa happen to be coworkers,
+Elyes was an intern in that same company work in) or while attending
+Kendo training (Rafik and Chakib are Kenshis). But all in all, TNTeam
+is made of close friends, that all love hacking and fine arts.
 
-* `Rafik` and `Mohamed` are Back-End Developers and
-architects. They'll probably will write Clojure and Java. `Mohamed` is
-an egg on twitter because he chose to.
-* `Ibtissem` is an experienced Front-End infrastructure engineer,
+* `Rafik` and `Ibtissem` are Back-End Developers and
+architects. They'll probably write lots of Javascript(On the
+browser, and servside as Node.js) even if
+they originally love Clojure. They will also join Front-end side if
+they have to, but only if there is no other choice.
+* `Marwa` is an experienced Front-End infrastructure engineer,
 though also having her word to say on back-end side of things. She
-knows a couple of things about Clojure, Java, HTML5 and JS.
+knows a couple of things about Clojure, Java, HTML5 and JS. She
+accouns for three years experience.
 * `Elyes` is a promising Web Developer, experienced in designing and
-integrating cool web apps.
-* `Chakib` is the artist of the team. He will create unique AND
-  amazing artwork for our work.
+integrating cool web apps. He will learn a 2D JS Game framework for
+this contest.
+* `Chakib` is the artist of the team. He will create unique and
+  amazing artwork for our project. He actually created our Crest,
+  "Freddy Yeah", wearing a traditional Tunisian "Chachia" - a fancy hat.
 
-And here's what we all look like:
+TNTeam already entered
+[Clojure Cup 2014](https://clojurecup.com/#/people/teams), and ended
+up third by public votes. So Close!
 
-Rafik | Mohamed | Ibtissem | Elyes | Chakib
------ |-------- |--------- |------ |--------
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='https://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png' alt='Mohamed'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1366999478/3am-Ettaher-Hurahara_400x400.jpg' alt='Chakib'/>
+Here's what we all look like:
+
+Rafik | Ibtissem | Marwa | Elyes | Chakib
+----- |--------  |------ |------ |--------
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/2794660030/e182cf36ac18a0b311511a8e7345d2cc_reasonably_small.png' alt='Marwa'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1366999478/3am-Ettaher-Hurahara_400x400.jpg' alt='Chakib'/>
 
 ## So what are we cooking for you?
 
-Still thinking about it. But it will surely be somthing special !
-Very likely, we'll use some clojure, java, some html5/CSS3 magic... stay tuned !
+TNTeam fell in love with theme 4, which is about designing educational
+html5 multiplayer game.
 
+We'll be designing a HTML5 multiplayer strategy/action game to educate
+and raise awareness about online privacy and security issues. We'll
+try to show, by the means of a small wargame-like, how are people facing
+various caveats regarding the ownership of material they share on
+social networks, the security and confidentiality of their
+communications, the tracing they are submitted when browsing, the
+threats of theft of their sensitive data...
 
+## Technologies
 
+To be able to produce the game, we'll (most likely) use a bunch of technologies:
+
+- Web Server : nginx, httpkit (for services and websocket), probably
+  some of Node.js facilities.
+
+- Back end Platform: probably Node.js (Maybe using clojurescript),
+  with underscore.js, to get advantage from the ease of socket.io,
+  maybe some Clojure / Java8 for some other parts.
+
+- Data Store : mongodb or Redis
+
+- Front End : Phaser.io as a HTML5 game engine.
+
+We'll be hosted at a local coworking space,
+[Cogite](https://www.facebook.com/Cogite.Coworking.Space). These guys
+were awesome enough to allow us to meet and enter the hackathon in
+their premices!
+Also, we'll be retreating at our mother company,
+[appsnsites](https://www.appsnsites.com), but no ads here.
 
 
 
@@ -7941,6 +10770,69 @@ Put more relevant info here.
 
 ---------------------------------------
 
+TeamABC Profiles
+================
+We are the few developer among the globe that accepted the challenge :)
+
+
+About your team
+===========================
+| alvin | yang | tien |
+|--- |--- |--- |
+| <img width="100" height="100" src='https://farm8.staticflickr.com/7505/15333562263_a7d5dfb1da_n.jpg' alt='alvin'/> | <img width="100" height="100" src='https://farm8.staticflickr.com/7489/15953185125_cf8afbba46_n.jpg' alt='yang'/> | <img width="100" height="100" src='https://farm8.staticflickr.com/7473/15767155129_db1bba3e10_n.jpg' alt='tien'/> | 
+
+We are part of the fresh but hardcore developer.
+We love programming.
+We love to solve problem.
+We love challenge.
+We love exposure.
+We are OPEN :) (also for hug, etc :p)
+Enjoy!!!
+
+Skills
+=======
+Critical Thinking, CrEaTiViTy, bREaktHROUgh
+
+
+---------------------------------------
+
+Android, Java, HTML, Php
+I am Ben
+
+
+---------------------------------------
+
+We, Priyank and Akash, believe coding to be our daily food.
+
+
+---------------------------------------
+
+
+# Team Allport
+
+We are Pete, Peter, and Andy and together we represent a spectrum of attractiveness. We're also going to kick some ass.
+
+## About Us
+
+- Pete: PHP is love. PHP is life.
+- Andy: If I could be anything I'd be the color blue.
+- Peter: I can sucbadive, let's bang.
+
+## Languages we love
+
+- Javascript
+- CSS
+- HTML
+- PHP
+- SQL
+- Python
+- Java
+- Objective C
+- And others...
+
+
+---------------------------------------
+
 # About me
 
 I am Abhishek, & I'm participating individually in this Hackathon. I'm a Computer Science student in New Delhi, India.
@@ -8099,6 +10991,62 @@ We're trying to come up with an impressive idea that has a tight-enough scope to
 
 ---------------------------------------
 
+
+#TeamBee
+
+We are Lucian and Radu and we like programming and hardware projects.For this hackathon we would like to make a intelligent Bee Hive.
+
+So everybody have a nice coding session.
+
+##About us
+
+- Lucian : Will be programming on RaspberryPi and Arduino stuff
+- Radu : Will be programming C#, Python, ansi C. 
+
+##Languages we love 
+
+- C#
+- Python
+- C++
+- HTML
+- Java
+
+
+---------------------------------------
+
+# Team Bizdin
+
+We are Enver,Ahmet,Chyngyz and Mete from Around the Turkey,
+
+## About Us
+
+- Mete Kabak
+  Php developer , entrepreneur since high school,
+  
+- Chyngyz Arystan Uulu
+  Javascript Developer
+
+- Enver Çağrı yıldırım
+  Entrepreneur since eight.
+  
+- Ahmet Varış
+  UI  & UX developer , idea pivotter :) .
+  
+## Languages we love
+
+- Php
+- Ruby
+- Python
+- C++
+- Javascript
+
+
+
+  
+
+
+---------------------------------------
+
 This is our page
 ================
 Thought : "Web apps make life awesome."
@@ -8240,6 +11188,30 @@ I am really looking forward to my first hackathon to develop the best applicatio
 
 ---------------------------------------
 
+# Team Emperor of Awesome
+
+My name is Joshua Chan and I like to build super cool stuff!
+
+## About 
+
+- Josh: My name is Josh and I love JavaScript!
+
+
+---------------------------------------
+
+About Us
+===========================
+
+We are 4 friends from Himalayas. And we build some cool stuff for the web. 
+
+Skills
+=======
+
+JavaScript, PHP, HTML&CSS
+
+
+---------------------------------------
+
 #TeamFR
 
 I am team FR, cause you know there was no other Frenchies !
@@ -8305,16 +11277,75 @@ I am Anirban and this is a one member team.
 
 ---------------------------------------
 
+```
+```
+#Team Members
+##Ajith Samuel
+##Bryan Chan
+##Sailendra Mangranti
+```
+```
+###Ajith Samuel
+[`{Google+}`](https://plus.google.com/u/0/+AjithLeonardRedd/) - [`{Twitter}`](https://twitter.com/ajithmettu) - [`{GitHub}`](https://github.com/ajithsamuel) - [`{Facebook}`](https://www.facebook.com/ajithmettu) - [`{Koding}`](https://koding.com/ajithsamuel) -
+###Bryan Chan
+[`{google+}1](https://plus.google.com/115951082682526751272/) - [`{Facebook}`](https://www.facebook.com/shinn.kokhoong/)-[`{Koding}`](https://koding.com/shinning91)-
+###Sailendra Mangranti
+[`{Google}`](https://plus.google.com/u/0/107831198150727346833)-[`{Koding}`](https://koding.com/sail3ndra)-
+
+```
+```
+##Project we are working on!
+Project will be based on the first theme.
+
+##Languages we are using
+* Java,Php,Python,C++ and C Sharp
+
+##Skills
+####Ajith Samuel
+I do have experience with this programming languages:
+* Java
+* Java Script
+* C language
+* C ++
+* C Sharp
+* SQL
+* HTML
+* Little bit of Python and HTML5
+* I also know the basics of Photoshop and After Effects.
+```
+```
+####Bryan Chan
+* C++
+* C Sharp
+* Java
+* HTML5
+* CSS
+* JavaScript
+* PHP
+```
+```
+####Sailendra Mangranti
+* PHP
+* C++
+* LAMPP
+* Python
+
+#Info's
+I am participating in the Hackathon along with a Bryan Chan and Sailendra Mangranti, but I'm ready to add two more who are interested and know photoshop.
+
+
+---------------------------------------
+
 
 #Team Habesha
 
-A proud team from Ethiopia that make it happen!
+A passionate team from Ethiopia that make it happen!
 
 #About Us
 
-Biniam Asnake - senior software engineer at Apposit LLC - Grails and Android Hacker
+Biniam Asnake - Senior software engineer at Apposit LLC - Grails and Android Hacker
 
-Alexander Suraphel - senior software engineer at Apposit LLC - [Gr/R]ails and everything web related
+Alexander Suraphel - Software developer at Apposit LLC - [Gr/R]ails and everything web related
 
 #Languages we love
 
@@ -8322,6 +11353,7 @@ Alexander Suraphel - senior software engineer at Apposit LLC - [Gr/R]ails and ev
 - Groovy
 - Javascript
 - Java
+- Python
 - C
 
 
@@ -8360,6 +11392,41 @@ I know a decent amount of C++ and Java, so  I guess I am in to learn new things!
 
 ---------------------------------------
 
+
+#TeamKoolKoderz
+
+Hi, I am Leo and I love coding. Its just me for now. I love new challengers and this is good opportunity to try something new and exciting.
+
+#About Us
+jinx1337: My name is leo i am 34 years old and I love VB.NET
+Well it was my first language, ok VisualBasic 6.0 was and I always seam to come back to vb. In this case vb.net.
+I have worked with other languages php and python even tried ruby but basic is still my favorite. 
+You know what they say you never forget your first language. Or is it love? :-p.
+
+I started coding back when I was 14 years so I have been doing this for 20 years. 
+I started with QuickBasic making quadratic equation solvers , prime-number generators and simple spelling games.
+For this I went on to visual basic 5.0 then 6.0 and vb.net. I did try other languages Java,php,c++, python and C#.net. 
+
+Anyways that is a short story of me and programming languages.
+
+#Languages we love
+-VB.NET
+-C#.NET
+-Javascript
+-PHP
+-Java
+-Python
+-c++.net
+
+#API's we love
+-Facebook API
+-Google Maps API
+-Myspace API
+-OpenSocial API
+
+
+---------------------------------------
+
 Team Korea
 ================
 
@@ -8383,6 +11450,11 @@ Skills/Languages
 - Coming more soon.
 
 
+
+
+---------------------------------------
+
+We are a team of developers who are passionate about web technologies and programming. We mainly use the Laravel PHP framework, which enables us to enjoy modern application development to the most. Agile, TDD and OOP are important to us, however we don't mind prototyping and hacking ideas together with a goal to get something up and running asap too (when quick results outweigh the cost of good development practices: eg a global hackathon).
 
 
 ---------------------------------------
@@ -8462,9 +11534,109 @@ HTML, CSS ... the list is very long :)
 
 ---------------------------------------
 
+# TeamMunkey
+
+I'm Sreejith. I work, I play. Work, most of the time. But my work is my play. I make RC airplanes and play guitar when I'm not coding.
+
+## About Us
+
+- I'm a lone participant. For me, this hackathon is about pushing myself. Squeezing every drip of creative juice out of me in a very short time.
+
+## Languages 
+
+Python does most of the dirty work for me. Objective-C is my another playground. I'm perfecting my Javascript skills. But wouldn't call myself a Sensei yet.
+
+
+
+---------------------------------------
+
 My name is Vadym. 
 
 I'm python developer from Ukraine.
+
+
+---------------------------------------
+
+#TeamNothing
+Hi we are team coders and we are interested in sci-fi gadgets
+
+About your team
+===========================
+Karthikeyan Natarajan
+
+I am here to learn cloud app developement. 
+=======
+
+I love 
+- C/C++
+- Python
+=======
+I might use a little JS, PHP & Java. 
+
+
+---------------------------------------
+
+# Team OBP
+
+A team of 2 me and my 6mo old son who spends a lot of time with me in front of the machine.
+I'm an API guy who loves to connect apps and scrub data!
+
+## Languages we love:
+* Ruby 
+* Javascript
+* HTML5
+* Python
+
+## Check me out:
+- [@joshrpowell](https://twitter.com/joshrpowell)  - Josh Powell
+
+
+---------------------------------------
+
+TeamOSC
+================
+
+## About the team
+We are TeamOSC, Team Open Source Coders.
+
+## Who we are
+We are college students and programmers and we are trying to put a dent in the universe.
+
+## Combined Skillset
+- HTML5 + CSS
+- Java/JavaScript
+- AngularJS
+- SQL
+- Python
+- C/C++
+- Java
+- Android Framework
+- iOS
+- openGL
+
+## What are we going to do
+Dunno :p
+
+
+---------------------------------------
+
+Team Lead : Md. Mofijul Islam
+===========================
+I believe that no one can't get success without hardworking and this is my one and only arms in my daily life.I love research and developing. I also want to teach people in various subject. My research area is cloud computing, mobile cloud computing. I have a good background on programing challenge experience. I attended a lot onsite and online programing contest such ACM ICPC-2011(7th position), NCPC, IUPC, codeforces etc. I have expertise in developing application in Java, C#, Android, Tizen, Windows phone and PHP. Since 2010 I have been involved in mobile application development. More than 4 years I have been working on Android mobile apps development. Besides these i am expert in windows mobile apps development both 7 &8 , ASP .Net,facebook application,PHP & Mysql.
+
+I have attend as a team leader in a lot of worldwide and national mobile apps development challenge and Hackathon. Not only participating, I got success in almost all the challenge (as a team leader of our team). I have been working as a team leader of my current during last couple of years. So I have a strong communication and understand with my other team members. In a nutshell I think as a team we can do some innovative and constructive work.
+For more details please see my linkedin profile. Thanks
+http://bd.linkedin.com/pub/akash-islam/49/626/843/
+
+Team Omelet
+===========================
+We have a great team with talented in individual unique skills on different platforms. Our team is working with android since 2011. We have participated in international and national competitions and hackathons. We not only the participation but also gained enviable success which brought glory to our country. We are happy to announce that our team is not only confined in app competitions but also some of the member has a heavy profile in both ACM problem solving and ACM contests which are ICPC, NCPC and online.
+To add more, we are developing professional business applications, mobile applications and portfolios. We have clients from both local and international markets. Yet there is another feather to add in our achievements. We have been participating as a team in many challenges during last couple of years. So we have a strong communication and understand with each other. We are more confident about our team synchronization. 
+There is a say that “If any team is synchronized, impossible will bound to say one day that, ‘I am possible’ ”. We know that there are more teams with strong profiles but we are confident than any other team that we can do anything through hard work and dedication.
+
+Global Hackathon Preparation
+===========================
+We are in Brainstorming and system designing phase. We are designing our whole system modules, goals and most importantly the role of each individual team members. We roughly decide to use javascript, PHP to implement our system.
 
 
 ---------------------------------------
@@ -8492,6 +11664,20 @@ We are making the world better.
 
 ---------------------------------------
 
+Team Penguins
+=============
+
+My name is Bhargav and I'm the only participant from this team. I love to work with multiple technologies.
+I code in PHP, nodejs and JavaScript.
+
+| N Bhargav |
+| --- |
+| <img width="100" height="100" src='http://1.gravatar.com/avatar/ab26619f7987b6cd8fa447e9aad1ba8a' alt='Bhargav'/>
+
+
+
+---------------------------------------
+
 ##Team Phoenix:
 
 Team comprises of Sudharsanan, Shrikanth and Girish. 
@@ -8509,13 +11695,62 @@ Team comprises of Sudharsanan, Shrikanth and Girish.
 
 ---------------------------------------
 
-## Team Pooky
+#Team Pooky
 
-We will have an _awesome_ first December weekend, coding, having fun (and waiting for Saint Nicholas' presents ;)).
+It's more than just great that you came up with this Virtual hackathon idea ... because, this may come as a surprise (or not):
 
-Languages we'll use: that depends on the idea we'll come up with. 
+###In Slovenia, hackathons don't exist. 
 
-Can't wait to join all of the other teams in this historic event :D
+There are no hackathons. Yet. If you want to join one, you have to travel. Once a member of Team Pooky drove to Berlin (that's 1000 km) just for a hackathon. There are computer science oriented events and hackerspaces and good enthusiastic programmers, but - really - no hackathons. Yet.
+
+So you see, we almost _have to_ win - to get the attention to help us start organizing hackathons in Slovenia.
+
+#Team members
+
+### Dunja
+
+<img width="100" height="100" src='https://cloud.githubusercontent.com/assets/9898043/5316121/ec21fd0a-7c87-11e4-872b-07d3a37e744c.jpg' alt=''/>
+
+Responsible for: idea brainstorming, research, front-end
+
+Drinks coffee: yes
+
+Other: :book: :computer: :cookie: :dragon: :eyeglasses: :floppy_disk: :rowboat: :airplane:
+
+
+### Petra
+
+<img width="100" height="100" src='https://cloud.githubusercontent.com/assets/9898043/5316119/ec213fbe-7c87-11e4-844f-8606ed545736.jpg' alt=''/>
+
+Responsible for: UX, design, idea brainstorming
+
+Drinks coffee: yes
+
+Other: :airplane: :movie_camera: :computer: :video_game: :game_die: :book: :roller_coaster: :dog:
+
+### Martin
+
+<img width="100" height="100" src='https://cloud.githubusercontent.com/assets/9898043/5316118/ec1c99fa-7c87-11e4-86c2-c1e0cef04a55.jpg' alt=''/>
+
+Responsible for: lead developer, team guru, front & back-end ninja
+
+Drinks coffee: yes
+
+Other: :pizza: :car: :bike: :dog2: :camera: :iphone: :8ball: :space_invader:
+
+### Unofficial team member #4 
+
+<img width="100" height="100" src='https://cloud.githubusercontent.com/assets/9898043/5316120/ec217678-7c87-11e4-99b9-3108961dfd0c.jpg' alt=''/>
+
+Responsible for: Chihuahua zen, positive energy, laughs, alarm clock and reminder for time out and some fresh air
+
+Drinks coffee: no
+
+Other: :meat_on_bone: :crown:
+
+##The Plan
+
+Languages we'll use: that depends on the idea we'll come up with. For now it looks like it's a HTML5 game, games are fun, but it will be educational as well ... a lot can happen in 48 hours :)
 
 
 ---------------------------------------
@@ -8554,6 +11789,29 @@ About your skills and what you are going to do?
 
 ---------------------------------------
 
+# Team Ribeiro
+
+I'm Rui Ribeiro, fantastic programmer
+
+#About me
+
++10 years programming awesome software
+
+#Languages
+
+PHP
+Javascript
+JAVA
+C
+
+
+---------------------------------------
+
+I don't like that Hackaton tries to force me to share my personal data. Fuck you.
+
+
+---------------------------------------
+
 Team SBU
 ================
 
@@ -8570,6 +11828,21 @@ I will try to learn something new. I had prior experience with JavaScript
 Python. I'll play around IBM's watson api set and solve pratical problems
 at Stony Brook University.
 
+
+
+---------------------------------------
+
+# Team : SPOT Software
+
+We are a group of strongly motivated devs, based in Cesena, Italy.
+
+# About Our Skills and what we are going to do
+
+What about MEAN Stack with an addition of socket.io ? 
+And why not Rails or Django ?
+We would like to work on each theme, but something related to EULA & co. could be our choice.
+
+Stay tuned ;)
 
 
 ---------------------------------------
@@ -8607,6 +11880,27 @@ TeamShog
 
 ---------------------------------------
 
+##TeamSoloMe:
+
+Just Mariano Kunzi this time. 
+
+##About Me:
+
+- Mostly node.js these days.
+
+---------------------------------------
+
+#Team Squirrels
+
+##About
+Stuff
+
+##Languages
+Stuff
+
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -8621,6 +11915,47 @@ Tell us why you want to win.
 About your skills and what you are going to do?
 =======
 Still deciding.
+
+
+
+---------------------------------------
+
+This is my page
+================
+
+A single person team
+
+
+About my team
+===========================
+
+My name is James Tookey and I'm based in Cheltenham, UK.
+
+Having never participated in a hackathon before, I thought it was about time to give it a go!
+
+
+About my skills and what I am going to do?
+=======
+I'm a software engineer specialising in PHP, AngularJS and NodeJS.
+
+I'm going to be creating something mobile based using AngularJS.
+
+
+
+---------------------------------------
+
+This is our page
+================
+
+This is our team of 2 persons.
+
+
+About your team
+===========================
+
+coming...
+
+
 
 
 
@@ -8685,6 +12020,60 @@ Intermediate Languages
 - Javascript
 - C
 
+
+
+---------------------------------------
+
+
+languages
+
+- PHP
+- Javascript
+
+
+---------------------------------------
+
+#Team_Super
+
+I am Virgil Fritz Taneza and I do awesome things by myself!
+
+## About me
+I am into software development since 2007 and I love coding. 
+
+## Languages I love
+- C/C++
+- Java
+- Javascript
+- Perl
+- PHP
+- AWK
+- Ruby
+
+
+---------------------------------------
+
+# Teaminho
+
+Just me and my positive vibrations for my first ever Hackathon!!!
+
+## About Me
+
+[Christian Thomas](https://www.linkedin.com/in/venturio)
+
+## Languages /  Frameworks I like
+
+* Python
+* JavaScript
+* C adn C++
+* NodeJs
+* Django
+
+## What I would like to do
+
+I always dreamed about having A Real-Time Translator during my different relocations abroad to avoid to put myself in trouble...
+
+## Follow Me
+* [Twitter](https://twitter.com/venturioLLC)
 
 
 ---------------------------------------
@@ -8790,7 +12179,16 @@ Please support us and share your experiences/money with us on our [team page](ht
 
 `James` is an algorithms expert and is top 50 on the USACO rankings in 2014. James actually [invented the subordinate-sequential search algorithm](https://koding.com/jlennon1) with the help of fellow Koders. James has also created several published games, including [Nebulus](https://itunes.apple.com/app/nebulous-multiplayer-space/id874328065?mt=8) and [Driftlight](https://itunes.apple.com/us/app/driftlight/id908131148?mt=8).
 
-`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamous. You better not go and tell CNN his real name!
+`Jake` is an esteemed hacker who often goes by the name of '4chan'. He's apparently very infamouss, but you better not tell [CNN](https://www.youtube.com/watch?v=kRcdmbC0HHs)!
+
+
+## Hugo, our team leader
+
+`Hugo` is the true team leader; he is the project planner and the whip-cracker. Responsibilities also include checking our browser history and stepping on the slaves's keyboards. 
+<img width="100" height="100" src='https://s3.amazonaws.com/pushbullet-uploads/ujwnPp82dTE-WaqOGVSjMvgUB9HIIG8IOqvFDM3syZCN/IMG_20141206_215947.jpg "Inspecting browser history"' alt='Hugo'/> 
+
+Please click enjoy the above picture and think about how cute this he is. Think about how he could look into your eyes and convinve you to do anything. Let him convince you. Take his advice. Join #TheWashingtonRedskins.   
+
 
 ## What we're making
 
@@ -8798,7 +12196,7 @@ It's quite possible that we are inventing the most revolutionary product ever ma
 
 Expect us on Kickstarter [2] soon [3]!
 
-[1]: It's not in _Steve Jobs_ by Walter Isaacson, but it's still possible [4] that he did say it <br>
+[1]: It's not in *Steve Jobs* by Walter Isaacson, but it's still possible [4] that he did say it <br>
 [2]: See "Go Fund Yourself"'s above link <br>
 [3]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29) <br>
 [4]: Literally and totally impossible
@@ -8823,6 +12221,18 @@ We are all here to do what we are all here to do...
 - SASS
 - HTML5
 - Javascript
+
+
+---------------------------------------
+
+# The Alan Turing Project
+
+The Alan Turing Project is comprised of Anshul, David, Mukul, Matt, and Nick. We are software engineers in Columbus, OH.
+
+## About Us
+
+-Anshul: I like C#, HTML/CSS/Javascript, Angular, Java.
+-David: I’m a Rubyist looking to learn more languages. I also was intrigued by Edward Tufte’s ‘Visual Display of Quantitative Information’ years ago, and I am looking forward to making a ‘User Oriented Display of Quantitative Information’ that can help users realize how they impact the planet. I’m excited about this project, and I’m especially excited about how it applies datamining to a humanitarian task.
 
 
 ---------------------------------------
@@ -8918,9 +12328,46 @@ I'm software engineer from Kharkiv, Ukraine. Decision to participate in Koding H
 About your skills and what you are going to do?
 ===========================
 
-At the moment I'm not totally sure about theme of my project, but most likely it would be something that is related with realtime data streaming.
+I will do a project which help to increase a number of users who read the legal documents on the web.
 
 Planning to use Node.js as a main platform.
+
+
+---------------------------------------
+
+
+#Team: TheHardKoders
+
+So far, it's only me, Subhash Ramesh (coding24by7), on this team. But I expect to make great things in this hackathon!
+
+## About us
+- Subhash: I'm a 10th grade hacker. I'm doing my hackathon submission for the High School Hacker category.
+- I know many languages (C#.NET/Java/Javascript/HTML/CSS/jQuery/Node.JS/...)
+- I love to hack, hack, and hack!
+
+## Languages of expertise in this hackathon
+- Javascript
+- HTML
+- CSS
+- jQuery
+- Node.JS, Express, Meteor (maybe)
+
+
+---------------------------------------
+
+
+# TheMatrix
+
+I'm Ali, software/hardware engineer.
+
+# Skills
+
+Programming languages : C/C++,Qt, VHDL, HTML/CSS, MatLab
+
+
+---------------------------------------
+
+	Hello, we're The Stride Breakers. If you don't know, our name comes from the 1984 Matthew Wilder song, "Break My Stride". We're a devoted team of three and we know our stuff. Our strong points are in beautiful artistry and good execution of good ideas. Our artist, Nathan is a talented pixel artist and our two web devs, Ben and Bman (just go with it) are ready to tackle any tasks you throw at them. Our idea is a pixelated periodic table exploration game. When it is complete, it will help kids around the world learn about science.
 
 ---------------------------------------
 
@@ -8958,15 +12405,14 @@ This is our page
 ================
 
 I am KULDIP PIPALIYA. My interests are anything development related, software developing & designing. 
-I have no team mates right now.
 
 
 About your team
 ===========================
 
-| kuldip |
-|---|
-| <img width="100" height="100" src='http://kuldippipaliya.com/img/author.png' alt='kuldippipaliya'/> |
+| kuldip | darshan |
+|---|---|
+|<img width="100" height="100" src='http://kuldippipaliya.com/img/author.png' alt='kuldippipaliya'/> | <img width="100" height="100" src='https://lh6.googleusercontent.com/-ZcmnrBNq-8E/AAAAAAAAAAI/AAAAAAAAAEM/RV3cfMasqXs/photo.jpg' alt='darshanlakhatariya'/> |
 
 Tell us who you are, why you did you decide to join?
 ======
@@ -8990,18 +12436,24 @@ I will go with Theme#1 to develop application.
 
 TheTwoPeas
 ==========
-We are two good friends located in Hungary.
+We are two programmers from Hungary and good friends. We live near each other, helped each other developing our programmer skills and until recently used to work at the same place. We are really like two peas in a pod. That’s how we’ve came up with the name. And our nicknames helped: Pali & P. The two P’s. And P sounds like pea, right?!
+We are awesome that way…
+
+| Kalmar Gabor | Takacs Pal 
+|--- |---
+| <img width="100" height="100" src='http://chino.hu/kalmi_small.png' alt='Kalmar Gabor'/> | <img width="100" height="100" src='http://chino.hu/pali_small.png' alt='Takacs Pal'/> | 
 
 About our team
 ==============
-We are experienced programmers, mostly we do web developments. We love challenges and complex coding problems.
+Well, you already know where we are from and that we are best friends. And we are programmers. We are used to working together and understand each other’s strengths and weaknesses. Not that we have much of the latter. :) We aren’t afraid of challenges and trying something new.
+When not working, Pali plays chess, builds electronic devices and an enthusiastic watcher of TV shows. P likes to play computer games and music on his guitar, listen to music and running.
+We joined the Hackathon, because we could not resist the challenge.
 
 Skills
 ======
-PHP
-C/C++/C#
-Javascript
-Python
+We know quite a lot languages and we’re gonna bore you with the list:
+PHP, Javascript (Ajax), jQuery, ExtJS, Java, C/C++, C#, Python, MySQL, PostgreSQL, OracleSQL, CSS, XML, HTML.
+Pali will do the coding for the problems facing our planet theme (he loves science and his girlfriend is an Earth Scientist, so he listens to that 24/7) and P will do the EULA part because he likes torturing people. Just kidding… :)
 
 
 ---------------------------------------
@@ -9031,20 +12483,19 @@ We aren't sure what our project is going to be yet, but we'll push an update as 
 
 About The Warrior Poet
 ===========================
-Tell us who you are, why you did you decide to join?
+My name is Andrew, aged 29 from Wollongong, NSW, Australia.
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+My journey into game development has been a long one, starting in my young teens with a desire to get into Game Programming. Despite this strong desire, several life choices took me on different paths, including buying my own printing business and running that for over seven years. 
 
+Despite that path, my desire to get into game development remained strong. I started attending university to do a Bachelor of IT/Science double degree, with a software development and mathematics focus. This has eventually led to the desire to specialise in game programming.
+
+In the past few months, I have pulled back from my business in order to focus on game programming and development. Enrolling in an Advanced Diploma, this stage of my life is all about game programming and game development.
 
 About your skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+Seeing the invitation to the Global Hackathon, I made the decision to join for the purpose of testing and expanding my game development skills. Working alone, I'll be setting out to tackle the theme of using a game to teach software development to a beginner.
 
-You can change your mind, that's ok. Just push an update here when you do.
-
+I'll be exploring using the Unity3D Game Engine, with it's Unity Web Player to host it on the Koding VM. 
 
 
 ---------------------------------------
@@ -9072,21 +12523,105 @@ More updates comming... :)
 
 ---------------------------------------
 
-# AceTeam
+# The Y2K Problem
 
-We are a bunch of programmers in Indonesia, with different background and age.
-We would make something that is useful and creative to change the current old behaviour.
+```python
+print 'Hello World !'
+```
+The Y2K Problem is a one-person team for the Koding Hackathon. 
+I am [Alex Mathew](https://twitter.com/alxmth03), a final-year Computer Science & Engineering undergrad at [SASTRA University, Thanjavur, IN](http://sastra.edu). 
 
-## About Us
+This hackathon will be a major challenge for me for three main reasons :
+* This is my first hacakathon.
+* I am a beginner web developer.
+* I didn't expect to get shortlisted, so I hadn't tried to assemble a team or decide a project to work on.
 
-- Indra Winata: back-end web developer, that always want to make perfect, creative, interesting applications. Focus on core process of the application
-- Martono: back-end web developer, but in this team, focus on digital assets acquisition and modification, and content creation for demo usage
-- Jeffrey: back-end web developer focus on complex algorithm
-- Thomas Rico: front-end web developer, focus on designing UI, UX, and animation
+But that's the best thing about challenges - they are made to be taken down. I decided to go solo for the hackathon. I will have to dig deep to get this done, and that's the goal now.
 
-## Skills
+## What am I planning to do
 
-Everything related to web development. We specialize in web-based application and web-based creative campaign.
+I'll be working on a way to introduce software development to beginners, because this is something that I can relate to. I help a lot of people get started with programming, so this hackathon will be a great platform to build a generic solution to help a wider range of people. I'll more specifically work on providing a way to get started with the coding part of software development, because that is the part that looks the scariest to people.
+
+## What will I be using
+
+* Python
+* Flask
+* MongoDB
+* Pubnub API
+* Anything else, as the need comes up
+
+
+---------------------------------------
+
+
+#Team: The_Kodecs
+
+This is funny because there's only one person in this team, which is me.
+My name is Adolfo Fragoso, I'm from Mexico and i think I'm in love of my computer :)
+
+#Programming preferences:
+
+-PHP
+-Javascript 
+-C/C++
+-Python
+-Go
+
+I eventualy preffer program using any framework like Codeigniter, Symphony, Bootstrap...
+
+
+---------------------------------------
+
+Thinker Team
+================
+
+We are a team from Indonesia. Basically, we are all DotA players and we love to make applications. DotA is a popular game, developed by IceFrog, and then by Valve Corporation.
+
+At first, we need to name our team as Tinker, like the name of hero in DotA who uses technology in his attacks (and he is from Goblin race who have changed to hyper-intelligent race in World of Warcraft), but later we change it to Thinker (in Indonesian is called "pemikir"). The Thinker also describes our team characteristics, but we do not just think, we also do it.
+
+<p align="center">
+  <img src="http://www.papolo.com/assets/tinker_s.png"/>
+</p>
+
+Indra has made a simple game just to test users' knowledge about streetball and just for having fun in Streetball event in Indonesia, and the feedback is very good. But the application is only available in that event and is not expanded for further use.
+
+Considering that feedback, we want to build a little similar game as that streetball game, but we will expand it so it can be used generally, not only for streetball event. We see a lot of potentials in this game. Any companies, any schools, any organizations, even any people from any parts of the world can use it to test his/others knowledge with a funnier way. This game can be used for many things, depend on the perspective and the goal of the people who use this.
+
+
+Our Thinker Team Members
+===========================
+
+Indra
+=======
+Indra Winata is a professional back-end web developer (can do front-end stuff too) who have learnt a lot of things about web development and have passion in it. He always want to make perfect, creative, useful, and interesting applications. The more people who use his hand-made applications, the happier he is.
+
+[Facebook](https://www.facebook.com/1ndr4.w)
+[LinkedIn](http://id.linkedin.com/pub/indra-winata/50/193/186)
+
+Martono
+=======
+Martono background is a back-end web developer, but currently he runs a Tour and Travel business. Martono can convert any idea into a business, even if it is not his original idea. In this team, he focus on digital assets acquisition and modification, and content creation for demo usage.
+
+[Facebook](https://www.facebook.com/martono.voltz)
+
+Jeffrey
+=======
+Jeffrey is a professional software engineer currently worked at global company called Accenture in Indonesia. He even make his own Java Framework to be used in his company. He also have a passion in technology area.
+
+[Facebook](https://www.facebook.com/pieceofsky)
+[LinkedIn](http://id.linkedin.com/pub/jeffrey-wijaya/32/85a/441)
+
+Thomas
+=======
+Although he is the the youngest web developer in our team, Thomas Rico can be considered as a senior front-end web developer. He can learn very fast, code fast, and the important thing is he have a good perspective in user experience (UX), so he does not just code but can give suggestions to create a good UI with a good UX.
+
+[Facebook](https://www.facebook.com/thomas.rico91)
+[LinkedIn](http://id.linkedin.com/pub/thomas-rico/5a/76/186)
+
+
+Our Team Skills
+==================
+PHP, Javascript, CSS, HTML, SQL, noSQL, Linux, knows how to handle big-data, and everything related to web development
 
 
 ---------------------------------------
@@ -9106,6 +12641,21 @@ About your skills and what you are going to do?
 =======
 
 Java, Scala, CSS/HTML + JavaScript, AngularJS, C#
+
+
+---------------------------------------
+
+First off, we just wanted to let you know that we are highschool students (Sophmores). We attend New Tech in Evansville Indiana!
+
+Hi, our names are Maddox W, Jon P, and Elijah G. You could never call us "Expert coders", but eventually, if we try hard
+enough we can usually always find a way to figure anything out together.
+
+We decided to join the Koding Hackthon really for fun, and to learn more. We were so surprised that we got accepted out of the 20,000 applicants!
+We were so excited to her that, and if we have thse chances, we might have the chance to win!
+
+Just a couple guys who wanna code and have a good time!
+
+If we every won this competition, which we might, we have definatly decided that some of the money will go to our school, but some we'd get to keep. :)
 
 
 ---------------------------------------
@@ -9190,22 +12740,33 @@ We want make some supaprogram!
 Tooring Analytics
 ================
 
-Hello, this is the 'Tooring Analytics' team
+Hello, this is the 'Tooring Analytics' team..well, just one guy, actually. :-)
 
 About your team
 ===========================
 
-My name is Anshuman K, currently based out of London.
+My name is Anshuman K, and I split my time between London & Pune, India.
 
 
-About your skills and what you are going to do?
+Skills
 =======
 
 So-called "Full-stack" :).
 Python, R, Java, Scala, Android, CSS/HTML + JavaScript.
 Experienced systems programmer but now interested in Machine Learning/AI, Statistics.
 
-Plan to work on one of themes #2 or #3 or even #5. Hope to narrow down something soon.
+What am I going to do?
+=======
+
+Climate change is a pretty contentious topic -- there are the believers, the deniers, and then the wise ones who know the facts or who know they don't know the facts. Sometimes the only way you can be sure temperatures are rising is pitting the believers against the deniers in a climate change debate.
+
+My idea is to build a forum that puts publically available climate change data centrestage, and thus spark a rational & insightful debate about the data -- to cut through the hysteria and the stubbornness and provide an environment where the data can speak for itself -- through visualization, of course.
+
+
+
+
+
+
 
 
 ---------------------------------------
@@ -9224,7 +12785,25 @@ The team
 
 ---------------------------------------
 
+This is our page
+================
+
 We are a group of enthused coders from Toronto.
+
+
+About your team
+===========================
+
+Coming soon...
+
+
+Skills
+=======
+
+- Java
+- C#
+- HTML
+- PHP
 
 
 ---------------------------------------
@@ -9451,20 +13030,20 @@ For sure we'll be making use of PHP, nginx, and a bunch of JavaScript libraries 
 This is our page
 ================
 
-We are the UnknownException team... and our bio returns unknown exception.
+I am the UnknownException team... and my bio returns unknown exception.
 
 
 About your team
 ===========================
 
 
-We are two young coders who met on the #Hackathon chatroom. 
+I am young coder from Markham, Ontario, Canada :)
 
 (Rushed, I know - never realized these pages were due so soon)
 
 About your skills and what you are going to do?
 =======
-We're planning to build something awesome :)
+I'm planning to build something awesome :)
 
 
 
@@ -9472,17 +13051,70 @@ We're planning to build something awesome :)
 
 ---------------------------------------
 
+About your team
+===========================
+
+<img width="100" height="100" src='face.jpg' alt='uolot'/>
+
+I code in Python, JS and Clojure. I decided to join, because I want to check myself and motivate to build something nice and useful.
+
+TODO
+-----
+
+Tell us why you want to win.
+
+
+About your skills and what you are going to do?
+=======
+
+TODO
+----
+
+
+
+---------------------------------------
+
 About
 ================
+We are a small team based in Montreal, Canada. Our aim is to establish a  successful startup after verifying from some potential ideas that we have. We believe , this hackathon will help a lot in our way to success.
 
 About UpStageCoder Team
 ===========================
-| rana | nila
-|--- |---
-| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/368209?v=3&s=200' alt='rana'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1213589?v=3&s=200' alt='nila'/>
-| [Blog](http://codesamplez.com)||
 
-More details coming soon!
+Rana
+================
+<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/368209?v=3&s=200' alt='rana'/> 
+
+I am a professional and experienced software engineer with passion in programming and solve challenging problems. I currently working with latest open source web technologies like nodjs, couchdb, redis, gearman for developing distributed scalable RESTful API based web application. I also have experience in wide range or skills area(please check my likes list of technologies)
+
+I respect and believe in agile, scrum, refactoring, unit testing, have good eye on software architecture, code quality, maintenance effort etc. I also often test drive some small ideas that come to mind.
+
+I also have a programming blog site where I regularly write articles about programming, software developments, server management/deployment etc related tutorials regularly in my free time to share my knowledge with the developers community around the world. 
+
+[My Programming Blog](http://codesamplez.com)
+
+[My LinkedIn Profile](http://ca.linkedin.com/in/ranacseruet/)
+
+Nila
+================
+<img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1213589?v=3&s=200' alt='nila'/>
+
+I am web developer and currently working as Front End Developer at Vister Technology Inc. in Montreal, Canada. Programming is my passion and I love to work with web programming. When a new technology comes, I always try to learn it. I love to learn in every single corner on a technology. It feels amazing to me whenever I succeed solving/implementing a web development problem. We are a small team now, but I learn a lot of thing from my coworkers. 
+
+[My LinkedIn Profile](http://ca.linkedin.com/pub/mahfuja-nilufar/53/779/992)
+
+
+---------------------------------------
+
+## We are college friends, presently working in company.  We both worked on open source projects.
+
+About Khayam - Done many mobile applications especially in iOS domain and have keen interest in learning new things.
+About Vaibhav(geek) - Worked on many different type of projects and also won the scholarship of Google Summer of code.
+
+We are going with Document reader theme.
+
+We're going to use Java & Javascript...
+
 
 ---------------------------------------
 
@@ -9519,8 +13151,8 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 <img width="100" height="100" src='https://pbs.twimg.com/media/BYjZcj4CIAAP65b.jpg' alt='Cover'/>
 ===========================
 
-#####[Alex]
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/505281101082791936/jJW6mHfi.jpeg' alt='Alex'/> 
+#####[Anca]
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/473124929236258816/Hg9kgKRC.jpeg' alt='Anca'/> 
 
 
 #####[István]
@@ -9548,9 +13180,45 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 ####Good luck to everyone!
 
 [ClujPm]:https://www.facebook.com/cluj.pm
-[Alex]:https://www.facebook.com/alex.strajeriu?fref=ts&ref=br_tf
+[Anca]:https://www.facebook.com/anca.df?fref=ts&ref=br_tf
 [István]:https://www.facebook.com/kobleistvan
 [Luoana]:https://www.facebook.com/luoana.barbanta?fref=ts&ref=br_tf
+
+
+---------------------------------------
+
+
+
+# VanarS
+
+We believe, No defeat is final...untill you stop Trying!!
+
+## About Us
+
+- Vikash: Software Engineer at Symentac, like challneges and love to solve them.
+- Seetendra: Sr. Software Engineer at Oracle, Travelling is my life
+- Ravi: Application developer at Oracle, Full of innovative ideas!
+- Ankit: Software Engineer at Amazon, Loves coding and Loooooves Java.
+- Abhilash: Software Engineer at Imagination Technologies, Love to learn new technologies!!
+
+## Languages We Love
+
+- Java
+- C
+- C++
+- Objective-C
+
+
+---------------------------------------
+
+
+
+ Team Var Foo!
+ 
+ Our Languages
+ Javascript
+ ROR
+ Python
 
 
 ---------------------------------------
@@ -9618,7 +13286,43 @@ Languages I would use for coding:
 
 ---------------------------------------
 
+# Team VishalTheBeast
+
+I am Vishal Sharma.I am in 3rd CSE dept MNNIT Allahabad.
+I love solving algorithmic problems.
+
+#About
+
+I love C++ the most.
+
+#Languages I love
+
+I use C++,Ruby,Python,Shell.I am deeply interested in learning GO too.
+
+
+---------------------------------------
+
 COMING SOON
+
+
+---------------------------------------
+
+WaterPistols
+================
+
+Well, we take very seriously what we do and we are very aware of the great power of the water pistols. Beware!
+
+<img width="100" height="100" src='http://ecx.images-amazon.com/images/I/31a0HLQehAL.jpg' alt='Logo'/>
+
+
+About
+===========================
+
+| Demian | Laza | Depe | Filip
+|--- |--- |--- |---
+| <img width="100" height="100" src='http://i.imgur.com/BLIMIdy.jpg' alt='Demian'/> | <img width="100" height="100" src='http://i.imgur.com/4AvtJB5.jpg' alt='Laza'/> | <img width="100" height="100" src='http://i.imgur.com/YSSZBn4.jpg' alt='Depe'/> | <img width="100" height="100" src='https://scontent-a-fra.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1901683_742680379098382_265536859_n.jpg?oh=56bfacf7834ba33df9790d8fa3687a03&oe=55087D51' alt='Filip'/> |
+
+We are a group of friends trying to solve the big misteries of the universes. Armed with water pistols, coding and creative superpowers, we begin our mission to reach for the highest peak of human existence. And also win the Hackathon.
 
 
 ---------------------------------------
@@ -9664,6 +13368,35 @@ Ivan is silent Ruby developer who dreaming about long-long Rails project.
 
 ---------------------------------------
 
+
+# Team Webmonsters
+
+We are Razvan Tache, Andrei Zisu, Raul Vasile and together we are Webmonsters.
+
+## About us
+
+We started as HighSchool coleagues who decided to start learning computer science and fun stuff while making some money.
+
+## Languages we love
+
+- Javascript
+- PHP
+- Coffee script
+- Ruby
+- C/C++
+- JAVA
+- Python
+- Android
+
+## Technologies we love to use
+- AngularJS
+- Ruby on rails
+- MongoDB
+- MySQL
+
+
+---------------------------------------
+
 About Me
 ===========================
 
@@ -9698,6 +13431,15 @@ We have an idea
 | Stoyan | Desi
 |--- |--- 
 | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3617358?v=3&s=460' alt='strachev'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/8769723?v=3&s=460' alt='sishub'/> | 
+
+
+
+---------------------------------------
+
+###WhistlePodu! (Blow A Whistle :D)
+
+ We are a group of Android, iOS and RoR hackers.
+
 
 
 
@@ -9745,13 +13487,9 @@ I like Java, PHP and now my new favorites is AngularJS.
 
 ---------------------------------------
 
-# Team : X-Men
+# Heroic Welcome To The X-Men Team Page
 
-# About Us
-
-We are collegues based in Hyderabad , India , looking forward for improvising  a stellar application for the first ever virtual global hackathon .
-
-Our team members are highly proficient in an array of programming languages from traditional imperative languages to several web technologies and Api's.
+<img width="100" height="100" src='http://hd.wallpaperswide.com/thumbs/x_men_origins-t2.jpg' alt='<h1>Team X-Men : Beware The Mighty Mutants</h1>'/>
 
 
  
@@ -9776,6 +13514,47 @@ Amazon AWS, JSP, Andriod, XSLT, XPath, etc...............
 ######Driven by our passion in helping others, we expect to do something that will help many. More details to come later!
 
 
+
+
+---------------------------------------
+
+# Xenova
+
+## Who we are?
+
+We all are passionate Software Engineers from Myanmar,
+currently we are working in Singapore. 
+We do love innovative ideas and always thinking to create great products on our own. 
+Hackathon is such a great idea for the team like us in different regions among the country. 
+We believe that this is the great opportunity for our team and this is our very first step to reach our goals and we really excited for this Hackathon.
+
+Our dream is to become a innovative startup company in this era and we try best to achieve our dream.
+Every single days, we thinking and finding to become one perfect solution on our products. 
+We love to learn new technologies, we always do and we do love  to create something good on that technologies. 
+
+### What we do?
+
+We do create the best solution with following programming languages:
+- Ruby
+- Java 
+- PHP
+- Objective-C
+Mostly we use following Interesting technologies and frameworks:
+-Ruby on Rails, Padrino, Sinatra
+-CodeIgniter, Laravel
+-Backbone.js, Angular.js, BootStrap
+
+Creating innovative ideas and building is the one that we all love to do on our life.
+Mainly we all doing web applications and mobile applications is one of our new trend to gain our goal.
+We known that there is no such a easy way to become good one, but we always do to gain the best, 
+we do together, we create together and we believe that one day will become good one. :)
+
+######
+
+In this Hackathon competition we plan to create interactive solution for fine print(TOS, EULA and Legal Documents) to attract user's attention.
+We known that this is something obvious, since most of the user didn't care about the TOS, EULA and Legal Documents.
+So, we want to deliver the best interactive solution to attract user's attention on that kind of important information.
+We believe that our framework will give something good solution on this problem.
 
 
 ---------------------------------------
@@ -9903,16 +13682,23 @@ I would like to address the need for a better way to deliver legal documents (EU
 This is our page
 ================
 
-We are the YopZ team
+Best friends always make the best plans ... and the best code ;)
 
+<img width="100" height="100" src='https://scontent-b-mad.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1888611_364477923726438_9087867357789785653_n.png?oh=61d952feb9ffad60635136dd3ffbc8b8&oe=55095F43' alt='best friends'/>
 
 About your team
 ===========================
+| Ayoub | Zineb
+|--- |--- 
+| <img width="100" height="100" src='https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/samtheeagle.png' alt='Ayoub'/> |<img width="100" height="100" src='https://raw.githubusercontent.com/zanoubia/global.hackathon/master/Teams/YopZ/img/me.png' alt='Zineb'/>
+| https://github.com/BigYopy| https://github.com/zanoubia
+
+We are Networking and System engineers who are interested in cloud computing. Thus, we discovered Koding and we liked the idea of the Global Hackathon.
 
 
 About your skills and what you are going to do?
 =======
-Python, Ruby
+Python, Ruby, phaser, shell scripting, linux administration, nginx, puppet
 
 
 
@@ -9934,7 +13720,77 @@ I am Yoshi and I gamify this life
 
 ---------------------------------------
 
+#About Me
+===========================
+
+Hello there, this is my team about page for the first Global Hackathon!
+
+I'm a one man band and embarking on this challenge alone, let's hope I can manage. As a student in my last year of Sixth form in the UK, I've had to teach myself eveything I know about coding.
+I started coding very early, maybe when I was 6, and loved it even at that age. Through the years, I've never stopped learning, and love a hard challenge.
+
+Most of my free time is dedicated to hobby coding projects and hacking electronics!
+
+I decided to participate in the Koding Hackathon because I love a challenge, and work well under pressure. Even if what I make in the end is no more than a demo, I'm sure I will have great fun making it and mingling with the Koding community!
+
+Skills:
+ * HTML5
+ * CSS3
+ * JS
+ * PHP
+ * MySQL
+ * Java
+ * C
+ * C++
+ * Pascal
+ * Assembly (x86 with SSE&MMX)
+ * Haskell
+ * Ruby
+ * Game Maker Language
+ * Python
+ * REST-API
+ * NodeJS
+ * JQuery
+ * The list goes on...
+ 
+But for the Hackathon, I think I'll mainly stick with PHP/HTML5/MySQL/JS/CSS5 maybe a smidge of C++ for backend... we'll see.
+
+
+
+---------------------------------------
+
+Zentral Software
+================
+
+TBD
+
+
+---------------------------------------
+
 http://zhvillues.tumblr.com/
+
+---------------------------------------
+
+About the Team
+===========================
+
+We are the Zoonies! We're a group of burners & technology lovers from San Francisco and Utah!
+
+TL;DR: Thomas, Patrick, and Ray (maybe?) work in some sort of job where they have stand-up meetings on a daily basis.  Pam is spending some time with electric cars and Margeaux, source of inspiration, light and joy, is our resident aesthician, product instigator, scrummaster and wordsmith.
+ 
+
+Skills and Plans
+=======
+As a combined team, we use these languages on the daily:
+- Javascript
+- Java
+- Node.js
+- Ruby on Rails
+
+APIs that we are like include but are not limited to:
+- Twitter
+- WolframAlpha
+
+Leaning toward theme #1, we're tossing around ideas of integrating environment, suprise data types, and biometrics data over time.  Looking to generate a web-kit app that can pull in data from a backend service with configurable data-feeds.
 
 ---------------------------------------
 
@@ -9953,6 +13809,13 @@ About your skills and what you are going to do?
 
 2. Nhi is a great UI and UX designer. She loves making gorgeous design.
 
+
+
+---------------------------------------
+
+<h1>Welcome to our page!</h1>
+<br/>
+<h2>coding for fun and to win;)</h2>
 
 
 ---------------------------------------
@@ -9983,8 +13846,13 @@ About Varun kumar
 ---------------------------------------
 
 # team appleskin
+We are the tops man
 
-It's just little 'ole meh.  I prefer to do everything in javascript.
+## Hunter
+likes teh javascript
+
+## Matt
+also likes teh javascript
 
 
 ---------------------------------------
@@ -10033,6 +13901,53 @@ We havent thought about the idea yet, will udpate shortly
 
 ---------------------------------------
 
+# banas
+
+banas is a single-person team comprising [this kid](http://twitter.com/SarupBanskota).
+
+
+# whoami
+
+I'm Sarup Banskota, undergrad student and the usual tinkerer. I have my sememster finals going on. Sleeping wouldn't make a great excuse to friends who'd like me to *group study*, so I decided to strike point 8 off my [ideas list](http://sarupbanskota.github.io/ideas.html) instead.
+
+
+# the_big_idea
+
+If I had a $ for every time a junior/friend/parent asked me how to [contribute to Free Software](http://www.slideshare.net/sarupbanskota/sarup-fossasia-1), [plan a college club event](https://fedoraproject.org/wiki/Coimbatore_Fedora_Contribution_Camp) or [make the printer work](http://lmgtfy.com/?q=printer+not+working), I would consider sponsoring this hackathon.
+
+All of us have seen some variant of those links, and while I agree the resolute ones will make the best use of it, most folks need things to be presented information in a manner they're comfortable with:
+
+> If it's on Wikipedia, it must be right.
+
+I'd like to build a platform where people who want to share can list a bunch of resources in a consistent manner. It's going to be community driven. I want to make it free (as in freedom, beer optional). 
+
+Oh the thought of being able to provide a [sarupbanskota.islearn.in/programming](http://www.irishslang.info/images/funnyimages/Funny-meme-I-changed-my-passwords-to.jpg) that everyone can share around :)
+
+# the_big_plan
+
+With the exams around, I have humble hopes at the moment. Thanks to the hackathon excitement, I'd like to get the project kickstarted and see how it rolls from there.
+
+I'll publish everything on [this GitHub repo](https://github.com/sarupbanskota/everytrack), so that's where you go to follow the action.
+
+Cheers!
+
+
+
+---------------------------------------
+
+
+# bearsAndVodka
+
+- Are you Gangsters? 
+- No we are Russians.
+
+## About Us
+Java, Grails, Groovy, Spring, Mongo
+JS, AngularJs, ReactJs
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -10063,6 +13978,22 @@ Some of the things I'll probably use:
  - Any other APi I can build in in time that can enhance the applications that users build.
  
 I might change my mind, and build applications using firebase instead of App Engine.
+
+
+
+---------------------------------------
+
+
+
+#team bleedblack
+
+hi i m Pushpak Solanki from Aurangabad,MS,INDIA
+i am an individual partipant,without any team member,
+
+I am an IT Enggeneering Student ,like to code and hack the problems out..!!!
+
+--I like Javascript,nd like to define a new code.
+I m not that good or pro in coding,but can perform all of its basic tasks.
 
 
 
@@ -10135,6 +14066,24 @@ The Team
 | <img width="100" height="100" src='https://m.ak.fbcdn.net/sphotos-f.ak/hphotos-ak-xpf1/v/t1.0-9/10429488_10204288400024630_4659166084811789476_n.jpg?oh=5d0a2663c3a25d34f07db35687a37bb3&oe=5509CF93&__gda__=1426313708_167f7393572b81bdf96aed2828393d58' alt='Divya K'/>
 
 
+
+---------------------------------------
+
+cd ~
+================
+There is no place like home directory.
+
+About our team
+===========================
+
+|  Tadeáš Ursíny |  Vojtěch Hotmar  | 
+|----------------|------------------|
+|   @thatisgeek  |	  @R41nGoloss   |
+
+Our skills and what are we going to do.
+=======
+
+//TODO: Think of something for the hackathon
 
 ---------------------------------------
 
@@ -10211,6 +14160,25 @@ We are crazy in making new stuff.
 
 ---------------------------------------
 
+cloudrack.io
+============
+
+We're an international duo, two friends who met online while developing modifications for a multiplayer game.
+
+Team members
+============
+
+| Piotr Zduniak | Qais Patankar |
+|--- |---
+| <img width="100" height="100" src='http://i.imgur.com/Bax8JmU.png' alt='Piotr'/> | <img width="100" height="100" src='http://i.imgur.com/yEDEQgK.png' alt='Qais'/>
+
+**Piotr Zduniak**, known online as Orange or kernal, is a 16-year-old backend developer. Mainly a Go developer, he also develops full-stack software and mobile applications using web technologies.
+
+**Qais Patankar**, also known as qaisjp, is a 16 year old game developer. He mainly develops in C# and Lua, but he is also involved with web development using modern web technologies, such as Go.
+
+
+---------------------------------------
+
 # coDeUNIT
 
 We are a bunch of workholic lads willing to challange our coding skills and you bet there's no better platform than HACKATHON! And we are both eagar and excited to be here .... Lets get started !
@@ -10266,6 +14234,16 @@ in society.</em>
 <em>Since my skills in coding are still at a beginners level, it's possible that it won't kick people from their chairs but 
 I will try to make the best project I've made yet. I do have some skills ehn it comes to design and art so hopefully it will 
 make up a little for the lack of knowledge in coding. I will try to build a PC game and it will, hopefully, be interesting.</em>
+
+
+---------------------------------------
+
+
+# consintpressure
+
+## About Us
+
+- We like to code
 
 
 ---------------------------------------
@@ -10333,6 +14311,22 @@ The Secret Sauce
 
 ---------------------------------------
 
+# dankokp
+
+The team is really small and consists only of one member
+
+## About
+
+Hi! My name is Dzianis. I'm a software developer with 3+ years of experience in iOS development. At this moment I'm living in San Francisco Bay Area. I like to learn something new and Koding Hackathon is a great opportunity to get outstanding knowledges in really short terms.
+
+## Languages which I'm going to use in hackathon
+
+- PHP
+- JavaScript
+
+
+---------------------------------------
+
 ###Welcome to darapti!
 
 
@@ -10382,6 +14376,23 @@ Conclusion: So, some strenuous events are fun events.
 
 ---------------------------------------
 
+#Team devsguys
+We are ezequiel and matias very pasionate for coding
+
+ #About us
+- Ezequiel: Syst. Eng. strong on PhP
+-Matias: Syst. Eng. Strong on android and apis
+
+##Languages we love 
+- Php
+-Javascript
+-Android
+-html5 
+-ccs3
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -10408,6 +14419,105 @@ will come.
 We do embedded programming (C/C++), as well Python/PHP/JS.
 
 
+
+
+
+---------------------------------------
+
+dontyoueatanyofmyfood
+================
+
+Deditcatedly we searched for something that represents our deepes desires and gifts us a frown.
+After months of searching we accidentaly found a vid on youtube that fullfills our craving.
+[This](https://www.youtube.com/watch?v=GJTagg3Z7Rs) is the video I'm talking about.
+Our inspiration and muse.
+
+
+About your team
+===========================
+
+| Marvin | Christian | Marc 
+|--- |--- |---
+| <img width="100" height="100" src='http://dontyoueatanyofmyfood.com/img/marvin.jpg' alt='Marvin'/> | <img width="100" height="100" src='http://dontyoueatanyofmyfood.com/img/chris.jpg' alt='Christian'/> | <img width="100" height="100" src='http://dontyoueatanyofmyfood.com/img/marc2.jpg' alt='Marc'/> | 
+
+We are a team of students from the Brühlwiesen School. Our main focus is technology and math.
+Marvin is our Lead Designer. Chris and I mainly work at backend stuff. We thought that competing in a competition would be fun and gives us some great experiences. In school we are working almost everyday on team projects. We know how teamplay works and thought a competiton like this could bring us to a new level. Also we are really excited to meet people from all over the world.
+
+About your skills and what you are going to do?
+=======
+We love neat and responsive ui's. Also compatibility on many viewports is always important in our development.
+
+Programming languages and API's we used/still use:
+
+- html/css ( :D )
+- php
+- javascript
+- jquery
+- bootstrap
+- wordpress API
+- twitter API
+
+
+
+
+---------------------------------------
+
+This is our page
+================
+
+Before introducing about our team, we definitely like to say thanks both of the organizers oDesk and all the board member’s of Koding who allowing us to participate in their fantastic global hackathon program this year that call “Global Hackathon”
+
+We want to Express – “It Sounds Like Hackers Meet the Cloud Cross the Border”
+
+This is our page and the code name for our team is {DOZENH@CK}. It is good to know that DozenHack has been counting as a participant for “Global Hackathon” this year 2014. Dozenhack consisted with two members. One of them is Mahfuz who got sponsorship/referrals from oDesk as a Top Contractor/Performer in oDesk   to participate in Global Hackathon and another name is Farhadur Rahim – who having many years of experience in software engineering and software architect. In this competition, he will play a role for back-end support and make it easy for me by solving critical logics. 
+
+
+About Our team
+===========================
+
+| Mahfuzul Haque | Farhadur Rahim
+|--- |--- 
+| <img width="100" height="100" src=' https://odesk-prod-portraits.s3.amazonaws.com/Users:thikadar:PortraitUrl_100?AWSAccessKeyId=1XVAX3FNQZAFC9GJCFR2&Expires=2147483647&Signature=aF1H3qOIPudwFUjJxk7y9pznHUw%3D&1417006618' alt='Mahfuz'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1416284972/webmechanicx-1.jpg' alt='Frahim'/> |
+
+
+Mahfuzul Haque
+
+Most interested matter Mahfuz involving since 2010 as Front-end Developer and UI/UX Designer. He served many Good Companies at Bangladesh.
+
+Favorite Tools:
+- Javascript [Pure]
+- JQuery.
+- Adobe Edge
+- Photoshop, Illustrator
+- DropBox as Cloud Storage. [He is a Fan of DropBox]
+   - Odesk and Themeforest as MarketPlace
+
+Off-source Interest:
+
+- Only Music and Foods.
+
+
+Farhadur Rahim
+
+Project manager with over 10+ years of hands-on experience spanning program, project, PMO, product and team management. A diverse background in technical and managerial areas with experience in creating vision, strategies, portals, business management, software development, ecommerce, CMS applications, SEM, SEO, web strategies and for delivering business critical information system projects to clients located in North America & Europe.
+
+Favorite Tools:
+
+He is a real Combo for sure. The combo = Designer + Programmer.  
+
+He used to say, there shouldn’t be any limit for people to learn anything he/she loves to do and knowledge has no limit. So, keep Go! Go!
+
+A dozen of dev stacks he experienced with. Now last couple of months he has been digging with Python and imagine the power of AngularJS.
+
+Off-source Interest:
+
+- Watching Movies
+- Foods
+- Always love to help people with the exchange of their smiling face.
+
+What you are going to do?
+=======
+Here we go, we choose one of the themes in this competition and that has been really out of focus from many years. But now the time to make it happens. Thanks Koding Team for considering this issue and placed it as one of the themes under this competition.
 
 
 
@@ -10527,27 +14637,89 @@ Web Pages
 
 ---------------------------------------
 
+# Emom team
+
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/761285?v=3&s=460' alt='ilyar'/>
+|---
+| [@ilyar](https://github.com/ilyar) full-stack developer
+
+> even if you have eaten you have two choices
+
+---------------------------------------
+
 About your team
 ===========================
 
 | marina | sergiy | oleksiy | rudeg | yurk
 |--- |--- |--- |--- |--- 
-|<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/538843?v=3&s=400' alt='Marina'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/925580?v=3&s=460' alt='Sergiy'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/2910707?v=3&s=460' alt='Oleksiy'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1915554?v=3&s=400' alt='Sergii'/> | [Yurk](https://avatars1.githubusercontent.com/u/4581398?v=3&s=400) 
+|<img width="100" height="100" src='https://avatars0.githubusercontent.com/u/538843?v=3&s=400' alt='Marina'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/925580?v=3&s=460' alt='Sergiy'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/2910707?v=3&s=460' alt='Oleksiy'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1915554?v=3&s=400' alt='Sergii'/> | [Yurk](https://avatars2.githubusercontent.com/u/4581398?v=3&s=400) 
 
 We all live in the same city and know each other personally, but never tried
-to work together... So why not try?  After all, who would resist opportunity
-to spent 48 hours coding? :)
+to work as a team... though some of us do work together. So why not try?  
+After all, who would resist an opportunity to spend 48 hours coding? :)
 
 
 About your skills and what you are going to do?
 =======
 
-We are two Jav , one Python, and two Javascript developers.
+We are two Java, one Python, and two Javascript developers.
 Chances are that we're going to code in a completely different stack
 (Clojure/ClojureScript?) though. 
 
-Our goal is to scratch our own pain and to build service that would help
-to write cleaner foreign language.  Natural language, I mean, like English.
+Our goal is to scratch our own itch and to build a service that would help
+to write better in foreign languages.  Natural languages, I mean, like English.
+
+
+---------------------------------------
+
+EpsilonPI
+================
+
+Welcome to epsilonpi
+
+
+About us
+===========================
+
+| bhargav | david
+|--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/446199185319022592/5b5W6bcL_400x400.jpeg' alt='Bhargav'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000496838753/04ba0f8d78bd4f860a8ea3eb2279e4c3_400x400.jpeg' alt='David'/> |
+
+
+
+
+What we do
+=======
+
+
+
+
+---------------------------------------
+
+# eSpacians
+
+## About us
+
+We are 5 enthusiastic developers based in Alexandria, 
+Egypt. We love open source technologies, we use ruby, python, javascript and java to make meaningful software.
+
+## Our Team
+
+| she7ata | maboelnour | yasminegaber | modsaid | mohheader |
+|--- |--- |--- |--- |--- |
+| <img width="100" height="100" src='https://lh5.googleusercontent.com/-KfMohAy9_bI/UgE1NGCUhBI/AAAAAAAAAAo/DM3gLdLtrr0/s521-no/8438b94c-6b40-40b4-8358-c00e745afb7e' alt='she7ata'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-_k6hTSrtpqs/VH8pce-F7lI/AAAAAAAAABE/gR5Zm9wG0Rw/w517-h521-no/me2.jpg' alt='maboelnour'/> |  <img width="100" height="100" src='https://lh4.googleusercontent.com/-hyjl51o2PMI/VH8oezIExAI/AAAAAAAAABA/rCBpkDASgIk/s450-no/2022572.jpg' alt='yasminegaber'/> | <img width="100" height="100" src='https://lh5.googleusercontent.com/-gfpAemy98nE/VEkUTqLR31I/AAAAAAAAAOA/rZAHah1YWVQ/s521-no/mod.jpg' alt='modsaid'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-426_sCT83Dc/U3cii_DRJhI/AAAAAAAAAHw/VqEnh27ViRs/s410-no/DSC_4180.jpg' alt='mohheader'/> |
+
+
+## Our values
+
+* We value information, and accessibility of data
+* We value team spirit
+* We value elegant code
+* We value values :)
+
+## Theme
+
+We plan on addressing problems that face our planet.  We are considering other themes too.
 
 
 ---------------------------------------
@@ -10560,7 +14732,7 @@ About your team
 ===========================
 
 - Nootan Ghimire   -- http://github.com/nootanghimire
-- Nishan Bajracharya  -- http://gitub.com/Nishan13
+- Nishan Bajracharya  -- http://github.com/Nishan13
 - Rhoit Man Amatya  -- http://rhoit.github.io/bio/
 
 We are two undergrad students currently pursuing a bachelor's degree in Computer Engineering. And one graduate student doing Masters by Research.
@@ -10664,6 +14836,19 @@ I have an amazing project that will be really useful, using Swift and Ruby on Ra
 
 ---------------------------------------
 
+About greenDuo team
+===========================
+
+| Fiaz Husyn (Developer) | Mohammed Naeem (Developer) |
+|--- |--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2260008210/Users_nebula12_PortraitUrl_100_400x400.jpg' alt='Fiaz Husyn'/> | <img width="100" height="100" src='https://abs.twimg.com/sticky/default_profile_images/default_profile_3_200x200.png' alt='Naeem'/> |
+| [Linkedin](https://www.linkedin.com/in/fiazhusyn), [Github](https://github.com/fiazhusyn) | [Github](https://github.com/naeem014) |
+
+We are team of like minded individuals having diverse interests - Fiaz is programmer by hobby who self taught the programming and all the things related while Naeem is a student of computer engineering and avid follower of machine learing and data analytics. We are joining the hackathon solely for the purpose of learning and competing is area while doing what we love doing :)
+
+
+---------------------------------------
+
 Team grey93
 ================
 
@@ -10723,24 +14908,40 @@ Just a random group of guys who happen to work together at the same company :)
 
 ---------------------------------------
 
-# Team hausanfan
-Marcos F. Mayorga is the lonely mate
+# hausanfan !!
+
+<a href="http://mm-studios.com"><img src="http://mm-studios.com/davey1_1.gif"/></a>
+Man-Machine AI studios
+
+# Sound Track
+<a href="https://www.youtube.com/watch?v=7GhlCapryho"><img src="http://img3.wikia.nocookie.net/__cb20110909211843/lyricwiki/images/9/9a/Celtas_Cortos_-_Salida_de_emergencia.jpg" width="100"> Hacha de Guerra - Celtas Cortos</a>
 
 ## About me
-B. Sc. Physics
+<a href="http://about.me/mmayorga"><img src="http://d13pix9kaak6wt.cloudfront.net/avatar/users/m/m/a/mmayorga_1400501911_63.png"/></a>
+<img src="http://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png" width="100"/> Based in Madrid, Spain.
+
+
+Marcos F. Mayorga is the lonely esoul.
+B.Sc. Physics.
 15 years IT experience at all development levels.
 Business entrepreneur - http://fairluck.org
-mm-studios.com
+http://mm-studios.com
 
 ## Languages
-C++
-many others
+<a href=""><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/C_plus_plus.svg/100px-C_plus_plus.svg.png"></a>
+and more.. php, sql, bash, others
 
 ## Operating Systems
+<a href="https://www.debian.org/"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/512px-Openlogo-debianV2.svg.png" width="100"></a>
 Debian GNU/Linux
 
+
 ## Pseudo Operating Systems
-Windows 95
+
+<img src="https://kevcom.com/images/macwindows/macwindows.jpg"/>
++
+<a href="http://www.frikipedia.es/friki/Windows"><img src="http://www.frikipedia.es/images/thumb/7/75/HasefrochXP.jpg/200px-HasefrochXP.jpg"></a>
+
 
 
 ---------------------------------------
@@ -10748,7 +14949,9 @@ Windows 95
 Welcome to Hawaii Hackers
 ================
 
-I am a student studying computer science at the University of Hawaii at Hilo.
+I am a student studying computer science at the University of Hawaii at Hilo. Tried to get people to join, but I was the only one crazy enough to try and balance a hackathon, and a Software Engineering project that culminates in a demonstration before a review board next week. Go me!
+
+<img width="100" height="100" src='https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10357807_10153006617253009_6237015540130397559_n.jpg?oh=8294e964499a33fb1c2096e309d475f3&oe=55001B5D&__gda__=1426433032_8b16c41f14b47360b3ae64a72ccea70e' alt='maui'/>
 
 
 About your team
@@ -10756,7 +14959,7 @@ About your team
 I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
 I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
 large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
-on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
+on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I didn't want to ride around on a tractor all day for the rest of my life. 
 
 I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
 new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for
@@ -10796,6 +14999,24 @@ Most important reasons of participation in Global Hackathon:
 1. Get fun being a part of global movement
 2. Present one of pet projects to jury
 3. Get hands dirty working with different APIs
+
+
+---------------------------------------
+
+HEllo 
+Welcome to the team "hvaminions"
+Member 1:
+          Vishva Thejeshwar 
+ from:  Amrita school of Engineering,Coimbatore
+           Tamil nadu , India
+           I am Interested in this hackathon because this will be my first
+           I want to use this oppurtunity to the fullest
+
+                
+
+---------------------------------------
+
+I hate dead week.
 
 
 ---------------------------------------
@@ -10885,6 +15106,30 @@ We are web imbecilez from the Meteor Capital of the Earth and we are going to wi
 
 ---------------------------------------
 
+# ME!
+###Clemente Gomez aka Mente
+#####I promise I don't have the sniffles
+
+<img width="100" height="100" src='http://www.gravatar.com/avatar/a9ce207637ada87edcad00ce61856b01?s=200' alt='Its Me'/>
+
+A young old, Frontend Dev from Queens New York. Mostly passionate about the bleeding edge technologies. Currently in a love affair with NodeJS and Swift after divorcing Flash. In my spare time I play piano, play video games and make funny social commentary tweets on my secret twitter account. MWAHAHAHAHAHA
+
+# About your skills and what you are going to do??
+
+Just know I'll be making something that impacts the world!! (or maybe just 'Murica)
+
+- Node.js
+- Javascript
+- CSS
+- HTML
+- Objective C
+- Swift
+- AngularJS
+- Actionscript 3
+
+
+---------------------------------------
+
 Team Infi
 
 About our team
@@ -10913,28 +15158,119 @@ Itzteam members
 
 ---------------------------------------
 
-jakobhans
+Team: izwiz
 ================
 
-Great team of one. Developer and pseudo-designer
+My name is Nathanial Lattimer and I will represent team "izwiz" as its only member.
 
-
-About jakobhans
+About your team
 ===========================
 
-| jakobhans 
-|---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/490120478996955137/2B8sN1eZ_400x400.jpeg' alt='jakobhans'/> |
+| iismathwizard
+|--- 
+| <img width="100" height="100" src='https://www.iismathwizard.com/imgs/myself.jpg' alt='iismathwizard'/> | 
 
+I am a young developer who was inspired by a robotics team in his highschool to work in the software development field. So far, I've worked over 3 years in internships and 3 hackathons with success.
+
+I want to win this competition because I want to prove to myself that all my hard work of learning programming and development has paid off and that I can compete on a professional level. This field is hard and demanding and even though I may not have had the most technologically enriching environment growing up, my gusto and ingenuity will be my keys to victory.
+
+My Project - Babylon
+===========================
+
+This project is going to be a step up from the Star Trek Universal Translator.
+
+---------------------------------------
+
+jakobhans + morgan
+================
+
+Great mexican team of designer/programmer + programmer. Looking forward to have some fun and build something worth your while.
+
+
+About jakobhans + morgan
+===========================
+
+| Andrea | Jakob |
+|--- |--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2223873271/foto_perfil.jpg' alt='andrea'/> |  <img width="100" height="100" src='https://pbs.twimg.com/profile_images/490120478996955137/2B8sN1eZ_400x400.jpeg' alt='jakobhans'/> |
+
+Andrea
+======
+A visual arts student, graphic designer with curiosity for the programming world, currently focusing on frontend projects. Loving the CSS3, and all the creative world around it. This will be my first hackathon, hope to have a lot of fun and learn as much as I can.
+
+Jakob
+======
 I'm a self-taught coder who studied marketing in college. For the last 7 years I've been developing mobile and web apps and really enjoying it. Trying to grow and learn as much as I can.
 I've been to two hackathons previously, one in Barcelona (my former home) and the other one in Berlin. Really like the vibe one gets in this kind of competitions and the growth attainable from seeing other peoples projects.
 
 
-My skills
+Our skills
 =======
-I've worked server side with PHP and Python. Probably what I'll be doing for the hackathon will be more of a client side app, so JavaScript this time :)
-For API's I'm interested in doing something with Wolfram Alpha and maybe Google Predictions (the whole interface looks interesting).
-For the project I like the TOA/EULA theme.
+Together we count our strengths as:
+- UI/UX problem solving
+- Art direction
+- Client side programming (JS)
+- Front-end design and programming (HTML5 / CSS3)
+- Server side programming (PHP, Python)
+- Great music taste & good vibes
+- Conceptual and applied creativity
+
+
+---------------------------------------
+
+Jani
+====
+
+:boom: Introducing one man team Jani! :boom:
+
+That's me!
+=========
+
+| Irakli Janiashvili                                                 |
+|--------------------------------------------------------------------|
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/962095?v=3&s=140' alt='Jani'/> |
+
+Hi, I'm Irakli and I just like participating in hackathons!
+
+Skills & Idea
+=============
+
+My current development stack is around node & ruby
+
+My idea is about solving a common file sharing problem with an awesome easy to use solution with a
+secure p2p connection.
+I'm fascinated about web so I'm gonna use many cool HTML5 features like web components and WebRTC
+
+Me @internet
+============
+
+[github.com/irakli-janiashvili](http://github.com/irakli-janiashvili)
+
+[@iJaniashvili](http://twitter.com/iJaniashvili)
+
+[jani.io](http://jani.io/)
+
+
+---------------------------------------
+
+The jedi warrior
+
+
+---------------------------------------
+
+#Jkhan
+
+Don't have a team so I am participating as a individual :(
+
+I love coding :)
+
+#About me
+-jkhann: my name is jafar, I love java, .net and shell script
+
+## Languages I love
+- java
+- .net
+- shell scripting
 
 
 ---------------------------------------
@@ -10953,6 +15289,47 @@ I'm an individual freelancer. I love challenging problems. I'm a good bug fixer 
 - PL SQL
 - PHP
 - js
+
+
+---------------------------------------
+
+LAHOREAY
+================
+Lahoreay is a team of developers and a designer based in Lahore, Pakistan working in a same company. We have been brain storming on many ideas together, though never got a chance to materialize these ideas in to products. But now we believe Koding hackathon has given us a chance to actually conceive an idea and develop it into a working product.
+
+Our Team
+===========================
+
+| Adnan Khan | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/435402024574660608/kLaSL_HJ.jpeg' alt="Adnan Khan" > 
+|--- |--- |--- |---
+| Adeel Rao | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540399236395712512/4iDAKka9_400x400.jpeg' alt="Adeel rao" >
+|--- |--- |--- |---
+| Ahmad Nawaz  | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540394055088087040/QXqC1ho2_400x400.jpeg' alt="Ahmad Nawaz" >
+|--- |--- |--- |---
+| Asif Rana | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/3115589372/d33a0c6ee6dc38e88e55980efaa6bfcb_400x400.jpeg' alt="Asif Rana" >
+|--- |--- |--- |---
+| Waqas Ahmad | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/3115589372/d33a0c6ee6dc38e88e55980efaa6bfcb.jpeg' alt="Waqas Ahmad" >
+|--- |--- |--- |---
+| Zahid Nadeem  | <img width="120px" height="120px" src='https://pbs.twimg.com/profile_images/540400678716178433/FOLE53u1_400x400.png' alt="Zahid Nadeem" >
+
+
+
+Team Combined Skills
+=======
+The team has experience in following technologies,
+PHP
+Javascript
+HTML5
+Phonegap
+MySql
+MongoDB
+
+
+What we are going to Build
+============================
+We plan to develop an educational HTML 5 game based on the World Bank Climate data API and datasets.
+
+
 
 
 ---------------------------------------
@@ -10989,6 +15366,53 @@ I am Azmath Shamrad from Colombo, Sri Lanka
 
 ---------------------------------------
 
+le wild koders
+================
+
+Hey folks, meet us le wild koders from Sri Lanka :)
+
+Who are we?
+===========================
+
+| Manujith | Kusumal
+
+We are just crazy guys hoping for that something to change in the mainstream ways of life :D
+
+Basically we need to code something different and useful than the everyday ERP.
+
+
+Our Toolbox
+=======
+
+We have a wide range of skills included in our toolbox :)
+
+NO boasting though, we have Java (we all love it :*), Javascript, Objecive C, PHP, Python and the HTML5 to deco our interfaces.
+
+
+
+
+
+
+---------------------------------------
+
+
+# leivanz
+
+I am a one-man team.
+
+## About Me
+
+My name is Nabiel. I love coding.
+
+## About the Project
+
+I would like to create an application that will make the world go round.
+
+
+
+
+---------------------------------------
+
 #Limonxello team
 
 Soy un programador solitario, en un futuro me gustaría incluir a alguien más en el equipo.
@@ -11000,6 +15424,24 @@ Nick: Viruslemon
 -Java
 -JavaScript
 -JQuery
+
+
+---------------------------------------
+
+About ME
+=========
+
+**Asyrique Thevendran**
+
+I like writing simple, elegant, modular code.
+
+Current Projects:
+- [The Gazelle](http://www.thegazelle.org)
+- [Causio](http://caus.io)
+- [*Gitsume*](https://github.com/asyriqueat/asyriqueat.github.io/tree/master/gitsume)
+- [Tunefu.li](http://tunefu.li)
+
+Find out more about [me](http://asyrique.me) or on my [Github](https://github.com/asyriqueat).
 
 
 ---------------------------------------
@@ -11041,6 +15483,23 @@ We are mapQuest team ready to build interactive game using Google Maps™ and ge
 ## Technology stack
 
 We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
+
+
+---------------------------------------
+
+#maserclass
+We are a team of four located in Kenya
+#About our team
+
+We are passionate about technology and upto date with the current trends in the  technological space
+#our skill and what we will do
+  #languages we love working with
+  
+  -PHP
+  -Javascript
+  -Java
+  
+-We are still brainstorming on what to do
 
 
 ---------------------------------------
@@ -11133,23 +15592,74 @@ We are three web devs.
 
 # myPHPmaster
 
-Another team for Koding global hackathon.
+Another team for Koding global hackathon from Malaysia.
 
-## About me
+# About Us
 
-My name is Mohd Othman from Kuala Lumpur, Malaysia.
+## Mohd Sufian Othman
+Professional engineer now doing M.Sc. in Universiti Kebangsaan Malaysia, Bangi, Selangor. 
 
-## My Project
+## Bahrom Baharin
+Professional engineer working at Public Works Department HQ, Kuala Lumpur.
 
-Yet to decide.
+# Our Project
+
+We will focus on developing web application that highlight world's global issue with interactive data visualization.
 
 ## Language to use
 
 - PHP
-- mySQL
 - Javascript
-- HTML5
+- HTML
 - CSS3
+- jQuery
+- AJAX
+- jSON
+
+## API to use
+
+- Google Map
+- Google Places
+- Geocoding
+
+
+---------------------------------------
+
+#team myawesome.website
+
+A one man team with an idea for an awesome website.
+
+## The Team
+Hi, I'm Martin
+
+##The Project
+I have a vague idea for a HTML5 game that'll fit in with theme 4 of the Hackathon. It'll be awesome!
+
+
+---------------------------------------
+
+
+#Team Awesome 
+
+João .. 
+
+## About us
+
+I have some ideas and a motivation to develop...
+
+
+## Languages we love
+
+PHP
+
+Java
+
+Javascript (jquery)
+
+HTML
+
+bootstrap
+
 
 
 ---------------------------------------
@@ -11202,6 +15712,34 @@ I am planning to do something unique
 
 ---------------------------------------
 
+<h1>nin<em>ja</em></h1>
+<p><em>my team, my rules, just me..</em></p>
+
+<h2>ABOUT nin<em>j</em>a</h2>
+
+<p>still a 15 yr. old student and wanna be the best coder ever...So this time I'm gonna use this opportunity to make it real</p>
+
+<em>I speak,</em>
+<ul>
+    <li>C++</li>
+    <li>Python 2</li>
+    <li>Python 3</li>
+    <li>Java</li>
+    <li>Javascript</li>
+    <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mainly.....</em>
+</ul>
+<p>but able to speak some other languages too...just choosing the right language at the right place...!</p>
+
+<p>I write scripts, algos, games and every stuff related to code..just because I REALLY LOVE CODE..! and would easily
+throw a date away for a little piece of intersting code...</br>and sometimes I exploit..!</p>
+
+<p>and this time I'ma have a blast...a really BIG one..I promise you...!</p>
+
+<h4>BYE FOR NOW!</h4>
+
+
+---------------------------------------
+
 ninjasinthebox
 ==============
 We are ninjasinthebox, the most awesome ninjas in a box. <br>
@@ -11209,9 +15747,9 @@ We are ninjasinthebox, the most awesome ninjas in a box. <br>
 
 teamzor
 =======
-| silbo <br> roboninja | dono <br> webninja | morris <br> 3Dninja |
-|--- |--- |---|
-| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/802834?v=3&s=160' alt='silbo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/4045902?v=3&s=160' alt='dono'/> | <img height="160px" src="https://avatars1.githubusercontent.com/u/4302527?v=3&s=160" alt="morris"> |
+| silbo <br> roboninja | dono <br> webninja | morris <br> 3Dninja | kris <br> interactiveninja | joan <br> artninja |
+|---|---|---|---|---|
+| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/802834?v=3&s=160' alt='silbo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/4045902?v=3&s=160' alt='dono'/> | <img height="160px" src="https://avatars1.githubusercontent.com/u/4302527?v=3&s=160" alt="morris"> | <img height="160px" src="https://avatars3.githubusercontent.com/u/817241?v=3&s=160" alt="kris"> | <img height="160px" src="https://avatars1.githubusercontent.com/u/4304527?v=3&s=160" alt="joan">
 
 story
 =====
@@ -11222,10 +15760,46 @@ our ninja skillz
 <strong>silbo</strong> is a first class roboninja. <br>
 <strong>dono</strong> is a first class webninja. <br>
 <strong>morris</strong> is a first class 3Dninja. <br>
+<strong>kris</strong> is a first class interactiveninja. <br>
+<strong>joan</strong> is a first class artninja. <br>
 
 mizzion
 =======
 The most awesome ninja mission evar completed!
+
+
+---------------------------------------
+
+Team Name: `nobacksies`
+================
+
+`nobacksies` is john, sarah, sam, and alan. `<3` from nyc, usa.
+
+<img width="100" height="100" src='http://images.amcnetworks.com/ifc.com/wp-content/uploads/2011/10/the-breakfast-club-10192011.jpg' alt=''/>
+
+ruby. rails. rock n' roll.
+
+```
+#    _  _               _                _        _
+#  _| || |_ _ __   ___ | |__   __ _  ___| | _____(_) ___  ___
+# |_  ..  _| '_ \ / _ \| '_ \ / _` |/ __| |/ / __| |/ _ \/ __|
+# |_      _| | | | (_) | |_) | (_| | (__|   <\__ \ |  __/\__ \
+#   |_||_| |_| |_|\___/|_.__/ \__,_|\___|_|\_\___/_|\___||___/
+#
+```
+
+
+---------------------------------------
+
+#Noder Coder
+
+We are all new and its the first time to participate in hackathon
+
+We are team of programmers, user interface programmer and a creative head.
+
+-- All the best for other teams.
+
+Will add other information later... Busy on thinking... :)
 
 
 ---------------------------------------
@@ -11243,6 +15817,48 @@ I'm Luke Sawicki, I'm specialising in GIS solutions.
 
 ---------------------------------------
 
+# nullpointer (exception)
+
+ #### Our team geeks:
+- Sergiu known as smotru
+- Robert aka chinezu
+- Cristi as pantazi
+- Victor (Ditu)
+
+## About us
+- Software engineers (aspiring), we are studying at Technical University of Cluj-Napoca & Babes-Bolyai University, Romania.
+- Sergiu, known as smotru, studies Computer Science in 3rd year and branch manager @ Catalysts Software Romania is addicted to web development and one of the coolest guys ever. 
+- Robert, aka chinezu, studies Automatic Control in 3rd year and software developer @ Catalysts Software Romania is passionate in game / software development and mathematics.
+- Cristi, as pantazi, studies Automatic Control in 3rd year and software developer @ Klever Systems is one of the best at robotic stuff and physics.
+- Victor (Ditu) studies at Babes-Bolyai University in 3rd year and software developer @ Catalysts Software Romania - expert in big-data and backend stuff + cooler then Sergiu, known as smotru.
+
+## Languages we talk
+- Java
+- Java
+- JavaScript
+- HTML
+- CSS
+- C#
+
+
+---------------------------------------
+
+
+# one87
+
+I'm [Mickel](http://mickel.me) and this is my first hackathon, which I plan to win. Caffeine-free. #winning #nocoffeeneeded
+
+### Artillery
+
+- VIM
+- JavaScript
+
+### Inspiration
+<img width="100" height="100" src='https://pbs.twimg.com/media/B4AZC2tCEAA6T-m.jpg:large' alt=''/>
+
+
+---------------------------------------
+
 Open IT
 ================
 We love hackathon, and we won the hackathon twice in Taiwan.  
@@ -11253,6 +15869,52 @@ We want to make things different. We don't make shit.
 What I am going to do?
 =======
 We have some ideas about theme 1. It will be cool and fun. 
+
+
+---------------------------------------
+
+## Oreo
+
+**Que:** Is "Oreo" the name of your team?
+
+**Ans:** Yea... Oreo!
+
+**Que:** But why?
+
+**Ans:** Because I love [Oreo](http://en.wikipedia.org/wiki/Oreo).
+
+## Mascot
+
+Y U NO MASCOT??
+
+<img width="100" height="100" src='https://dl.dropboxusercontent.com/u/27856829/permanent/mascot-oreo-koding-hackathon.jpg' alt='Oreo's mascot'/>
+
+## About
+
+I am [Amber Jain](http://amberja.in/) ([amberj](https://github.com/amberj) on GitHub). Ex-[GSoC](http://en.wikipedia.org/wiki/Google_Summer_of_Code)er (2012) and ex-DevOps at [TinyOwl](http://www.tinyowl.com/) (Jan-Nov 2014). 
+
+## Why you did I decide to join? Why do I want to win?
+
+Quoting Linus Torvalds:
+<blockquote>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.</blockquote>
+
+## Skills
+
+<img width="100" height="100" src='https://dl.dropboxusercontent.com/u/27856829/permanent/my-tech-stack.png' alt='What do I do!'/>
+
+## My hackathon project
+
+I'm planning to build a working a web app which allows.... TBD.
+
+(Well, I'm still working on the rest of the part of this description :-P )
+
+## Anything else?
+
+Yea... last but not the least, this one is for koding.com's team:
+
+[<img width="100" height="100" src='http://imgs.xkcd.com/comics/binary_heart.jpg' alt='Koding.com: I love you'/>](https://xkcd.com/99/)
+
+Thanks to the awesome folks at [koding.com](https://koding.com/) for this virtual hackathon! \o/
 
 
 ---------------------------------------
@@ -11322,11 +15984,11 @@ Regards,
 ###UPDATE: Another Member!
 
 ###Knock, knock, who's there?
-He is Andhieka Putra, an enthusiastic Year 2 Computer Science undergraduate from National University of Singapore. Github: [github.com/andhieka](https://github.com/andhieka)
+He is Andhieka Putra, an enthusiastic Year 2 Computer Science undergraduate from National University of Singapore. Github: [github.com/andhieka](https://github.com/andhieka). He really likes to play the guitar and he is making an app to help newbies learn to play the guitar. He calls it the [Guitar Academy](https://github.com/guitar-academy).
 
 We have been friends since eternity.
 
-We will be working together to bring out the best of our abilities :D
+We will be working together to bring out the best of our abilities :D :boom:
 
 
 
@@ -11342,6 +16004,21 @@ I have some free time and a buddy suggested I sign up for this. I'm going to bui
 
 I think I'm going to use some OCR technology and integrate it into Quickbooks. There were some things I was forced to do for DishGo when it was time to do our taxes that were really painful. I think they can be automated.
 
+
+
+---------------------------------------
+
+About reCode
+============
+
+Team reCode consists of just me, Aviral Dasgupta, a current undergraduate Computer Science & Engineering student at KIIT University, Bhubaneshwar, India. I've been programming since I was twelve and have dabbled in everything ranging from homebrew dev for the Gameboy Advance, to web development.
+
+I like using technology to build smart solutions that get out of your way, but get your work done.
+
+About Skills
+============
+
+I can comfortably switch from backend to frontend, and mobile. This project in particular will consist of an Android app with a Python backend deployed on Google AppEngine and a realtime frontend for the web.
 
 
 ---------------------------------------
@@ -11409,11 +16086,7 @@ Tell us why you want to win.
 
 What we plan to do... 
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
+We plan to create an interactive HTML5 game to help novice programmers and non-pogrammers quickly master the basics of HTML, CSS and JAVASCRIPT. The site will use Facebook graph API and some other APIs as well. 
 
 
 
@@ -11446,6 +16119,36 @@ Languages:
 
 ---------------------------------------
 
+Team ¯\\_(ツ)_/¯
+===============
+
+This is Team I-Didn't-Have-A-Better-Name-For-It or Team ¯\\_(ツ)_/¯ for short.
+
+I like web technologies, specifically building on top of already powerful services and extending them. For example, taking the WUndgeround weather API and using sunset time to turn the lights in my house on. Or by combining Rotten Tomatoes and Redbox to find critically acclaimed movies that I can immediately pick up (that is if I can be bothered to put on pants).
+
+
+About your team
+===============
+
+| jacroe 
+|--- 
+| <img width="100" height="100" src='https://secure.gravatar.com/avatar/8e85a3db943a53e5baa1a2e197d08118?size=200px' alt='Jacroe'/> |
+
+I move bits around.
+
+
+My Skillz
+=========
+
+Like I said, I really like web technologies so I'll be developing in PHP5 with some Python as a backend, HTML5, and jQuery. Probably use Bootstrap since I'm a terrible designer
+
+Right now, I'm thinking of visualizing or re-thinking how people look at some government data. Which agency's? And in what ways?
+
+¯\\_(ツ)_/¯
+
+
+---------------------------------------
+
 # SponzorMe
 
 We are Sponzorme team, a team of Top Talent Colombian Developers.
@@ -11456,6 +16159,27 @@ We are Sponzorme team, a team of Top Talent Colombian Developers.
  - CSS (SCSS)
  - JavaScript (Angular)
  - PHP
+
+
+---------------------------------------
+
+About me:
+
+I am an undergraduate Student. I like algorithmic programming, web application development.
+I have a good command over algorithms and back-end development.
+Solving real world problems drives me. I like to strive for a better solution for a problem.
+
+Skills:
+
+   Desgin of Algorithm
+   Java
+   JSP
+   ASP.NET
+   PHP
+   MySQL
+   Python
+   C++
+   C
 
 
 ---------------------------------------
@@ -11473,6 +16197,37 @@ We are Sponzorme team, a team of Top Talent Colombian Developers.
 
 ## Languages we love
 Python, C, C#, Java
+
+
+---------------------------------------
+
+This is our page
+================
+
+Team TekHus...normally there would be more of us, but today there is only one!
+
+
+About your team
+===========================
+
+| Kevin 
+|--- 
+| <img width="100" height="100" src='http://www.tekhus.com/wp-content/uploads/2014/12/17f8c6a.jpg' alt='Kevin'/>
+
+I enjoy coding, especially when it involves doing something more creative than the norm. The challenge of doing so in a contest atmosphere seemed like it might be a lot of fun, and the themes make it even more interesting. I'm really looking forward to participating - I had hoped my teammates would have been able to join me this weekend to make it even more fun, but even on my own is still going to be rewarding and enjoyable.
+
+
+About your skills and what you are going to do?
+=======
+I'm aiming to do something interactive, fun, and educational, at the very least probably using jQuery. Eveything else will probably be decided on the fly!
+
+---------------------------------------
+
+I'm 48 years old and I'm *still* koding. Seriously, coding has been a life-saver for me. I grew up raised by a single immigrant mom on welfare and it's because of coding that I managed to build a career that I love. I hope that in 20 years when I'm 68, I'll still be able to say *PROUDLY* "I'm koding!" (and doing my 20th **Koding** global hackathon :)
+
+William
+
+<img width="100" height="100" src='https://secure.gravatar.com/avatar/0b47bb2a6ab06101744a5c62477a4e15?s=90&s=350' alt='the 48 year old programmer'/>
 
 
 ---------------------------------------
@@ -11497,6 +16252,19 @@ I will write some code and wait till it crashes. Hopefully while everyone is wat
 
 ---------------------------------------
 
+# Intro
+
+<img width="100" height="100" src='http://i.imgur.com/Bld1Abg.png' alt='my avatar'/>
+
+Hi, I'm tonypai. Just graduate from school, this is my second global hackathon, the first one is nodejs knockout a.k.a. NKO, [Ninja Dart](http://nodeknockout.com/teams/lhc) is the work that time. This time I decided to attend on my own, hope have fun with you guys!
+
+# What I'm going to do?
+
+Game! Absolutey. Why? Because it's fun. What kind of it? Well, now it's just a thought, but I can tell you it's a co-op game. So, wait for it. :D
+
+
+---------------------------------------
+
 undefined
 =========
 
@@ -11516,6 +16284,25 @@ My name is Elhoucine, very passionate about code.
 #Languages:
 -Javascript
 -Python
+
+
+---------------------------------------
+
+# Wannabes team
+
+We are a group of friends that are working together on side projects.
+
+**Hrvoje**:
+- SAP ABAP by day, iOS by night
+
+**Zdenko**:
+- PHP/Symphony day and night, more backend, some frontend
+
+**Davor**:
+- UX/UI
+
+**Dusko**:
+- SAP FICO by day, Android by night with some Python on Google App Engine backend stuff.
 
 
 ---------------------------------------
@@ -11601,11 +16388,61 @@ We will be tackling the "Game to teach beginners how to code" category. If all g
 
 ---------------------------------------
 
+<img width="100" height="100" src='http://xdfty37dr3.bugs3.com/xdfty37dr3.png "xdfty37dr3 logo"' alt='xdfty37dr3'/>
+================
+
+Extreme Programming. Extreme Ideas. Extreme Solutions.
+=========
+
+| Me!
+|--- |--- |
+| <img width="100" height="100" src='http://scontent-a-mia.cdninstagram.com/hphotos-xpf1/t51.2885-15/10808495_1518714821731399_1381145832_a.jpg "Me!"' alt='wapaa'/>
+
+Just your everyday teenage software engineer. I've got big dreams, though, and I'm willing to do whatever it takes to make them come true.
+
+
+My Skills
+==========
+
+
+	- C#, C++, C
+	- Drawing, music (woohoo!)
+	- Self-taught programmer
+
+	- HTML, CSS, Javascript
+	- jQuery
+	- Laravel
+	- ASP.NET, PHP
+	- Fun!
+
+
+
+
+---------------------------------------
+
+#Team xForce
+
+Julio R
+Ashokbugude
+
+# About Us
+
+julio - front end coder, artist
+Ashokbugude - front end and back end coder
+
+#Languages
+
+- cakephp
+- php
+- css
+
+
+---------------------------------------
+
 Zuffathon
 ===========================
 
-TBD
-
+We don't really have much to say, our code will speak for itself.
 
 
 ---------------------------------------
