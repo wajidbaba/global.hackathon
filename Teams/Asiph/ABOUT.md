@@ -44,11 +44,14 @@ He currently lives in Seattle, WA.
 
 Skills
 =======
-HTML, CSS, JS, PHP, C++, C#, Objective-C, Swift, .NET, Python, MySQL, C, Python, VHDL, MSSQL, MIPS Assembly, ASP, Autohotkey, AutoIT, Powershell, Batch and Shell scripting
+HTML, CSS, JS, PHP, C++, C#, 
+Objective-C, Swift, .NET, Python, MySQL, 
+C, Python, VHDL, MSSQL, MIPS Assembly, 
+ASP, Autohotkey, AutoIT, Powershell, Batch and Shell scripting.
 
 
 Project Idea
 =======
 We are going to build the most epic learning game ever...in less than 48hrs.
 We will take advantage of Google+ and texting to perform team communications.
-We will be using several APIs and applications to complete our task.
+We will be using several open source projects and APIs to complete the task.
