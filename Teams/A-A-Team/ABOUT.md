@@ -17,7 +17,7 @@ About Us
 
 Alton
 =======
-I'm Alton and I love coding. I am an engineering student at the University of Waterloo following my dreams to learn more about computers. I have prior experience in Python, Turing, C#, SQL, as well as PHP and more expertise in Java, Java-Android, Objective C, HTML, and CSS. I am currently learning Javascript to complement my knowledge in HTML and CSS for this hackaton. For those actually reading, besides coding, I like to tell really lame jokes. What's brown and sticky? Hint: It's not what you think it is. Don't hesitate to message me your answers! 
+I'm Alton and I love coding. I am an engineering student at the University of Waterloo following my dreams to learn more about computers. I have prior experience in Python, Turing, C#, SQL, as well as PHP and more expertise in Java, Java-Android, Objective C, HTML, and CSS. I am currently learning Javascript to complement my knowledge in HTML and CSS for this hackaton. Besides coding, I am an avid swimmer and I also like to tell really lame jokes. What's brown and sticky? Hint: It's not what you think it is.  
 
 Oh, by the way, life is like a mushroom.
 
