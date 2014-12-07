@@ -1,15 +1,25 @@
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
 <p align="center">
+  <img src="http://i.imgur.com/hdNDB46.png"/>
+</p>
+
+Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
+
+<p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
 
-Hello, we are a team mostly from Japan (Tokyo). Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
+Although there is an explosion in the popularity of computer science in the United States and other countries, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan, and being and engineer is not a popular job in Japan. We want to change this mindset and situation. Technology and engineering is making the world a better place, and Japanese engineers should contribute to that. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
+<p align="center">
+  <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
+</p>
+<p align="center">
+  TC Hackathon 2014 in Tokyo. ~135 people
+</p>
 
 私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
-
 
 About Our Team
 ===========================
