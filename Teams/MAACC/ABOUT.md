@@ -12,14 +12,11 @@ Team MAACC is
  About Us
  ---------------------
 
- Team MAACC is a group of friends met in another Hackathon, after the grat fun had we decided to stay in touch and keep hack together. 
-
-
+ Team MAACC is a group of friends who originally met in a previous Hackathon. After having great fun we decided to stay in touch and keep hacking together.
 
 
 
 Dungeon Coders
 ===========================
 
-Dungeon Coders is a MMO educational game that lead the player to learn basic principles of programming in a fun way. 
-The game is based on dungeons, every dungeon teach a single aspect of programming, dungeons are made linearly so the player must face every riddle to unlock the next one.
+Dungeon Coders is an educational MMO game that invites the player to learn the basic principles of programming in a fun way. The game is dungeon-based, with each dungeon teaching a different aspect of programming.
