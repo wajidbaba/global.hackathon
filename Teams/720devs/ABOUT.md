@@ -32,8 +32,7 @@ Is the first time in a hackaton together, and the reasons are several, I'll enum
 
 ## Technologies used
 
-* Franco Risso (https://www.linkedin.com/pub/franco-risso/11/220/3b5)
-* Mariana Stariolo (https://www.linkedin.com/pub/mariana-stariolo/18/15/52b)
+![Technologies Used](https://github.com/francorisso/global.hackathon/blob/master/Teams/720devs/logos.jpg)
 
 ## The Team
 
