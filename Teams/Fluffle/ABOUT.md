@@ -14,6 +14,11 @@ languages, and have a deep understanding of data, I've rarely had the
 opportunity to really explore front-end work and develop something really
 slick that just begs to be used, clicked, played with.
 
+(As a side note: ) "Fluffle" is what we called a pudgy little aging yorkie 
+named Sunny we adopted from my mother in law years ago. It's my fondest 
+wish that he's curled up in a soft blanket, snoring softly, 
+weiner to the wind in the coziest of all contentment. I miss him, lots.
+
 
 Skills
 =======
@@ -23,14 +28,14 @@ Programming: PHP, Python, Ruby on Rails, C, C++
 
 Plan
 ====
-I've not yet picked my challenge, though I'll likely go with the HTML5 games 
-challenge. Working through making a multiplayer, interactive, educational
-experience would be an interestin challenge.
+I've picked my challenge! I am going to tackle challenge 3 and endeavour 
+to make navigating site legalese (Terms of Service/Use, etc. less 
+dreadfully boring)!
 
-Tools I'd Use
+Tools I'l Use
 =============
-Not set in stone but I've been wanting to play with Phaser 2.0, so I'd likely 
-start with that and add as necessary.
+Node, Express, Jade, Mongodb, Phaser 2.0, assets from OpenGameArt.com
+
 
 
 
