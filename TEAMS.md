@@ -180,11 +180,23 @@ Languages we love
 
 # 125 Programmers
 
+## Quick Overview
 125 Programmers is composed of [Jorge Garcia](https://twitter.com/Jorge_AGZ), current engineering student at Umass Boston
-
 as well as [Camilo Gonzalez](https://twitter.com/camilo_g86) current 11th grade Revere High School student.
-
 We are both also part of the FRC robotics team [125 Nutrons](http://nutrons.com/)
+_______________________________________________
+<img width="100" height="100" src='http://i.imgur.com/IqfKCvD.png' alt='Camilo Gonzalez'/>
+### Camilo Gonzalez 
+Camilo Gonzalez is a young 15 year old Revere High School student. Started to teach himself programming at the age of 10. 
+In the last 5 years of programming he has grasped the basics of programming through python, javascript and C. He has also worked extensively with programming languages such as Java, C++, Arduino and even Matlab. Experiences in the programming field vary from quadcopter/iosApps/personal projects all the way to websites for Startups as well as Machine Learning for Northeastern University
+
+To find more about his experiences, visit [Camilo Gonzalez's LinkedIn account](https://www.linkedin.com/in/camilogonzalez86)
+________________________________________________
+<img width="100" height="100" src='http://i.imgur.com/GjDvsT3.png' alt='Jorge Garcia'/>
+### Jorge Garcia
+Jorge Garcia is a current freshman college student in UMass Boston University. Ever since in preparatory school he has been excited about all the possibilities technology open up to everyone. Though himself programming from a very early age and continues to use his knowledge in his own projects as well as in real work. Work experiences vary from website building all the way to the PCB as well as its programming. Skills go from simple front-end development all the way to more robust back-end development technology such as PHP, Python, SQL. Has worked extensively with Matlab, C, Arduino, Assembly
+
+To find more about his experiences, visit [Jorge Garcia's LinkedIn account](https://www.linkedin.com/in/JorgeAGarcia1)
 
 ## Languages we love:
 * Java
@@ -192,6 +204,7 @@ We are both also part of the FRC robotics team [125 Nutrons](http://nutrons.com/
 * Javascript
 * HTML5
 * PHP
+* Arduino
 * Python
 
 ## Check us out:
@@ -3713,8 +3726,6 @@ As a student with finals this week, I decided to join a hackathon for the fun of
 
 Between CO-OPs and part-time jobs, I have around 2.5 years of software experience. Along with an engineering degree, I don't find time for extracurricular projects. That's why I am joining this hackathon. I once joined a hackathon by Facebook and it was the BEST thing ever. After that, I started treating all my assignments as hackathons. Pfff of course I don't leave them till the last minute just so I am  can pull an all-nighter and get it all working with extra features just for fun. No! ... Yes, yes I do. It feels so AWESOME to create something spectacular in a heck of a sleepless night.
 
-Currently, I have a course project due in a couple days. I was planning to use this weekend to start working on it. Then, I discovered the koding hakathon. Which is perfect, because now I can join the hackathon AND also implement my project at the same time.
-
 About my skills
 =======
 I worked on back-end, front-end and everything in between. So far, I worked on 6 different projects and each used different technologies and were in varying fields (networking, cloud/OpenStack, vision processing, web development (check out OrbitHub.com), medical applications, ...)
@@ -3723,7 +3734,11 @@ Some of the languages I know: C, C++, HTML, CSS, Python, PHP, Perl, Java and oth
 
 What I am going to do?
 =======
-The project will be related to a distributed systems algorithm (since that's what the university course is about). I should be implementing a generic algorithm for the purpose of my course, and this may possibly cover theme 2. But I plan to expand the program to target themes 1 or 4 as well.
+The project will be related to distributed systems algorithms.
+
+Currently there are so many distributed algorithms out there with tedious pseudo code and big blocks of text that lose meaning. So I'll be developing a program to help visualize these algorithms. This will cover theme 2 of the hackathon.
+
+The web app can be later expanded to add more algorithms.
 
 Will be coding in Java.
 
@@ -5548,6 +5563,7 @@ Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 <p align="center">
   <img src="http://i.imgur.com/hdNDB46.png"/>
 </p>
+<p align="center"><em>Logo designed by Jumpei-san (・ω・)</em></p>
 
 Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
 
@@ -5560,9 +5576,9 @@ Although there is an explosion in the popularity of computer science in the Unit
 <p align="center">
   <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
 </p>
-<p align="center">
+<p align="center"><em>
   TC Hackathon 2014 in Tokyo. ~135 people
-</p>
+</em></p>
 
 私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
@@ -5576,7 +5592,7 @@ About Our Team
 
 Jumpei
 =======
-Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery株式会社, and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery Inc., and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the UI/UX designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
 
 Takuya
 =======
@@ -13126,8 +13142,8 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 <img width="100" height="100" src='https://pbs.twimg.com/media/BYjZcj4CIAAP65b.jpg' alt='Cover'/>
 ===========================
 
-#####[Alex]
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/505281101082791936/jJW6mHfi.jpeg' alt='Alex'/> 
+#####[Anca]
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/473124929236258816/Hg9kgKRC.jpeg' alt='Anca'/> 
 
 
 #####[István]
@@ -13155,7 +13171,7 @@ Our team is called 'Vagos' inspired in a popular word in México, a few people u
 ####Good luck to everyone!
 
 [ClujPm]:https://www.facebook.com/cluj.pm
-[Alex]:https://www.facebook.com/alex.strajeriu?fref=ts&ref=br_tf
+[Anca]:https://www.facebook.com/anca.df?fref=ts&ref=br_tf
 [István]:https://www.facebook.com/kobleistvan
 [Luoana]:https://www.facebook.com/luoana.barbanta?fref=ts&ref=br_tf
 
