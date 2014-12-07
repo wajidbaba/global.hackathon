@@ -4,8 +4,8 @@
 ![Cover](https://pbs.twimg.com/media/BYjZcj4CIAAP65b.jpg)
 ===========================
 
-#####[Alex]
-![Alex](https://pbs.twimg.com/profile_images/505281101082791936/jJW6mHfi.jpeg) 
+#####[Anca]
+![Anca](https://pbs.twimg.com/profile_images/473124929236258816/Hg9kgKRC.jpeg) 
 
 
 #####[István]
@@ -33,6 +33,6 @@
 ####Good luck to everyone!
 
 [ClujPm]:https://www.facebook.com/cluj.pm
-[Alex]:https://www.facebook.com/alex.strajeriu?fref=ts&ref=br_tf
+[Anca]:https://www.facebook.com/anca.df?fref=ts&ref=br_tf
 [István]:https://www.facebook.com/kobleistvan
 [Luoana]:https://www.facebook.com/luoana.barbanta?fref=ts&ref=br_tf
