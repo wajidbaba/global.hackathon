@@ -5,7 +5,7 @@ A&A Team
   <img src="http://uakk03d55dcd.altinio.koding.io/images/A&A.jpg"/>
 
 
-We are the hackaton newbies Alton and Adrienne (A&A) and we are so excited for our first hackaton experience! With a small team consisting of just two members, we push ourselves to work as efficiently as possible. Our goal is to learn as much as possible while having a great time. We are so excited to sit infront of a computer for 48 horus going through what Adrienne calls a roller coaster ride; Excitiment from working code and fustration from errors and bugs.  
+We are the hackaton newbies Alton and Adrienne (A&A) and we are so excited for our first hackaton experience! With a small team consisting of just two members, we push ourselves to work as efficiently as possible. Our goal is to learn as much as possible while having a great time. We are so excited to sit infront of a computer for 48 hours going through what Adrienne calls a roller coaster ride; Excitiment from working code and fustration from errors and bugs.  
 
 About Us
 ===========================
@@ -19,7 +19,7 @@ Alton
 =======
 I'm Alton and I love coding. I am an engineering student at the University of Waterloo following my dreams to learn more about computers. I have prior experience in Python, Turing, C#, SQL, as well as PHP and more expertise in Java, Java-Android, Objective C, HTML, and CSS. I am currently learning Javascript to complement my knowledge in HTML and CSS for this hackaton. Besides coding, I am an avid swimmer and I also like to tell really lame jokes. What's brown and sticky? Hint: It's not what you think it is.  
 
-Oh, by the way, life is like a mushroom.
+By the way, life is like a mushroom.
 
 
 Adrienne
