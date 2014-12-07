@@ -36,6 +36,6 @@ Since i've been left alone, i don't expect to get something big, but anyway i'm 
 I don't care if i dont win, in fact, i'm sure my solution will be unfinished and totally unpolished by the end of the hackathon. 
 I just hope I can share a cool idea with the world, and make somethig useful from this.
 
-_Thanks for reading, and good luck to all the teams!
+_Thanks for reading, and good luck to all the teams!_
 
-Germán Bobr._
+_Germán Bobr._
