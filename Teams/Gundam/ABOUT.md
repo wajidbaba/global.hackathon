@@ -20,7 +20,7 @@ Although there is an explosion in the popularity of computer science in the Unit
   TC Hackathon 2014 in Tokyo. ~135 people
 </em></p>
 
-私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
+私たちは、日本人、カナダ人、ベトナム人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
 About Our Team
 ===========================
@@ -49,3 +49,16 @@ Tommy just recently started app development and web development, and he has fall
 Nam
 =======
 Nam is the most recent member of our team, and has years of experience in Android and Java development, and came to Japan and is permanently working here developing Android applications. He frequently goes to the Tokyo Android Group, and is an avid fan of the mobile OS. He also has some web development experience as well, and can't wait to try and learn more about web development in this hackathon. [Facebook](https://www.facebook.com/butchigo)
+
+About Our Project
+=======
+Many people want to help out others in need, but usually they don't. We wanted to create an application that will help give an incentive and more motivation to be more charitable. In order to do this, we created Donathon, a social web application where a user can be either an individual or a whole team of people who try to fundraise and donate money to natural disasters around the world. There is an interactive data map on our site where you can see real time natural disasters happening, and you can click on them and donate to them.
+
+This service is meant to also give "tokens of appreciation" of users/teams that contribute and help the most! You can get points if you donate to these disasters, and users/teams with most points can get token of appreciation from us.
+
+We are planning to give users virtual badges to share our appreciation to them, like how StackOverflow has those badges. We also plan to give top users great real life opportunities, such as being able to travel and volunteer at the place they donated in real life, or we can give them more materials/goods to help support their fundraising/donations.
+
+Updates on Our Project
+=======
+1 hour in: We had to change locations to a place where we can all sleep over for two days. We are an hour late to the hackathon, and we have not programmed yet, but this is getting us pumped up!
+24 hours in: Some of us slept for some time, and Jumpei-san had to go to another hackathon, but can still help us online. We are making some progress, but it is definitely a good learning experience! Two of us are learning lots about web development, as we never did it before.
