@@ -1,6 +1,3 @@
-![720 Developments](https://github.com/francorisso/global.hackathon/blob/master/Teams/720devs/logo.png)
-===========
-
 ## Who are we?
 
 We're the founders of [720developments.com](http://720developments.com), as you can see in our webpage, we're a couple that is working with web developments together since we're just 21 years old (and dating since we're just 17). 7 years later since we starting on our own, we are still here, doing the same but in more interesting projects, trying to learn as much as we can in our free time, and trying to travel as much as we can with our budget.
