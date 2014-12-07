@@ -35,7 +35,7 @@ Jumpei Yamane is an accomplished and experienced manager of various hackathons i
 
 Takuya
 =======
-Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
+Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He will be working as the main developer of the team because of his strength in web engineering, and the fact that he knows lots of web technologies. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
 
 Cherry
 =======
