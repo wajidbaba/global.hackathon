@@ -3,6 +3,7 @@ Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 <p align="center">
   <img src="http://i.imgur.com/hdNDB46.png"/>
 </p>
+<p align="center"><em>Logo designed by Jumpei-san (・ω・)</em></p>
 
 Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
 
@@ -15,9 +16,9 @@ Although there is an explosion in the popularity of computer science in the Unit
 <p align="center">
   <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
 </p>
-<p align="center">
+<p align="center"><em>
   TC Hackathon 2014 in Tokyo. ~135 people
-</p>
+</em></p>
 
 私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
@@ -31,7 +32,7 @@ About Our Team
 
 Jumpei
 =======
-Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery株式会社, and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
+Jumpei Yamane is an accomplished and experienced manager of various hackathons in Japan, and is a prominent advocate/technology evangelist. He currently works at Givery Inc., and is also the Japanese ambassador for AngelHack, a premier developer relations platform, and is an organization that hosts massive Hackathons around the world. He aims to make hackathons popular in Japan and to make Tokyo the next hub for startup companies. He will be the UI/UX designer and co-director of this team. [Facebook](https://www.facebook.com/jumpeiyamane)
 
 Takuya
 =======
