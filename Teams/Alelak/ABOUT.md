@@ -1,10 +1,10 @@
-#Team Alelak
+##Team Alelak
 
 My Name Is Alladin El Akhrass  an enthusiastic and self-motivated front end web developer from Montreal.
 
-##Skills 
-*HTML/CSS
+#Skills 
+-HTML/CSS
 
-*Javascript
+-Javascript
 
-*Some PHP 
+-Some PHP 
