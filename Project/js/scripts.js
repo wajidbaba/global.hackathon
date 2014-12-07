@@ -22,22 +22,32 @@ $(document).ready(function(){
 		e.preventDefault();
 		$.ajax({
 			type: 'GET',
-			url: 'https://d702e9dc-619fec6b2bb0.my.apitools.com/write/get?url=http://example.com/',
+			url: 'https://d702e9dc-619fec6b2bb0.my.apitools.com/write/get?url='+tos,
 			beforeSend: function(xhr){
 				xhr.setRequestHeader('X-Mashape-Key','ieeRodAhB6msh7pNcf1KHusSKhESp1njNqkjsnfkVPPsYlHdJx')
 			},
 			success: function(data){
-				$('#link2results > input')
-				.css({
-					padding: '5px',
-					border: '1px solid #eee',
-					height: 'auto'
-				})
-				.val(data.data.url)
-				.animate({width:180},'fast',function(){
-					$('#link2results > input').select();
-					$('#link2results > input').tooltip();
-				});
+				if ( data.success ) {
+					$('#link2results > input')
+					.css({
+						padding: '5px',
+						border: '1px solid #eee',
+						height: 'auto'
+					})
+					.val(data.data.url)
+					.animate({width:180},'fast',function(){
+						$('#link2results > input').select();
+						$('#link2results > input').tooltip('show');
+					})
+					.blur(function(){
+						$('#link2results > input').animate({width:0},'fast',function(){
+							$('#link2results > input').attr('style','').val('');
+						});
+						$('#link2results > input').tooltip('hide');
+					});
+				} else {
+					console.log(data)
+				}
 			},
 			error: function(error){
 				console.log(error);
