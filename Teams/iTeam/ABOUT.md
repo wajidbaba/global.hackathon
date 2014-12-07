@@ -1,9 +1,7 @@
 
 #Idea for Hackaton
 
-We will work on HTML5 game that will learn 
-freelancers to improve negotiation skills
-for earn more money and avoid problems.
+Idea management tool. An app where we can quickly save idea, organize, defer, group and share etc is something really good for businessman, programmers and even teachers and student
 
 
 #About team

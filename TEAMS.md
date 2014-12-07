@@ -268,18 +268,17 @@ Skills:
 
 We are `254Coders`, a team from Nairobi, KE ready to crush the competition!
 
-The Team
-========
-
-- [Julius](https://github.com/njmwas)
-- [Salama](https://github.com/aksalj)
-- [Kubai](https://github.com/kubaik)
-- [Stephen]()
-
-
-Skills and Project
+The Team & Skills
 ==================
-We are still brainstoming...
+##[Julius](https://github.com/njmwas)
+He is a Web Developer who writes code in PHP and has specialized in HTML5, JQuery and CSS3. He is slowly learning Python Django after gaining so much experience using CodeIgniter PHP framework. He has also recently learnt AngularJS.
+
+##[Salama](https://github.com/aksalj)
+According to [The OpenSource Report Card](https://osrc.dfm.io/aksalj/), Salama AB is a trend setting JavaScripter who loves pushing code. He is a fulltime hacker who works best around midnight... Well, he just loves NodeJS!
+
+The Project
+===========
+It leverages the awesome powers of Google so solve a very simple problem! Details coming soon...
 
 
 ---------------------------------------
@@ -477,15 +476,18 @@ I'll enumerate the most important ones:
 8000plz
 ================
 
-8000plz is a group of developers and designers from Manila, Philippines
+8000plz is a group of developers and designers from Manila, Philippines. We are friends and colleagues that share the same passion, creating smart and crisp web apps.
 
+# THE POVERTY LINE PROJECT
+===========================
+**THE POVERTY LINE PROJECT** is a visualization tool of countries (and continents as a whole) that live below the poverty the line. It aims to educate the people of the less fortunate all over the globe. It will also serve as a portal wherein people from all walks of life are able to donate to UNICEF and it's partner charity organizations. 
 
 TEAM
 ===========================
 
-| Bonj | Monica | Izel | Jeru | Dex |
+| Bonj | Monica | Izel | Tricia | Dex |
 |--- |--- |--- |--- | ---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479145444044328960/CyNHgFHi_400x400.jpeg' alt='Bonj'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/454194262788165632/AZASPVwX_400x400.jpeg' alt='Monica'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/3042945665/4d4fc887bf2df622248fa81e3768778a_400x400.png' alt='Izel'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/430521527600033792/UqQrwBYD_400x400.jpeg' alt='Jeru'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/500177600925294592/mr-smwj-_400x400.jpeg' alt='Dex'/> |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479145444044328960/CyNHgFHi_400x400.jpeg' alt='Bonj'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/454194262788165632/AZASPVwX_400x400.jpeg' alt='Monica'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/3042945665/4d4fc887bf2df622248fa81e3768778a_400x400.png' alt='Izel'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2961958107/7ce40b220deb4e78f238b4681e9ffa66_400x400.jpeg' alt='Tricia'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/500177600925294592/mr-smwj-_400x400.jpeg' alt='Dex'/> |
 
 We're a mixture of specializations in the digital world.
 
@@ -493,7 +495,7 @@ Joining this hackathon is a privilege that allows us to showcase our skills and 
 
 **Bonj & Monica** handle the artsy-fartsy side of things. They're our creative geniuses.
 
-**Izel, Jeru, Dex** generate the lines of codes to make the idea *virtually tangible*.
+**Izel, Tricia, Dex** generate the lines of codes to make the idea *virtually tangible*.
 
 
 Team Toolbox
@@ -541,6 +543,48 @@ Just look at [8cook.in](http://8cook.in)
 Eray Arslan
 ===========================
 hard-core developer! Search in [google](https://www.google.com.tr/#q=eray+arslan) it. ;)
+
+
+---------------------------------------
+
+A&A Team 
+===========================
+
+
+  <img src="http://uakk03d55dcd.altinio.koding.io/images/A&A.jpg"/>
+
+
+We are the hackaton newbies Alton and Adrienne (A&A) and we are so excited for our first hackaton experience! With a small team consisting of just two members, we push ourselves to work as efficiently as possible. Our goal is to learn as much as possible while having a great time. We are so excited to sit infront of a computer for 48 hours going through what Adrienne calls a roller coaster ride; Excitiment from working code and fustration from errors and bugs.  
+
+About Us
+===========================
+
+| Alton | Adrienne 
+|--- |--- 
+<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/6225661?v=3&s=460' alt='Alton'/> | <img width="100" height="100" src='https://scontent-b-ord.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1662544_809289565764181_364363622_n.jpg?oh=2f0bdded81561489096801d440bac3f8&oe=54F93F0C' alt='Adrienne'/> | 
+
+
+Alton
+=======
+I'm Alton and I love coding. I am an engineering student at the University of Waterloo following my dreams to learn more about computers. I have prior experience in Python, Turing, C#, SQL, as well as PHP and more expertise in Java, Java-Android, Objective C, HTML, and CSS. I am currently learning Javascript to complement my knowledge in HTML and CSS for this hackaton. Besides coding, I am an avid swimmer and I also like to tell really lame jokes. What's brown and sticky? Hint: It's not what you think it is.  
+
+By the way, life is like a mushroom.
+
+
+Adrienne
+=======
+Hi, I'm Adrienne! I am relatively new to programming and looking forward to an awesome learning experience through the global hackaton, with the help of my team leader and super awesome coder, Alton! Inspired by him, I started to learn programming about a year ago. I now have some basic knowledge in HTML, CSS, C++, and MATLAB. Because of my grown appreciation for programming, I am now a transfer student in Systems Design Engineering at the Univesrity of Waterloo where I learn how to encoroprate design aspects in all my projects. Besides programming, I LOVE TO DANCE! If you don't see me studying or coding, then I'm either in a studio or on stage dancing! The above picture of me was take from a show back in 2013 broadcasted on Fairchild TV. 
+
+Code. Dance. Love. Live. 
+
+
+
+
+Languages We Love 
+===========================
+
+<p>EVERYTHING! :) </p>
+<p> We hope to learn as much as we can, no matter what language. We would learn everything if we can! </p>
 
 
 ---------------------------------------
@@ -2183,12 +2227,12 @@ West Michigan Aviation Academy is a STEM-based highschool operating out of Grand
 ## About Us
 
 ### Teddy
-<img width="100" height="100" src='/path/to/img.jpg "Title"' alt='alt text'/>
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/540963026640183296/_4RH8VWs_400x400.jpeg' alt='alt text'/>
 
 I am a senior at WMAA and I have been exposed to technical design and programming for about 7 years. I am interested in physics and theoretical computer science. These interests have gotten me involved at Michigan State University in a mesoscopic physics lab and as an intern at the Van Andel Institute of Science engineering experiments with code.
 
 ### Rachel 
-<img width="100" height="100" src='/path/to/img.jpg "Title"' alt='alt text'/>
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/510543504066748416/1Xd7Xmwf_400x400.jpeg' alt='alt text'/>
 
 I am a junior at WMAA and I have an interest in all areas of math and science. I am especially interested in biomedical sciences and I work in a vasospasm lab at Grand Valley State University. I am new to coding but I am fascinated by the mechanics of web design. It's been eye-opening to be involved in such a male-dominated field and I look forward to applying my skills to new areas of math and science.
 
@@ -2444,6 +2488,32 @@ The idea is to create a mesh of the existing public APIs and gather publicly ava
 
 
 
+
+
+---------------------------------------
+
+#Canadian Techies
+
+Alec J - I love volleyball, soccer, coding and minecraft
+
+Allesandro M - I love soccer, coding and minecraft
+
+Favourite Languages :
+
+Alec - PHP, HTML, CSS, little MYSQL
+
+Ally - HTML, CSS, Little Java
+
+Us:
+
+Both Love Coding And Soccer
+
+We love coding especially.
+
+Alec - Likes Apple Products
+Ally - Likes Apple, Windows and Android
+
+WE BOTH LOVED THIS HACKATHON !!!!!!!!!!!!!!!!
 
 
 ---------------------------------------
@@ -5580,7 +5650,7 @@ Although there is an explosion in the popularity of computer science in the Unit
   TC Hackathon 2014 in Tokyo. ~135 people
 </em></p>
 
-私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
+私たちは、日本人、カナダ人、ベトナム人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
 About Our Team
 ===========================
@@ -5609,6 +5679,19 @@ Tommy just recently started app development and web development, and he has fall
 Nam
 =======
 Nam is the most recent member of our team, and has years of experience in Android and Java development, and came to Japan and is permanently working here developing Android applications. He frequently goes to the Tokyo Android Group, and is an avid fan of the mobile OS. He also has some web development experience as well, and can't wait to try and learn more about web development in this hackathon. [Facebook](https://www.facebook.com/butchigo)
+
+About Our Project
+=======
+Many people want to help out others in need, but usually they don't. We wanted to create an application that will help give an incentive and more motivation to be more charitable. In order to do this, we created Donathon, a social web application where a user can be either an individual or a whole team of people who try to fundraise and donate money to natural disasters around the world. There is an interactive data map on our site where you can see real time natural disasters happening, and you can click on them and donate to them.
+
+This service is meant to also give "tokens of appreciation" of users/teams that contribute and help the most! You can get points if you donate to these disasters, and users/teams with most points can get token of appreciation from us.
+
+We are planning to give users virtual badges to share our appreciation to them, like how StackOverflow has those badges. We also plan to give top users great real life opportunities, such as being able to travel and volunteer at the place they donated in real life, or we can give them more materials/goods to help support their fundraising/donations.
+
+Updates on Our Project
+=======
+1 hour in: We had to change locations to a place where we can all sleep over for two days. We are an hour late to the hackathon, and we have not programmed yet, but this is getting us pumped up!
+24 hours in: Some of us slept for some time, and Jumpei-san had to go to another hackathon, but can still help us online. We are making some progress, but it is definitely a good learning experience! Two of us are learning lots about web development, as we never did it before.
 
 
 ---------------------------------------
@@ -6950,10 +7033,13 @@ I'm Computer Science Graduate (2013), and I like solving problems.
 
 It's not about winning or losing, it's about facing challenges, learning and solving problems.
 
-About your skills and what you are going to do?
+KeysHit
 =======
-Coming soon...
+KeysHit is the name of the challenging, addictvie, typing and memory game I am making. Basically, it helps user exercise concentration and memory, and practice keyboard typing.
 
+I myself find it all addictive! 
+
+I've also made a public repository of the same at https://github.com/aneelkkhatri/KeysHit
 
 
 
@@ -8293,66 +8379,47 @@ About our skills and what we are going to do?
 
 ---------------------------------------
 
-This is our page
+This is my page
 ===========================
 
-Hi, i'm Pulpo, and i am proud to present our team 'Octomouse'. 
+Hi, i'm **Pulpo**, and i am proud to present my solo team 'Octomouse'. 
+Octomouse comes from octopus (me) and mouses because two friends _(Pinky and The Brain)_ were going to join me, but they were too busy trying to conquer the world so they couldn't actually join.
 
-We are a bunch of friends, with a history of many years working and studying together.
+**It is my very first time in a hackathon!** I am very exited about the experience!
 
-I met Brain at tech school, we've been bench mates, and made many cool science fair projects toghether! Nowdays we are both teachers at the same school :)
-
-Pinky and The Brain are best friends since forever, and they rocked the university together, they are now two awesome engineers.
-
-We are all cubicle mates at our actual job, wich is great.
+Follow my team on twitter! I'm posting updates every now and then! https://twitter.com/phk_nevermore
 
 About octomouse
 ===========================
 
-| Germán 'Pulpo' Bobr | Ricardo 'Brain' Bevilacqua | Facundo 'Pinky' D'Aranno
-|--- |--- |---
-| <img src="https://scontent-a-mia.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10375098_10204775796903185_3680917940863290559_n.jpg?oh=08e89cf944bd03e99f9ca5b25069b5ea&oe=551B65C6" width='200px'/> | <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/314378_2333916556225_1689479_n.jpg?oh=a92429c204006b52dbfea83377455caf&oe=5515566D&__gda__=1423036980_8d6f85b7b463ad54541766ee515dc3cf" width='200px'/> | <img src="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/299042_2408892619397_838105690_n.jpg?oh=2029eebce13f04f27aff5b55c0fbe5f5&oe=54D3812E&__gda__=1427047910_66709804040ee4a3b303f3f2461c9607" width='200px'/> |
-
+| Germán 'Pulpo' Bobr
+|---
+| <img src="https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/65197_10200426366810151_600898626_n.jpg?oh=ef11c803a0a3510aca45a908159e3e14&oe=54FA7F84&__gda__=1426431573_00d3b6d1d55bade665048a7c2c7b1740" /> |
+| _(Powered by rubber duck debugging)_
 Pulpo
 ===========================
 **Roles:** _Coding octopus_
 
 <img src="http://www.finalfantasy500.com/500/charimagessz/ultros3.jpg" width='100px'/>
 
-I am coding since i was 14. 8 years doing that professionally. I changed jobs so many times that i'm not deeply experienced in any language or tool but i learned a lot along the way.
+My name is Germán, I'm 25 years old, from Buenos Aires, Argentina. I am coding since i was 14. 8 years doing that professionally.
+My favorite things in the computer world are coding, hacking arround with Linux machines, and gaming to relax my mind.
 I joined this hackaton because i love challenges and i want to do something fun an exciting.
-
-
-The Brain
-===========================
-**Roles:** _Lab rat, world coqueror, evil mastermind_
-
-<img src="http://images.sodahead.com/profiles/0/0/3/6/3/1/7/0/3/Pinky-and-the-brain-107523493925.jpeg" width='100px'/>
-
-
-He is too bussy trying to conquer the world, so he can't write his description. 
-
-I'll do it for him: He is awesome, creative, and a great coder. Specialist in database design.
-
-Pinky
-==========================
-**Roles:** _Lab rat, spoiling world conquers mastermind, narf!_
-
-<img src="https://pbs.twimg.com/profile_images/549419368/Pinky.jpg" width='100px'/>
-
-
-He is too bussy bothering the brain and spoiling his plans, so he can't write his description. 
-
-I'll do it for him: He is awesome, creative, and has an eye for perfection. Specialist in web technologies.
-
 
 About your skills and what you are going to do?
 =======
 
-We are a solid team, with great communication, we are mostly experienced in web and backend development.
+In my history as a software developer, i jumped across many jobs, different languages, technologies, frameworks and methodology.
+My strongs are PHP, Java, Linux, and rubber duck debugging. I suck at front-end, REALLY. I don't have the patience to reload a page four hundred times to get it to look as i like.
 
-Our goal is to have fun making something both challenging and innovative for this global hackaton!
+The voice that reads very fast legal disclamers in Argentinian radio ads has inspired me to make a fine print fast-reader.
+Since i've been left alone, i don't expect to get something big, but anyway i'm gonna have a fun time coding.
+I don't care if i dont win, in fact, i'm sure my solution will be unfinished and totally unpolished by the end of the hackathon. 
+I just hope I can share a cool idea with the world, and make somethig useful from this.
 
+_Thanks for reading, and good luck to all the teams!_
+
+_Germán Bobr._
 
 ---------------------------------------
 
@@ -8625,6 +8692,30 @@ We want to make a change ;)
 
 ---------------------------------------
 
+## Pastels
+
+I am [Nancy Jain](http://nancyja.in/). I work as the UI/UX Designer at [Heckyl](http://heckyl.com/).
+
+<img width="100" height="100" src='http://nancyja.in/images/me.png' alt='Nancy'/>
+
+I am the single human in this team with a set of Pastels. I’ve not been doing anything great all my life but sketching and scribbling with my friends (my pastels). After taking formal Indian education and then a conventional job, I realised that simply earning bread and butter without making an impact is wasting this life. Lately I tried to figure out what was I passionate about? Delivering great user experiences was my thing: using my knowledge to build systems, inclination towards art and my ability to understand people very well by talking with them. 
+
+Here are my portfolio links:
+
+1. [My Behance profile](https://www.behance.net/nancyja_in) 
+2. [My blog](http://blog.nancyja.in/)
+3. [My website](http://nancyja.in/)
+
+## What is Pastels doing at hackathon?
+I'm working on a solution to the problem of everyone ignoring fine print (e.g. TOS, EULA, legal documents etc)
+
+## Skills
+The tools that help me express my ideas: Pen & paper, Adobe Photoshop, Balsamiq, Invision App, Just in mind, webflow, HTML, CSS.
+
+
+
+---------------------------------------
+
 # team «Peace»
 
 My name is Vitaly, and this is Artem. So, we will try realize some of our ideas. We live in the city of Orel, a small town in Russia, but do not worry, we're not bears.
@@ -8771,9 +8862,9 @@ What should you know about us? We are a cohesive team of developers. We love to 
 About our team
 ===========================
 
-| Raman Marozau | Dmitry Shurco | Pavel Popov | Eugene Danilenko
+| Raman Marozau | Dmitry Shurco | Eugene Danilenko
 |--- |--- |--- |---
-| <img width="100" height="100" src='http://piplos.by/hackaton/marozau.jpg' alt='Raman Marozau'/> | <img width="100" height="100" src='http://piplos.by/hackaton/shurco.jpg' alt='Dmitry Shurco'/> | <img width="100" height="100" src='http://piplos.by/hackaton/popov.jpg' alt='Pavel Popov'/> | <img width="100" height="100" src='http://piplos.by/hackaton/danilenko.jpg' alt='Eugene Danilenko'/> |
+| <img width="100" height="100" src='http://piplos.by/hackaton/marozau.jpg' alt='Raman Marozau'/> | <img width="100" height="100" src='http://piplos.by/hackaton/shurco.jpg' alt='Dmitry Shurco'/> | <img width="100" height="100" src='http://piplos.by/hackaton/danilenko.jpg' alt='Eugene Danilenko'/> |
 
 
 Skills
@@ -9842,6 +9933,32 @@ Small Success is a technology company dedicated to creating amazing products!
 ## Languages We Love
 
 - Javascript
+
+
+---------------------------------------
+
+
+#Soccer Techies 
+
+-Hello, My Name is Alec. I Love PHP
+-Hi, My name is Allesandro. I Love Java
+
+Favourite Video Games :
+-Minecraft
+
+Favourite Sports:
+
+-soccer 
+-volleyball
+
+Favourite Languages :
+
+-HTML
+-CSS
+-PHP
+-JavaScript
+
+:-)
 
 
 ---------------------------------------
@@ -11875,7 +11992,25 @@ We think ourselves proficient in JavaScript, Python and Ruby, but no language is
 ---------------------------------------
 
 TeamShog
-=========
+========
+We are TeamShog. We are a group of high school students from around the world that have picked a really strange name.
+
+Individual Biographies
+========
+### Noah (Falkirks) <img width="100" height="100" src='http://i.imgur.com/UW8GgAL.jpg?1' alt='alt tag'/>
+Noah is an avid web developer, amateur actor and active procrastinator. While avoiding doing school work he is able to find time to write assorted PHP, Java, and JavaScript apps that do somewhat useful things. Noah loves to write beautiful and simple code. 
+
+### Samuel (MegaSamNinja) <img width="100" height="100" src='http://i.imgur.com/pLj79E8.jpg?1' alt='alt tag'/>
+Samuel is very talented in lots of ways. He is interested in PHP, HTML, Python and Pokemon. He loves to make code look nice and tidy and adores fixing tiny errors which seem to happen too much. 
+
+### Leon (99leonchang) <img width="100" height="100" src='http://i.imgur.com/HmTm3l3.png' alt='alt tag'/>
+Leon is proficient in web design and backend development. He's generally too busy with schoolwork, but in his spare time, loves writing pretty, minimalistic websites that do cool and useful things (at least, in his opinion).
+
+### Adam (TuffDev) <img width="100" height="100" src='http://i.imgur.com/ZpOAbEG.png?1' alt='alt tag'/>
+Adam is a mysterious figure who detests the writing of bios.
+
+### "Chris" (PEMapModder) <img width="100" height="100" src='http://i.imgur.com/x2aQ9K7.png?1' alt='alt tag'/>
+"Chris" is a nickname of a person whose real name is not wishes to be known. He hates waiting for the OS or websites to respond and loves doing small jobs by writing a PHP script to do them instead, or to memorize long boring URLs. He is also interested in Java applications, although he often ends up creating manyf classes instead. Most of his work stays at his brain, sometimes written on a school notebook. However, he has very few products released as he hates testing.
 
 
 ---------------------------------------
@@ -13027,23 +13162,46 @@ For sure we'll be making use of PHP, nginx, and a bunch of JavaScript libraries 
 
 ---------------------------------------
 
-This is our page
+Welcome to my world of Unknown Exceptions
 ================
 
-I am the UnknownException team... and my bio returns unknown exception.
+**Teams@Koding:~$** cat UnknownException.md
 
+I am the...
+
+**Fatal Error:** Unknown Exception occured on line 1 of Teams/TEAM.md with message "install exceptionreader"
+
+**Teams@Koding:~$** sudo apt-get install exceptionreader<br/>
+Reading Team Lists... Done<br/>
+Building hackathon tree
+
+**Fatal Error:** Unable to locate dependency **Unknown Exception**
+
+Would you like to open ABOUT.md instead [Y, n]? Y
+
+Opening ABOUT.md...
 
 About your team
 ===========================
 
+Hello there! My name is Kevin Pei, and I am young coder from Markham, Ontario, Canada :)
 
-I am young coder from Markham, Ontario, Canada :)
+I turned 16 on Sunday December 7, 2014 while trying to figure out how to make Bootstrap and Semantic UI cooperate - talk about a birthday gift!
 
-(Rushed, I know - never realized these pages were due so soon)
-
-About your skills and what you are going to do?
+What are your skills and what you are going to do?
 =======
-I'm planning to build something awesome :)
+
+Short of traditional languages (JavaScript, CSS, HTML, C++, e.t.c..), I understand programming concepts such as MVC, Graph Theory, Lazy Propogation, Synchronous/Asynchronous operation, and data normalization among other things. 
+
+As a web developer, I've both written and read TOS's, and it's annoying either way. There must be some sort of compromise or solution to this, and I think I've found away.
+
+You see, that way is...
+
+**Fatal Error:** An unknown exception has occurred while reading 'ABOUT.md' with message 'This shall be revealed later ;)'
+
+**Teams@Koding:~$** 
+
+
 
 
 
@@ -14705,9 +14863,9 @@ Egypt. We love open source technologies, we use ruby, python, javascript and jav
 
 ## Our Team
 
-| she7ata | maboelnour | yasminegaber | modsaid | mohheader |
+| she7ata | maboelnour | yasminegaber | basayel | mohheader |
 |--- |--- |--- |--- |--- |
-| <img width="100" height="100" src='https://lh5.googleusercontent.com/-KfMohAy9_bI/UgE1NGCUhBI/AAAAAAAAAAo/DM3gLdLtrr0/s521-no/8438b94c-6b40-40b4-8358-c00e745afb7e' alt='she7ata'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-_k6hTSrtpqs/VH8pce-F7lI/AAAAAAAAABE/gR5Zm9wG0Rw/w517-h521-no/me2.jpg' alt='maboelnour'/> |  <img width="100" height="100" src='https://lh4.googleusercontent.com/-hyjl51o2PMI/VH8oezIExAI/AAAAAAAAABA/rCBpkDASgIk/s450-no/2022572.jpg' alt='yasminegaber'/> | <img width="100" height="100" src='https://lh5.googleusercontent.com/-gfpAemy98nE/VEkUTqLR31I/AAAAAAAAAOA/rZAHah1YWVQ/s521-no/mod.jpg' alt='modsaid'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-426_sCT83Dc/U3cii_DRJhI/AAAAAAAAAHw/VqEnh27ViRs/s410-no/DSC_4180.jpg' alt='mohheader'/> |
+| <img width="100" height="100" src='https://lh5.googleusercontent.com/-KfMohAy9_bI/UgE1NGCUhBI/AAAAAAAAAAo/DM3gLdLtrr0/s521-no/8438b94c-6b40-40b4-8358-c00e745afb7e' alt='she7ata'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-_k6hTSrtpqs/VH8pce-F7lI/AAAAAAAAABE/gR5Zm9wG0Rw/w517-h521-no/me2.jpg' alt='maboelnour'/> |  <img width="100" height="100" src='https://lh4.googleusercontent.com/-hyjl51o2PMI/VH8oezIExAI/AAAAAAAAABA/rCBpkDASgIk/s450-no/2022572.jpg' alt='yasminegaber'/> | <img width="100" height="100" src='https://lh3.googleusercontent.com/-E8gsV8Hidb0/VE4z1OqYBcI/AAAAAAAACnY/G9eganT9Iy8/s403-no/da829f37-ecb2-42f1-a0ed-060fcad6a0b0' alt='basayel'/> | <img width="100" height="100" src='https://lh4.googleusercontent.com/-426_sCT83Dc/U3cii_DRJhI/AAAAAAAAAHw/VqEnh27ViRs/s410-no/DSC_4180.jpg' alt='mohheader'/> |
 
 
 ## Our values
@@ -15024,9 +15182,7 @@ I hate dead week.
 
 #Idea for Hackaton
 
-We will work on HTML5 game that will learn 
-freelancers to improve negotiation skills
-for earn more money and avoid problems.
+Idea management tool. An app where we can quickly save idea, organize, defer, group and share etc is something really good for businessman, programmers and even teachers and student
 
 
 #About team
