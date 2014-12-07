@@ -1,28 +1,27 @@
 Barodian Ninjas
 ================
+Baroda + Ninjas = Barodian Ninjas
+‘Baroda’ is for the city we all hail from and ‘Ninjas’ is from the “Teenage Mutant Ninja Turtles” as it has been our all time favorite comic series.
+ 
 
-We are team of Friends from Vadoadara , which is Know as "Sanskari Nagari" [Cultured City] in India . 
-
-| Anand | Dharmik | Supriya | Shilpi | Himal
+| ![Leo](http://anthakkar08.koding.io/wp-content/uploads/2014/12/ninja1.png) | Annad Thakkar | ![Anand](http://anthakkar08.koding.io/wp-content/uploads/2014/12/anand.png) |  
 |--- |--- |--- |--- |--- 
-|![Anand](https://secure.gravatar.com/avatar/f70eb21a70bddd8ca786aff6d89d94d2?size=400)|![Dharmik](https://pbs.twimg.com/profile_images/539991306034872320/8ifEnF27_400x400.jpeg)|![Supriya](https://pbs.twimg.com/profile_images/539981107672784896/BsjMcNcp_400x400.jpeg)|![Shilpi](https://pbs.twimg.com/profile_images/539979339744284672/1-0N8TaW_400x400.jpeg)|![Himal](https://pbs.twimg.com/profile_images/539136864414744576/gjWpbiRa_400x400.jpeg) 
+|![Anand](http://anthakkar08.koding.io/wp-content/uploads/2014/12/anand.png)|![Dharmik](http://anthakkar08.koding.io/wp-content/uploads/2014/12/dharmik.png)|![Supriya](http://anthakkar08.koding.io/wp-content/uploads/2014/12/sup.png)|![Shilpi](http://anthakkar08.koding.io/wp-content/uploads/2014/12/shilpi.png)|![Himal](http://anthakkar08.koding.io/wp-content/uploads/2014/12/himal.png) 
 
-About Us
+Team
 =======
-We are a Combine Team having Individual Qualities so that's why together, We formed a Team
+Our team Barodian Ninjas, includes 5 of us, We all possess different skills.
 
-Anand   - Team Managment , PHP , MySQL , Service Oriented Architecture , LAMP Stack 
+Anand Thakkar  - Team Management, Creative Thinking, PHP, Javascript, Google API, MySQL, Service Oriented Architecture, LAMP stack development and Linux Administration
 
-Dharmik - HTML5 , CSS3 , Bootstrap3 , jQuery , WordPress , 
+Dharmik Solanki- HTML 5, CSS 3, Bootstrap 3, jQuery and WordPress 
 
-Supriya - PHP , MySql , Bootstrap3 , Adobe Photoshop , jQuery , Linux Server Administration
+Supriya Sharma - PHP, MySQL, Bootstrap 3, Adobe Photoshop, jQuery, Google API, WordPress and CakePHP
 
-Shilpi  - PHP ,  MySql  , Software Enginerring , CakePHP
+Shilpi Vyas - PHP ,  MySQL  , Software Enginerring , CakePHP
 
-Himal   - Adobe Photoshop , Adobe Illustrator 
+Himal Thakkar  - Designing, Content writing, Adobe Photoshop, Adobe Illustrator and PR activities
 
-About Our Project
+About Project
 =======
-
-Humm we would like to Keep it Secrete for a while but as an Hint we are going to buid some awesome stuff using the google Apis as they are simply awesome :)
-
+Our project is for the mankind, who’s demolishing the future. From years now, Our own beloved mother earth is giving us warnings in forms of earthquakes, floods, cyclone etc. Here, we tried to represent those warnings with interactive data visualization.
