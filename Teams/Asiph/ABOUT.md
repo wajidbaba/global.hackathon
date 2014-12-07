@@ -18,6 +18,7 @@ He is currently:
 * studying for his Network and Security + certificates
 * starting an online business
 * and trying to get full time work
+
 Matt has been building websites and programming since he was 11. 
 He started learning HTML from the Internet Explorer connection error page and self-taught himself HTML, JS, and CSS before heading to college.
 In college he studied Electrical Engineering but couldn't stay away from the computer classes his school offered.
