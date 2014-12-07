@@ -1,15 +1,25 @@
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
 <p align="center">
+  <img src="http://i.imgur.com/hdNDB46.png"/>
+</p>
+
+Hello, we are a team mostly from Japan (Tokyo). However, our team is actually very international, consisting of Chinese, Korean, and Vietnamese, and Japanese! Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular. Gundam represents our courage and our love of technology!
+
+<p align="center">
   <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
 </p>
 
-Hello, we are a team mostly from Japan (Tokyo). Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
+Although there is an explosion in the popularity of computer science in the United States and other countries, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan, and being and engineer is not a popular job in Japan. We want to change this mindset and situation. Technology and engineering is making the world a better place, and Japanese engineers should contribute to that. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
+<p align="center">
+  <img src="https://pbs.twimg.com/media/B2i9TJvCAAAXpV5.jpg:large" width="450" height="300"/>
+</p>
+<p align="center">
+  TC Hackathon 2014 in Tokyo. ~135 people
+</p>
 
-私たちは日本にいても、Tommyさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
-
+私たちは、日本人、カナダ人、タイ人、中国人、韓国人のグローバルチームです。アメリカでは情報工学が人気のある学業であるのに対し、 日本ではまだコンピュータサイエンスの分野は人気が高くはありません。私たちはこの現状を変えたいと考えています。 もし、Global hackathonで勝つことができれば、日本の若い世代にコンピュータサイエンスの魅力を伝えることができると考えています。 
 
 About Our Team
 ===========================
@@ -25,7 +35,7 @@ Jumpei Yamane is an accomplished and experienced manager of various hackathons i
 
 Takuya
 =======
-Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
+Takuya is a skilled full stack web engineer who knows Java, Python, Ruby, and Scala. He will be working as the main developer of the team because of his strength in web engineering, and the fact that he knows lots of web technologies. He also knows some iOS and Android. He is very experienced. His profile picture is cute. [Website](https://www.facebook.com/takuya.miyamoto.9083)
 
 Cherry
 =======
