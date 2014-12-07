@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="http://s14.postimg.org/tbb9yovk1/Sin_t_tulo.jpg"/>
+  <img src="http://mentalfloss.com/sites/default/files/pulpfiction.jpeg"/>
 </p>
 
 Welcome to our team information sheet. We are glad that you are taking your time to review our skills!
