@@ -1,15 +1,13 @@
 * { box-sizing: border-box; }
-
-body { 
-	font-size: 18px; font-family: 'Open Sans', sans-serif;
-}
+body { font-size: 18px; line-height: 150%; font-family: 'Open Sans', sans-serif; }
+p { margin-bottom: 15px; }
 
 #link2results { 
 	position: absolute; top: 36px; right: 30px;
 	display: none;
 }
 #link2results a {
-	display: inline-block; padding: 5px 10px 0 10px;
+	display: inline-block; padding: 10px;
 	color: #fff; border-radius: 30px; background: #eee;
 	font-size: 36px;
 }
@@ -50,5 +48,13 @@ body {
 .result .feedback-overlay a:hover { color: #31b0d5; }
 .result .feedback-overlay a.down { top: auto; bottom: 0; }
 
-#footer { padding: 30px; background: #eee; }
-	#footer .get-involved p { margin: 30px 0; }
+#footer { background: #eee; }
+#footer .padder { height: 300px; padding: 30px; }
+#footer .get-involved .padder { color: #fff; background: #31b0d5; }
+#footer .get-involved .text-primary { color: #333; }
+#footer .get-involved p { margin: 30px 0; }
+
+#feedbackModal .modal-dialog { width: 700px; }
+.modal-header, .modal-body { padding: 30px; }
+.modal-body img { max-width: 100%; height: auto; }
+.modal-body .glyphicon { font-size: 36px; margin-right: 10px; }

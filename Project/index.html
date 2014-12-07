@@ -40,37 +40,53 @@
     <section id="footer">
         <div class="row">
             <div class="col-md-3">
-                <h3>About TOSbot</h3>
-                <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
+                <div class="padder">
+                    <h3>About TOSbot</h3>
+                    <p>This project was originally submitted to <a href="https://koding.com/Hackathon">Koding's Global Hackathon</a> by <a href="https://github.com/npnd">Team NPND</a> on December 7th, 2014.</p>
+                    <p><a href="mailto:mark@npnd.com"><span class="glyphicon glyphicon-envelope"></span> Contact Us</a></p>
+                </div>
             </div>
             <div class="col-md-3">
-                <h3>APIs</h3>
-                <ul>
-                    <li><a href="https://tosdr.org/">Terms of Service; Didn't Read</a></li>
-                    <li><a href="https://www.apitools.com/">APItools</a></li>
-                    <li>
-                        <a href="#">Mashape</a>
-                        <ul>
-                            <li><a href="#">RuGu Shrink</a></li>
-                        </ul>
-                    </li>
-                    <li>Sprint.ly</li>
-                </ul>
+                <div class="padder">
+                    <h3>APIs</h3>
+                    <ul>
+                        <li><a href="https://tosdr.org/">Terms of Service; Didn't Read</a></li>
+                        <li><a href="https://www.apitools.com/">APItools</a></li>
+                        <li>
+                            <a href="https://www.mashape.com/">Mashape</a>
+                            <ul>
+                                <li><a href="http://runu.ga/">RuGu Shrink</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://sprint.ly">Sprint.ly</a></li>
+                    </ul>
+                </div>
             </div>
             <div class="col-md-3">
-                <h3>Resources</h3>
-                <ul>
-                    <li><a href="https://tosback.org/">EFF's TOSback</a></li>
-                    <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
-                    <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
-                    <li><a href="http://jquery.com/">jQuery</a></li>
-                </ul>
+                <div class="padder">
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="https://tosback.org/">EFF's TOSback</a></li>
+                        <li><a href="http://harthur.github.io/brain/">brain.js</a></li>
+                        <li><a href="http://getbootstrap.com/">Twitter Bootstrap</a></li>
+                        <li><a href="http://jquery.com/">jQuery</a></li>
+                    </ul>
+                </div>
             </div>
             <div class="get-involved col-md-3">
-                <h3>Get Involved</h3>
-                <p class="enable-feedback-mode"><a class="btn btn-lg btn-info" data-toggle="modal" href="#feedbackModal">Help us improve our results!</a></p>
-                <p class="feedback-mode-actions hidden"><a class="btn btn-default" href="#">Cancel Feedback</a><a class="btn btn-info" href="#">Submit Feedback</a></p>
-                <p><a href="mailto:mark@npnd.com">Contact Us</a></p>
+                <div class="padder">
+                    <h3>Help Us Improve</h3>
+                    <div class="enable-feedback-mode">
+                        <p><a class="btn btn-lg btn-default turn-on-feedback-mode">Turn on Feedback Mode</a></p>
+                        <p><a style="color:#fff;" data-toggle="modal" href="#feedbackModal">Learn more about Feedback Mode</a></p>
+                    </div>
+                    <div class="feedback-mode-actions hidden">
+                        <p>Once you're done, click "submit" below to send your feedback to us.</p>
+                        <p class="text-center">
+                            <a class="btn btn-lg btn-default" href="#">Submit</a> <a class="text-primary" href="#">cancel</a>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -80,20 +96,20 @@
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-            <h4 class="modal-title">Help us improve our results</h4>
+            <h3 class="modal-title">Help Improve Our Model</h3>
           </div>
           <div class="modal-body">
-            <p>If you notice something off in our results – maybe we graded one concept too harshly for this TOS, or maybe we graded it too leniently – you can help improve our model by letting us know.</p>
-            <p>Once you <strong>turn on Feedback Mode by clicking the button below</strong>, hovering over a concept will reveal some tools:</p>
-            <p>[screenshot]</p>
-            <p>Clicking the up arrow will tell us that this TOS is actually better on this concept than we think.</p>
-            <p>Clicking the down arrow will tell us that this TOS is worse on this concept than we think.</p>
-            <p>Once you're done evaluating concepts, click "Submit Feedback" in the footer where you originally launched this modal:</p>
-            <p>[screenshot]</p>
+            <p>If you notice something off in our results, you can help improve our model by letting us know.</p>
+            <p>Once you turn on Feedback Mode, hovering your mouse over a concept will reveal some tools:</p>
+            <p class="text-center"><img src="img/screenshot-down.png" /></p>
+            <p><span class="glyphicon glyphicon-arrow-up pull-left"></span> Clicking the up arrow tells us that this TOS is better on this concept than we report.</p>
+            <p><span class="glyphicon glyphicon-arrow-down pull-left"></span> Clicking the down arrow tells us that this TOS is worse on this concept than we report.</p>
+            <p>Once you're done evaluating concepts, click "Submit" in the footer where you originally launched this modal:</p>
+            <p class="text-center"><img src="img/screenshot-feedback-submit.jpg" /></p>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Got it</button>
-            <button id="turnOnFM" type="button" class="btn btn-info">Turn on Feedback Mode</button>
+            <button type="button" class="btn btn-info turn-on-feedback-mode">Turn on Feedback Mode</button>
           </div>
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
