@@ -6,10 +6,10 @@ https://plus.google.com/+youtube/posts/BUXfdWqu86Q
 About your team
 ===========================
 
-| bruno | danilo | guilherme | vitor
+| bruno | danilo | guilherme 
 |--- |--- |--- |---
-| ![bruno](https://www.dropbox.com/s/nqklpjuevrd5gq5/bruno.jpg?dl=1) | ![danilo](https://www.dropbox.com/s/46i41eimr4x5cki/danilo.jpg?dl=1) | ![guilherme](https://www.dropbox.com/s/x4oi8dqsjmjopdo/guilherme.jpg?dl=1) | ![vitor](https://www.dropbox.com/s/jk1qmogtz9bb1bl/vitor.jpg?dl=1)
-| Webdeveloper @RunwebBR | Software Specialist @daitangroup |  Webdeveloper @RunwebBR |  Software Specialist @daitangroup  |
+| ![bruno](https://www.dropbox.com/s/nqklpjuevrd5gq5/bruno.jpg?dl=1) | ![danilo](https://www.dropbox.com/s/46i41eimr4x5cki/danilo.jpg?dl=1) | ![guilherme](https://www.dropbox.com/s/x4oi8dqsjmjopdo/guilherme.jpg?dl=1) 
+| Webdeveloper @RunwebBR | Software Specialist @daitangroup |  Webdeveloper @RunwebBR | 
 
 Even though technology has evolved so much in the last 15 years, there are many solutions for problems we face everyday that date decades ago.
 Problems that we are "just used to" or that "we can't help but do what everybody else is doing". 
@@ -33,11 +33,6 @@ About your skills
 #### Name: Guilherme Gonçalves
 - *Reason to participate*: To make learning better for everyone, and to have fun while doing it
 - *Skills*: Php, Express, Node and Javascript
-
-
-#### Name: Vitor Morelatti
-- *Skills*: C/C++, Boost, Php, JQuery, Javascript
-
 
 What you are going to do?
 ========
