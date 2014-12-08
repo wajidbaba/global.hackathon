@@ -9,7 +9,6 @@ TP;NS was founded in 2014 for the world's first virtual hackthon hosted by Kodin
 ### [Check it out here!](http://digitalmockingbird.koding.io/dashboard/)
 
 # About the team
-![](https://github.com/DigitalMockingbird/EULAThingy/blob/master/eulathingy/static/img/liam.jpg =150x150)
 Liam "lolletsoc" Costello
 A wizard class Python engineer. Hailing from the philosopher swamped Acopolis of Athens, Greece. Liam is known for occasionally brewing up lean artificial intelligence agents which have a better understanding of grammar than the average Call of Duty player.
 
