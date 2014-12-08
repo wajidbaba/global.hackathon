@@ -77,4 +77,5 @@ The result of this 48-hours hacking session is here: [http://kapidarium.com/](ht
 5. **php-fpm**
 6. **MySQL**
 7. **phing** to build our application on server
-8. Amazing **Koding VM** as production server.
+8. **Redis** 
+9. Amazing **Koding VM** as production server.
