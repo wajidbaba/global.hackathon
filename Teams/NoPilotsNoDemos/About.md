@@ -11,7 +11,7 @@ Note: There is a mirror of the client and server code in the src subfolder of ou
 
 ### Summary
 
-tl;dr? watch the video.
+tl;dr? watch the video here https://www.youtube.com/watch?v=QqqkmepANGg
 
 ToSBot is an app that reads ANY Terms of Service page and alerts you to potential legal, moral, and ethical issues that may exist within. Powered by a neural network seeded by the fantastic dataset at http://tosdr.org, this app learns as it goes and improves itself to give you more accurate results.
 
