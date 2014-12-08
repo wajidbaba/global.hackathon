@@ -8,6 +8,13 @@ TP;NS was founded in 2014 for the world's first virtual hackthon hosted by Kodin
 
 ### [Check it out here!](http://digitalmockingbird.koding.io/dashboard/)
 
+# About the team
+Liam "lolletsoc" Costello
+A wizard class Python engineer. Hailing from the philosopher swamped Acopolis of Athens, Greece. Liam is known for occasionally brewing up lean artificial intelligence agents which have a better understanding of grammar than the average Call of Duty player.
+
+Noah "DigitalMockingbird" Edelman
+A user experience seer and energetic Python developer. Hailing from the rich programmer ecosystem of Silicon Valley, California. Noah is always looking application analytics and constantly tweaking programs for maximum impact.
+
 # Packages
 * NGINX
 * Data Dog
@@ -15,4 +22,5 @@ TP;NS was founded in 2014 for the world's first virtual hackthon hosted by Kodin
 * Django
 * Python
 * NLTK
-* POstgres
+* Pstgres
+
