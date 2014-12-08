@@ -1,6 +1,7 @@
 No Pilots, No Demos presents...
 
 # ToSBot
+## A Neural Network that Reads Legal Pages for You
 
 * Koding URL: http://aphelionz.koding.io
 * Client Github URL: https://github.com/npnd/global.hackathon/tree/master/Project
