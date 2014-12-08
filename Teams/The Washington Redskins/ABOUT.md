@@ -30,16 +30,9 @@ Please support us and share your experiences/money with us on our [team page](ht
 
 ## What we're making
 
-We made a site called Living Planet in which we discuss select current problems in the world and visualize them primarily using interactive graphs and 
+We made a site called Living Planet in which we discuss select current problems in the world and visualize them primarily using interactive graphs and charts.
 
 ## Technologies Used
 ![Meteor](https://d14jjfgstdxsoz.cloudfront.net/meteor-development-group.png)  
 [three.js](http://threejs.org)  
 ![D3](https://camo.githubusercontent.com/3da33aba96e13f6dd2c8b57141defdb53b6ca918/687474703a2f2f64336a732e6f72672f6c6f676f2e737667) 
-
-Expect us on Kickstarter [2] soon [3]!
-
-[1]: It's not in *Steve Jobs* by Walter Isaacson, but it's still possible [4] that he did say it <br>
-[2]: See "Go Fund Yourself"'s above link <br>
-[3]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29) <br>
-[4]: Literally and totally impossible
