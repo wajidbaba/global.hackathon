@@ -1,7 +1,7 @@
 Team Tachyon
 ============
 ---
-Why Tachyon you may ask? Well, tachyon is a theoretical particle that travels faster than the speed of light. In ~~fact~~(theory), if someone threw a tachyonic ball at you, you would be hit before you even saw the ball hitting you. This 'faster than speed of light' will relate to my project theme below.
+Why Tachyon you may ask? Well, a tachyon is a theoretical particle that travels faster than the speed of light. In ~~fact~~(theory), if someone threw a tachyonic ball at you, you would be hit before you even saw the ball hitting you. This 'faster than speed of light' will relate to my project theme below.
 About
 ===========================
 
