@@ -7,7 +7,7 @@ Hi all, welcome to the home of #BitsPlease
 
 | paulliwali | lyamelia | phantastik | benwang | mattpua |
 |---|---|---|---|---|
-|![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg)|![phantastik](http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg)|![benwang](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09d/23d/06b70dc.jpg)|![Matt](http://placehold.it/350x150)|
+|![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg)|![phantastik](http://www.hpc4health.ca/hpc4health/sites/default/files/brian.jpg)|![benwang](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/09d/23d/06b70dc.jpg)|![Matt](https://media.licdn.com/media/p/4/005/038/360/2488027.jpg)|
 
 Individually we are engineers from different disciplines at the University of Toronto. Together we are BitsPlease.
 
