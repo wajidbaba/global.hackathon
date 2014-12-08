@@ -2,6 +2,7 @@ Super Code Bros
 ================
 ***We are the Super Code Bros., young code monkeys from the cold land of bountiful fjords, Norway!***  
 
+Our prototype for the game we hope to develop further after this is over: [hansrodtang.koding.io](http://hansrodtang.koding.io)
 
 ![Our logo](https://dl.dropboxusercontent.com/u/660269/supercodebros.png)
 
