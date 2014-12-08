@@ -1,3 +1,5 @@
+# ALERT: this repository is now closed. No more PRs will be accepted.
+
 ## KODING'S GLOBAL VIRTUAL HACKATHON
 
 Welcome to the git repo for Koding's Global Virtual Hackathon! If that 
