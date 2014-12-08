@@ -14,6 +14,15 @@ Team MAACC is
 
 "I've had a love for computers for as far back as I can remember. Back then it was atari and pentiums but by learning to get systems like those to run the latest games I was inspired to tinker and code. Since that time I've worked over half a decade in the IT world, mostly on the sysadmin and computer networking side of things. Over the last year though I've fallen in love with coding all over again and have been spending many a late night hour cramming myself with every bit of coding knowledge I can. Ruby and Rails will always be my first love as thats where I rediscovered my love to code, but since then I've expanded my view to javascript, ember, and other frameworks. I code because it's my passion, not because its a job, and I love every day of it."  
 
+
+##Austin Lazarus
+####Designer and pirate
+
+Austin has been a creative since he's know himself. He's been drawing and illustrating for as long as he can remember. He is always thinking of the next big thing, tries his hand at a few and occasionally makes something interesting. He is in addition :
+*A Coder
+*An Ophthalmic Lab Technician 
+*A Technologist
+
 ##Cameron Craig
 ####He really loves cars and b****es
 <img src=http://horsedigests.com/wp-content/uploads/2011/09/craig-cameron.jpg></img>
