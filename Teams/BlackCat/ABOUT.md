@@ -2,11 +2,11 @@ BlackCat
 ===========================
 ![logo](https://img-fotki.yandex.ru/get/15496/1770335.0/0_9d3d4_f8741b0e_S.jpg)
 
-Hello! We are BlackCat team from [Kaluga](https://en.wikipedia.org/wiki/Kaluga), Russia and we're making Translatr -- great tool for collaborative translation in real-time.
+Hello! We are BlackCat team from [Kaluga](https://en.wikipedia.org/wiki/Kaluga), Russia and we're making **Translatr** -- great tool for collaborative translation in real-time.
 
 About our product Translatr.
 ===========================
-Translatr is our product for this Hackathon. It's a service which helps (we hope) people to quick translate and share peaces of text between each other.
+Translatr is our product for this Hackathon. It's a service which helps (we hope) people to quickly translate and share pieces of text.
 
 You can get more details about Translatr on GitHub project page https://github.com/radev/translatr
 
