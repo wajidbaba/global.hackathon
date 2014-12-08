@@ -1,4 +1,4 @@
-...No Pilots, No Demos presents
+No Pilots, No Demos presents...
 
 # ToSBot
 
