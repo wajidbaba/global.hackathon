@@ -22,4 +22,4 @@ We are team of experienced web developers working together in the same company.
 #Some words about our idea
 
 We are going to create a web application where people can create and learn their own courses.
-
+[More info here](https://github.com/schfkt/coursehub/blob/master/README.md)
