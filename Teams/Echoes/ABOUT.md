@@ -1,6 +1,6 @@
 # Echoes
 
-We are a team from Croatia. Between us we have over 15 years of experience in web development. We all enjoy a good challenge, but we have never worked as a team. This will be an opportunity for us to see what we can create together.
+We are a team from Croatia. Between us we have over 10 years of experience in web development. We all enjoy a good challenge, but we have never worked as a team. This will be an opportunity for us to see what we can create together.
 
 
 ## The cast
@@ -10,11 +10,12 @@ We are a team from Croatia. Between us we have over 15 years of experience in we
 #### Fran Hrzenjak
 Backend developer, enjoys python and astronomy
 
-#### Martin Samsa
-Front end developer with a love-hate relationship with CSS  
- 
 #### Marin Troselj
 Engineer passionate about Science and Education, Empowering people and Improving society  
+
+#### Martin Samsa
+Front end developer with a love-hate relationship with CSS  
+**update**: our friend Martin is having a nasty weekend that started with a visit to the dentists office :( Martin, you have been greately missed! Get well soon, our frontend needs you ;)
 
 
 ## Our story
