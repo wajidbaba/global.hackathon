@@ -16,7 +16,7 @@ Aime is a professional designer with a knack for quick artwork and prototype ske
 ##Estel Smith
 <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/040/162/3e4b4ec.jpg" height=200 width=200/>
 <p>
-Estel is a professional software engineer who is responsible for the heavy lifting in the backend. Estel was responsible for the data parsing, API queries, and development environment.
+Estel is a software engineer (also recently ZEND certified!) who is responsible for the heavy lifting in the backend. Estel was responsible for the data parsing, API queries, and development environment.
 </p>
 
 ##Stefan Gimmillaro
