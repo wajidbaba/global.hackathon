@@ -14,7 +14,11 @@ Team MAACC is
 
 "I've had a love for computers for as far back as I can remember. Back then it was atari and pentiums but by learning to get systems like those to run the latest games I was inspired to tinker and code. Since that time I've worked over half a decade in the IT world, mostly on the sysadmin and computer networking side of things. Over the last year though I've fallen in love with coding all over again and have been spending many a late night hour cramming myself with every bit of coding knowledge I can. Ruby and Rails will always be my first love as thats where I rediscovered my love to code, but since then I've expanded my view to javascript, ember, and other frameworks. I code because it's my passion, not because its a job, and I love every day of it."  
 
+##Cameron Craig
+####He really loves cars and b****es
+<img src=http://horsedigests.com/wp-content/uploads/2011/09/craig-cameron.jpg></img>
 
+"Cameron Craig is an ex-Wall Street banker who threw away his life of fast cars, beautiful women and endless luxury to focus on creating games using javascript. "Whevener I start to miss my old life I remember the flexible object-orientated capabilities of javascript and it makes it all worth it", says the 37 year old."
 
 #About us
 
