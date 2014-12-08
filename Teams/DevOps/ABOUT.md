@@ -2,12 +2,12 @@
 ---
 
 <p align="center">
-  <img src="http://s14.postimg.org/tbb9yovk1/Sin_t_tulo.jpg"/>
+  <img src="http://mentalfloss.com/sites/default/files/pulpfiction.jpeg"/>
 </p>
 
 Welcome to our team information sheet. We are glad that you are taking your time to review our skills!
 
-We are three full stack software enthusiasts currently working together in a SAAS application for fitness.
+We are two full stack software enthusiasts currently working together in a SAAS application for fitness.
 
 ###1. Ruben Paz
 ![](https://gravatar.com/avatar/6442fc1bfaf540eeb650ae4691255f01?size=165.0000035762787)
