@@ -8,7 +8,7 @@ Team MAACC is
  * Cristian Achille
 
 ##Mike Rickert
-###Lead Developer, websocket guru, commit junk
+####Lead Developer, websocket guru, commit junkie
 
 <img src=http://i.imgur.com/PxIZfkv.jpg></img>
 
@@ -16,8 +16,8 @@ Team MAACC is
 
 
 
- About Us
- ---------------------
+#About us
+
 
  Team MAACC is a group of friends who originally met in a previous Hackathon. After having great fun we decided to stay in touch and keep hacking together.
 
