@@ -9,7 +9,7 @@ Hello and welcome to the Mindvalley Steam team page. We are members of Core tech
 ![Ramin](http://i.imgur.com/1pic4OB.jpg)|![Tristan](http://i.imgur.com/ImDvR2y.jpg)|![Chee Seng](http://i.imgur.com/GBhbzOy.jpg)|![Victor](http://i.imgur.com/3C8BaCp.jpg)|
 
 ###Ramin Vakilian
-Hacking and coding is my main hobby. I developed my own 3D game engine in 1996 and followed this passion into the career. I have now more than 7 years of experience in IT industry and a master degree in MIS. I am a firm believer in a balanced lifestyle and strives to ensure that work and fun co-exist.
+Hacking and coding is my main hobby. I developed my own 3D game engine in 1996 and followed this passion into the career. I have now more than 7 years of experience in IT industry and a master degree in MIS. I am a firm believer in a balanced lifestyle and strive to ensure that work and fun co-exist.
 
 ###Tristan Gomez
 When he’s not ballroom dancing, this enigmatic developer and designer brilliantly executes the most complex of code and mock-ups with a few clicks here and there. Outside the office, Tristan dabbles in Ruby programming and wows the girls with his dance moves.
