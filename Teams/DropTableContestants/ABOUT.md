@@ -8,6 +8,11 @@ DROP TABLE Contestants
 | 2     | ![Mike](http://zoiz.org/mike.jpg)
 | 3     | ![Aurelia](http://zoiz.org/aurelia.jpg)
 
+Project
+=======
+https://github.com/javadan/HACKATHANG
+http://uskk7d77bfa2.salient.koding.io:8181/MapApp/
+
 About Us
 ========
 Our team is comprised of 4 talented underachievers, who know too much, who go too far.
