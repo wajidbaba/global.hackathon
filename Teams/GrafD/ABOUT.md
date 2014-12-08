@@ -1,18 +1,17 @@
-This is our page
+GrafD team
 ================
 
 Hey!
 
+![Sergey](/Teams/GrafD/avatar.png?raw=true "Sergey")
 
-About your team
-===========================
+I'm software developer from Russia, Chelyabinsk. 
+I'm coding more that 15 years from early childhood.
+Interested in web and game development.
+Last time I very often use HTML5 + CSS3 + JS for wide range of projects.
 
-I'm software developer from Russia, Chelyabinsk. Interested in web and game development.
+Why GrafD?
 
-
-About your skills and what you are going to do?
-=======
-
-It will be an awesome project created with node and HTML5 stack.
-
+D is the first letter of my family. Graf D. is one of the songs of the group I love (Piknik).
+Thats why. :-)
 
