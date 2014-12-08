@@ -1,7 +1,9 @@
 
 # Team Monitor Backlinks
 
-We are the team behind monitorbacklinks.com
+We are the team behind monitorbacklinks.com, a remote team, very experienced and dedicated to create quality code and quality user experience.
+
+![Monitor Backlinks Team and Technologies used during hackatron](http://s.monitorbacklinks.com/i/mb-team.jpg)
 
 ## About Us
 
