@@ -33,3 +33,9 @@ About Project
 =======
 Our Project is based on theme ‘Problems facing our planet, explained using interactive data visualization’.
 It is for the mankind, who’s demolishing the future. From years now, Our own beloved mother earth is giving us warnings in forms of earthquakes, floods, cyclone etc. Here, we tried to represent those warnings with interactive data visualization.
+
+have a look over our stuff on the below Link
+
+http://anthakkar08.koding.io/
+
+And do share your views as well :) 
