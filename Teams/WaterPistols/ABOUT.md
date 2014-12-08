@@ -5,12 +5,29 @@ Well, we take very seriously what we do and we are very aware of the great power
 
 ![Logo](http://ecx.images-amazon.com/images/I/31a0HLQehAL.jpg)
 
+The Project
+===========================
+Our project is called "Treehuggers" and it is an educational HTML5 multiplayer game about air pollution. You and your friends must plant trees in order to reduce the pollution caused by the factory in the middle of the island. You have a limited number of initial trees and unlock more by correctly answering questions about the environment.
 
-About
+The Team
 ===========================
 
 | Demian | Laza | Depe | Filip
 |--- |--- |--- |---
-| ![Demian](http://i.imgur.com/BLIMIdy.jpg) | ![Laza](http://i.imgur.com/4AvtJB5.jpg) | ![Depe](http://i.imgur.com/YSSZBn4.jpg) | ![Filip](https://scontent-a-fra.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1901683_742680379098382_265536859_n.jpg?oh=56bfacf7834ba33df9790d8fa3687a03&oe=55087D51) |
+| ![Demian](http://i.imgur.com/corqZVC.jpg) | ![Laza](http://i.imgur.com/22qZ1sE.jpg) | ![Depe](http://i.imgur.com/VuruMBf.jpg) | ![Filip](http://i.imgur.com/wwgjAxP.jpg) |
 
-We are a group of friends trying to solve the big misteries of the universes. Armed with water pistols, coding and creative superpowers, we begin our mission to reach for the highest peak of human existence. And also win the Hackathon.
+Demian
+---
+Andrei Demian is a full stack developer and has been charged with doing part of the front-end duties including the animation of game components.
+
+Laza
+---
+Andrei Laza is a back-end developer and had the duty of providing the API for the application. 
+
+DePe
+---
+Our awesome designer is Bogdan Negrescu. With over 10 years of designing experience, DePe loves games, illustrations and animations.
+
+Filip
+---
+Claudiu Filip is a front-end developer and had the job of providing the JS architecture for "Treehuggers" as well as the lion's share of the animations.
