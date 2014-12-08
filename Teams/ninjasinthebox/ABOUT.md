@@ -1,6 +1,7 @@
 ninjasinthebox
 ==============
-We are ninjasinthebox, the most awesome ninjas in a box. <br>
+We are ninjasinthebox, the most awesome ninjas in a box.  
+Click [here](https://www.youtube.com/watch?v=wmLlQKutHAo) to watch our video.  
 ![logo](https://pbs.twimg.com/profile_images/539771378212167682/zqWyZteS.png)
 
 teamzor
@@ -24,3 +25,5 @@ our ninja skillz
 mizzion
 =======
 The most awesome ninja mission evar completed!
+
+
