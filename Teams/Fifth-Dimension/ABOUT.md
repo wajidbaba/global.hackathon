@@ -19,4 +19,7 @@ Our skills
 Our Idea
 =======
 
-We choose to work on theme 2 and 4.
+Code Worlds aim is to help beginner programmers learn programming while playing game and having fun. Original idea was that player has to create everything using code like Houses, Stores, Tutorials and style inner design of everything using html/css, it would be virtual world where you could learn new skills and build your programming worlds to share your knowledge width others.
+you can check our project online here: [http://dkhaburdzania.koding.io:3000](http://dkhaburdzania.koding.io:3000)
+
+
