@@ -1,7 +1,14 @@
 This is our page
 ================
 
-We are Team Maracanã, in honor to the home of brazilian football teams from Rio de Janeiro.
+This is Team Maracanã, in honor to the home of brazilian football teams from Rio de Janeiro.
+
+[RaceCoding](http://ulkk6e32e694.lalkmim.koding.io:3000/)
+[Source](http://github.com/lalkmim/race-coding)
+
+Unfortunatelly couldn't finish it on time, the project was a racing game where people could give their first steps on the programming.
+
+The race engine is almost complete, the JS interpreter needed little work (using PEG.js) and the web interface needed a LOT of work.
 
 
 About your team
