@@ -3,7 +3,7 @@ GrafD team
 
 Hey!
 
-![Sergey](avatar.png?raw=true "Sergey")
+![Sergey](avatar.jpeg?raw=true "Sergey")
 
 I'm software developer from Russia, Chelyabinsk. 
 I'm coding more that 15 years from early childhood.
