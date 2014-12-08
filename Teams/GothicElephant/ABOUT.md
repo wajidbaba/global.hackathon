@@ -50,15 +50,32 @@ We set two mutually important aims:
 
 We are going to develop a system for collecting information about patients’ condition and forwarding the data gathered to doctors, psychologists, therapists, self-aid groups and researchers. 
 
-**What about privacy?**
-
-All personal data are to be syphered and be available for those who will be authorized by the user only. Researches will be able to obtain such information impersonally.
-
-**Which information is the application to collect and how?**
-
-We are well aware of our closest rivals who gather data about moving, talking, etc. and then analyse this information arriving at highly inaccurate results.  But we have chosen another way as it is the patient him/her-self who can be almost the best judge of his/her condition. Our client application is designed as a system for obtaining daily medical history through filling in customized tests.
-
 **Why has our team picked up this topic and why are we confident in our project success?**
 
-The idea for our project was born by our team member Olymzhon Iuldashev who personally had gone through alarm, panic attacks, depersonalization, derealization, depression, psychosis, euphoria, delusion, paraphrenia and schizoaffective disorder. Having but a very close experience of a close friend’s disease our team is aware of how important IT decisions are for mental patients and we know the way to deal with this global challenge
+The idea for our project was born by our team member Olymzhon Iuldashov who personally had gone through alarm, panic attacks, depersonalization, derealization, depression, psychosis, euphoria, delusion, paraphrenia and schizoaffective disorder. Having but a very close experience of a close friend’s disease our team is aware of how important IT decisions are for mental patients and we know the way to deal with this global challenge
 
+
+**[Check it now!](http://kapidarium.com/)**
+
+How did we hacked during the hackathon?
+-----------
+
+First at all we choosed a place where we were able to work together. This place for us was Danila's flat, where we had spent all 48 hours of Hackathon.
+
+Then we did some preparation before the Hackathon start - install web-server, create GitHub repo and some planning work.
+
+So, we used Trello to store our tasks and plans, shared our code between team members with GitHub and off course we had used the real-time communication.
+
+The result of this 48-hours hacking session is here: [http://kapidarium.com/](http://kapidarium.com)
+
+**Tools that we had used in our project:**
+
+1. **Yii2** for backend (API).
+2. **backbone.js** and some dirty hacks with **jQuery** ;) on frontend.
+3. **composer** for PHP packages
+4. **Nginx** web server
+5. **php-fpm**
+6. **MySQL**
+7. **phing** to build our application on server
+8. **Redis** 
+9. Amazing **Koding VM** as production server.
