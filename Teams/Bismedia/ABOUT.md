@@ -1,12 +1,12 @@
 Bismedia
 ================
 
-We are the Bismedia team, three full stack javascript professionals from the Extreme North of Russia. Our specialization – 
-rich UI sites, complicated biz webapps and distributed heavily async systems.
+We are the Bismedia team, two full stack javascript professionals from the Extreme North of Russia. Our specialization – 
+rich UI sites, complicated biz webapps and distributed async systems.
 
-| ![ermouth](http://bis-media.ru/koding/ermouth1.jpg) | ![dander](http://bis-media.ru/koding/carpogoryanin1.jpg) | ![vigeniy](http://bis-media.ru/koding/vigeniy1.jpg) 
-|--- |--- |--- 
-| **ermouth** | **carpogoryanin** | **vigeniy**
+| ![ermouth](http://bis-media.ru/koding/ermouth1.jpg) | ![dander](http://bis-media.ru/koding/carpogoryanin1.jpg) 
+|--- |--- 
+| **ermouth** | **carpogoryanin** 
 
 ####ermouth
   * Full stack javascript
@@ -17,10 +17,5 @@ rich UI sites, complicated biz webapps and distributed heavily async systems.
   * Linux and runtime environment
   * CouchDB
   * Javascript
-
-####vigeniy
-  * Javascript
-  * Mongo
-  * .Net
 
 ##Yes, we love JS )
