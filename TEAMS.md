@@ -1310,12 +1310,13 @@ More about us!
 For most (if not all) of us, this is our first hackathon! We want a challenging, competative experience in which we can engage and learn as we work together to meet our project goal in providing a solution to one of the Koding.com themes.
 
 * Eric) A front-end designer and developer with 6+ years of experience (HTML/CSS/JS).
-* Super Bear) A back-end developer (PHP, MySQL,Mongo, Redis, some Python, some Shell) using Linux/mac.
-* Tim) Full stack developer, own a web dev company, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java.
-* Cyril) Back-end developer
-* Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!)
+* Super Bear) A back-end developer (PHP/MySQL/Mongo/Redis/some Python/some Shell) using Linux/mac.He wants to learn more Web Developement Skill during this Hackthon!:D
+* Tim) Full stack developer, 10+ years experience (PHP/MySQL/JS/HTML/CSS). Other experience: Python, c/c++/c#, shell and some java. Tim Turner studies Mathematics and Computer Science at the University of Washington in Seattle. If that weren’t enough for a mere mortal, Tim also works at an IT company and runs a web dev shop of his own. He loves to help others bring their ideas to life. More about me: [stories.koding.com/tim-turner](http://stories.koding.com/story/tim-turner/)
+* Cyril) Back-end developer (PHP, MySQL, Doctrine, Java)...a Software Architect at CYMAPK, a company that focuses on building web based applications for the Finance industry. While not working, I focus on participating in forums and blogs at Codecall. My main interests are Database modelling and back-end programming...and outside of I.T related stuff i enjoy a good kick-about (football). I am looking foward to this hackathon as both fun, challenging and interactive. Lets do this :)
+* Andrew) Java/Python/Ruby Programmer with Rails Experience (2 Years overall exp) (Bonus: High Schooler with a passion for coding!) Owns Liquid Think (.net) where he writes interesting and engaging posts about new things in technology--whether it be Open-Source, Linux, Hacker Culture or Gadgetry. When he's not writing Blog Posts or Code, he's sailing in his Laser Dinghy. He hopes to learn more about interactive Web Applications and Developement in this Hackathon. 
 
-We're going to attack the challenges presented by the hackathon themes, collaborate and develop a creative, unique solution, and produce a useful product to meed the presented need.
+
+We're going to attack the challenges presented by the hackathon themes, collaborate and develop a creative, unique solution, and produce a useful product to meet the presented need.
 
 
 ---------------------------------------
@@ -1445,24 +1446,62 @@ __Let's code with love <3__
 About Team Asiph
 ===========================
 
-| awm4j |sippy | hagan
+| AwM4J | Sippy | Hagan
 |--- |--- |---
 | <img width="100" height="100" src='http://graph.facebook.com/awm4j/picture?type=large' alt='awm4j'/> | <img width="100" height="100" src='http://graph.facebook.com/Sippyy/picture?type=large' alt='sippy'/> | <img width="100" height="100" src='http://graph.facebook.com/nate.hagan/picture?type=large' alt='hagan'/> |
 
 We are a group of problem solving Grove City College alumni who enjoy building cool and interactive solutions.
 We saw this hackathon as a good way to catch up and build something awesome together.
 
+| Matt McGee (AwM4J)
+|---
+| <img width="100" height="100" src='http://graph.facebook.com/awm4j/picture?type=large' alt='awm4j'/> 
+
+This individual is not currently employed full time, allowing him to pursue his passions and dream.
+He is currently:
+* learning Ruby and Python
+* studying for his Network and Security + certificates
+* starting an online business
+* and trying to get full time work
+
+Matt has been building websites and programming since he was 11. 
+He started learning HTML from the Internet Explorer connection error page and self-taught himself HTML, JS, and CSS before heading to college.
+In college he studied Electrical Engineering but couldn't stay away from the computer classes his school offered.
+He is currently heading towards becoming a Security Professional and bounces between York and Pittsburgh, PA.
+
+
+| Christian Dehli (Sippy, CP)
+|---
+| <img width="100" height="100" src='http://graph.facebook.com/Sippyy/picture?type=large' alt='Sippy'/> 
+
+CP is currently employed at a large powerhouse of a company, Bentley Systems.
+In his free time he built a photo sharing app called Sneaki.
+He currently lives in Pittsburgh, PA.
+
+
+| Nate Hagan
+|---
+| <img width="100" height="100" src='http://graph.facebook.com/nate.hagan/picture?type=large' alt='hagan'/>
+
+Hagan works for the man at Microsoft.
+In his free time...um he doesn't have much of that. Between work, parties, and all the ladies in his life.
+He currently lives in Seattle, WA.
+
 
 Skills
 =======
-HTML, CSS, JS, PHP, C++, C#, .NET, Python, MySQL
+HTML, CSS, JS, PHP, C++, C#, 
+Objective-C, Swift, .NET, Python, MySQL, 
+C, Python, VHDL, MSSQL, MIPS Assembly, 
+ASP, Autohotkey, AutoIT, Powershell, Batch and Shell scripting.
 
 
 Project Idea
 =======
-We are not completely sure what we are doing exactly. 
-We will take advantage of Facebook, Twitter, Google+, and Skype to perform team communications.
-We will be using several APIs and applications to complete our task.
+We are going to build the most epic learning game ever...in less than 48hrs.
+We will take advantage of Google+ and texting to perform team communications.
+We will be using several open source projects and APIs to complete the task.
+
 
 ---------------------------------------
 
@@ -2554,28 +2593,52 @@ I am planning to do something on Tomcat. I checked and it worked on koding.com v
 
 ---------------------------------------
 
-Team Cardboard Coders
-================
+# Team Cardboard Coders
 
 We're a team of developers from Bucharest, Romania and we love to code. We're really excited to be a part of this first Global Hackathon and we're sure we'll have a blast.
 
+## Cardboarders
 
-Team Members
-===========================
-
-| Member | Bio
+| Andrei | Location: Backend / Frontend boxes (I'm overweight :( need 2 boxes)
 |:---: |--- 
-| Andrei <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1401901846/me_crop_200x200.jpg' alt='Andrei'/> | <p>Web developer.  I mostly work on the backend part of applications usually in PHP. </p><p>You can get in touch with me on twitter @neamtua.</p> |
-| Khez <img width="100" height="100" src='https://dl.dropboxusercontent.com/u/8039858/khez02.png' alt='Khez'/> | <p>My skills: Not many, you ?</p><p>My job: I am entropy man ! </p><p>My title: Wall.</p>
-| Vlad <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479548892145410048/zdErLGTX_200x200.png' alt='Vlad'/> | "No, thanks."
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1401901846/me_crop_200x200.jpg' alt='Andrei'/> | <p>Web developer.  I mostly work on the backend part of applications usually in PHP. </p><p>You can get in touch with me on twitter @neamtua.</p>
 
+| Khez | Location: Jack Of All Trades boxes (Deploy all the boxes!)
+|:---: |--- 
+| <img width="100" height="100" src='https://dl.dropboxusercontent.com/u/8039858/khez02.png' alt='Khez'/> | <p>My skills: Not many, you ?</p><p>My job: I am entropy man ! </p><p>My title: Wall.</p>
 
-Project
-=======
-We haven't decided yet on what we'll work on. We have so many ideas but we will definitely use PHP and JavaScript for it.
+| Vlad | Location: Frontend / Designer boxes
+|:---: |--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479548892145410048/zdErLGTX_200x200.png' alt='Vlad'/> | Passionate about technology, I mostly work on front end and web design.
 
-We will update this as soon as we've made up our minds.
+## Project
+Check [projectNice: The Game](https://github.com/neamtua/projectNice/)
 
+## Timeline
+
+| HackathonTime | Description | Andrei | Vlad | Khez
+|:---: |--- |--- |--- |---
+| -1h | Preparation | Attending | Attending | Oversleeping
+| 4h | Ping | Waiting on Khez | Waiting on Khez | Waking up
+| 6h | Ping | Emergency Room | Vlad+Khez vs KodingEdge | vs KodingEdge
+| 8h | Ping | Back on track | Back on track | Back on track
+| 10h | API | Designing API skeleton | **We need a PM** | Checking API resources
+| 12h | FE | Still Designing API | **What frontend?!** | Mockuping controlls in game
+| 14h | FE | Checking API Facts | Reddit | Mockup enemy ship in game
+| 16h | ?? | API? | **_Ship time!_** | Mockup player ship in game
+| 18h | ?? | PillPopping | **_SHIPS!!_** | Something engine related
+| 19h | NoOp | R&R | R&R | R&R
+| 24h | ?? | Eating | R&R | Sleeping
+| 26h | ?? | PillPopping | R&R | Sleeping
+| 27h | ?? | Checking Frontend code | Designing overall look | Waking up
+| 28h | FE | Looking for sounds | Designing ship | Fixing locking bugs
+| 29h | FE | Implementing Soundcloud API | Designing backgrounds | Adding collision with ground
+| 30h | FE | Making start menu | Designing start menu interface | Adding tesla firing
+| 32h | FE | Fixing API Bugs | Designing final explosions | Power Failures
+| 34h | FE | Adding sounds and animation | Designing website | Late Pre-Xmas Shopping
+| 36h | FE | Added scoring and statistics | Finished website design | Late Pre-Xmas Meetup
+| 46h | PANIC | PANIC | PANIC | No idea
+| 47h | PANIC | Prepping for submission | Went to work | Naked and messaging us about it
 
 
 ---------------------------------------
@@ -2677,17 +2740,24 @@ ChennaiNerd
 
 ## Who we Are
 
-We are passionate and creative group of developers share deep love for hacking.
+We are passionate group of developers share deep love for hacking.
 We truly believe that learning comes from sharing.
 We know each other during work or while attending hackathons And,
 we are from great place [Chennai, INDIA](https://www.youtube.com/watch?v=VKMyYO2g6Fc)
 
-
-| Fizer Khan | Yogeswaran | Dheeraj Joshi
+| Fizer Khan | Yogeswaran
 |--- |--- |---
-| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1433380?v=3&s=200' alt='Fizer Khan'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1505586?v=3&s=200' alt='Yogeswaran'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/489018856506011648/_3yNhEXD_200x200.jpeg' alt='Dheeraj Joshi'/> |
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1433380?v=3&s=200' alt='Fizer Khan'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1505586?v=3&s=200' alt='Yogeswaran'/> |
 
-Still thinking about it. But it will surely be something special!
+### What we built on Hackathon
+
+DuoDev is a new way to learn syntax of programming language.
+
+DuoDev = [Learning X in Y minutes](http://learnxinyminutes.com/) + [DuoLingo](https://www.duolingo.com)
+
+* [SourceCode](https://github.com/ChennaiNerd/DuoDev)
+
+* [Site](http://ufkk04cc7eb6.fizerkhan.koding.io/)
 
 
 
@@ -4832,17 +4902,54 @@ technologies in a result that is both practical and delightful for users.
 
 ---------------------------------------
 
-We are...Float-Center
+<h1>We are Corey, Caleb, Daniel, Chris and Together we make up Float-Center</h1>
 
-We are skilled
+<p>Our team is located in Wichita, Kansas, and no we do not live on a farm, ride horses to work or have a dog name Toto. We will however claim Superman as an honorary Jayhawker because he is awesome:</p>
 
-We are front end developers who love kittens, most of us at least. I personally hate the little bastards.
+<img src="http://worldonline.media.clients.ellingtoncms.com/img/photos/2013/04/18/Screen_shot_2013-04-18_at_2.13.30_PM_2_t600x260.png?81864b192c2c8a81b47e3c682f855e85cb6468f5" alt="Superman" style="text-align:center;">
 
-With joking aside, we are a group of skilled front end developers who are excited to see what we can do against the world.
+<p>We are front end developers who love kittens, most of us at least. I personally hate the little bastards. With joking aside, we are a group of skilled front end developers who are excited to see what we can do during the given 48 hours.</p>
 
-Love Always,
+<h2>Team Members</h2>
 
-Float-Center
+<table cellspacing="0" cellpadding="0" border="0" width="600" bgcolor="#ffffff">
+  <tr>
+    <td width="125">
+      <img src="https://scontent-b.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/554064_10100695044417379_616901225_n.jpg?oh=da0f8dda3ae36b8902f9720e4687925f&oe=550AF420" alt="Chris Drake" width="125">
+    </td>
+    <td width="700"><p><b>Chris Drake</b><br /><em>Team Leader</em><br />Chris is a front-end developer and has almost a decade of UI experience in Education, Medical, and the Private Sector. In his spare time he loves to hang out with his family and to catch some delicious bass.</p></td>
+  </tr>
+  <tr>
+    <td width="125">
+      <img src="https://scontent-a.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1794772_10152836597389421_4360801361382671985_n.jpg?oh=1095c68a10753d81008dc92f12bbee12&oe=55144EED" alt="Caleb Swank" width="125">
+    </td>
+    <td width="700"><p><b>Caleb Swank</b><br />Caleb is a front-end dev/designer with a passion for CSS and and movie quotes. Coding for a solid 130 weeks, I enjoy the constant process of development. Designing and implementing visually appealing UI’s is my passion. I like turtles.</p></td>
+  </tr>
+  <tr>
+    <td width="125">
+      <img src="https://scontent-b.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/554064_10100695044417379_616901225_n.jpg?oh=da0f8dda3ae36b8902f9720e4687925f&oe=550AF420" alt="Corey Wynn" width="125">
+    </td>
+    <td width="700"><p><b> Corey Wynn</b><br />Corey Wynn. I am a front-end developer with 2 and half years of experience working on the web. In my free time I enjoy playing soccer, playing guitar and being outdoors.</p></td>
+  </tr>
+  <tr>
+    <td width="125">
+      <img src="http://kochcreativegroup.com/images/daniel_brake.png" alt="Daniel Brake" width="125">
+    </td>
+    <td width="700"><p><b>Daniel Brake</b><br />Daniel has been coding for the web for a number of years. Formerly a heavy duty Flash user, he continues to be amazed by the things that can be done these days on the front end with new tools.</p></td>
+  </tr>
+</table>
+<h2>What are we trying to accomplish</h2>
+<p>Here in the Midwest we have been suffering from a drought for several years now.  This drought has dramatically impacted farming and has now started to change our long term outlook for drinkable water. This is a relatively new concern for us but around the world water scarcity is a large problem. <br />
+<br />
+We decided to create a website that would to address theme #1:</p>
+<ol>
+  <il>Problems facing our planet, explained using interactive data visualization. (e.g. climate change, earthquakes, food/water waste, etc.)</li>
+</ol>
+<p>And the focus on comprehensive data of water related issues in the world.</p>
+<p>Love Always,<br />
+<br />
+<b>Float-Center</b></p>
+<p><em>P.S. Feel free to stop judging other site after you see ours, it is amazeballs.</em></p>
 
 
 ---------------------------------------
