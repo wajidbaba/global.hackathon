@@ -8,3 +8,4 @@ About No Pilots No Demos
 Jordyn and Mark have been coding separately for a combined 26 years, and together both on and off the job for over 5 years. We initially joined the hackathon because of the opportunity to do something based on climate change. However, when the topics were announced, we both felt drawn towards the privacy policy / terms of service topic. 
 
 ![TOSbot Bot](https://farm9.staticflickr.com/8595/15349621084_4dfc31f23e.jpg)
+TOSbot says "Beware the fine print!"
