@@ -1,5 +1,7 @@
 #cool_kid_alert
 
+![](https://lh5.googleusercontent.com/-a-FeDodYYHQ/VIT-2yQ0QlI/AAAAAAAAAJE/fFYQ4Ai8oi4/w1135-h851-no/2014-12-07.jpg?raw=true)
+
 ##Alan
 
 Just a high schooler on the east coast who wants to test his skills. 
