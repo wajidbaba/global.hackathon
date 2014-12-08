@@ -35,7 +35,9 @@ You see, that way is...
 
 **Fatal Error:** An unknown exception has occurred while reading 'ABOUT.md' with message 'This shall be revealed later ;)'
 
-**Teams@Koding:~$** 
+**Teams@Koding:~$** try-again
+
+Here: [https://github.com/kpsuperplane/hackathon.submit](https://github.com/kpsuperplane/hackathon.submit)!
 
 
 
