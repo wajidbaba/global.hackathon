@@ -3,6 +3,8 @@ No Pilots, No Demos presents...
 # ToSBot
 ## A Neural Network that Reads Legal Pages for You
 
+![TOSbot Bot](https://farm9.staticflickr.com/8595/15349621084_4dfc31f23e.jpg)
+
 * Koding URL: http://aphelionz.koding.io
 * Client Github URL: https://github.com/npnd/global.hackathon/tree/master/Project
 * Server Github URL: https://github.com/aphelionz/ToSBotNeuralNetwork
