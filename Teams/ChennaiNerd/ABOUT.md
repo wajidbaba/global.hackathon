@@ -12,14 +12,15 @@ we are from great place [Chennai, INDIA](https://www.youtube.com/watch?v=VKMyYO2
 |--- |--- |---
 | ![Fizer Khan](https://avatars3.githubusercontent.com/u/1433380?v=3&s=200) | ![Yogeswaran](https://avatars3.githubusercontent.com/u/1505586?v=3&s=200) |
 
-### Project
+### What we built on Hackathon
 
 DuoDev is a new way to learn syntax of programming language.
 
 DuoDev = [Learning X in Y minutes](http://learnxinyminutes.com/) + [DuoLingo](https://www.duolingo.com)
 
-[SourceCode](https://github.com/ChennaiNerd/DuoDev)
-[Site](http://ufkk04cc7eb6.fizerkhan.koding.io/)
+* [SourceCode](https://github.com/ChennaiNerd/DuoDev)
+
+* [Site](http://ufkk04cc7eb6.fizerkhan.koding.io/)
 
 
 
