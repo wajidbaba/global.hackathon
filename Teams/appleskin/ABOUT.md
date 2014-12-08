@@ -1,8 +1,5 @@
 # team appleskin
-We are the tops man
+It's just me and javascript
 
 ## Hunter
-likes teh javascript
-
-## Matt
-also likes teh javascript
+![Headshot](https://monosnap.com/image/dKALERibtOJiTT1KGSKEBVPGgKtvLg.png)
