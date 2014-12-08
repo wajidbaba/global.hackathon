@@ -18,6 +18,8 @@ Team MAACC is
 ##Austin Lazarus
 ####Designer and pirate
 
+<img src=http://i.imgur.com/1JpqvDE.jpg></img>
+
 Austin has been a creative since he's know himself. He's been drawing and illustrating for as long as he can remember. He is always thinking of the next big thing, tries his hand at a few and occasionally makes something interesting. He is in addition :  
 * A Coder  
 * An Ophthalmic Lab Technician   
