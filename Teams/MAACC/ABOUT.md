@@ -49,3 +49,4 @@ Dungeon Coders
 ===========================
 
 Dungeon Coders is an educational MMO game that invites the player to learn the basic principles of programming in a fun way. The game is dungeon-based, with each dungeon teaching a different aspect of programming.
+what are you waiting? Jump on http://dungeoncoders.com/ and play! 
