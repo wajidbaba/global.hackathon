@@ -12,7 +12,8 @@ Team MAACC is
 
 <img src=http://i.imgur.com/PxIZfkv.jpg></img>
 
-"I've had a love for computers for as far back as I can remember. Back then it was atari and pentiums but by learning to get systems like those to run the latest games I was inspired to tinker and code. Since that time I've worked over half a decade in the IT world, mostly on the sysadmin and computer networking side of things. Over the last year though I've fallen in love with coding all over again and have been spending many a late night hour cramming myself with every bit of coding knowledge I can. Ruby and Rails will always be my first love as thats where I rediscovered my love to code, but since then I've expanded my view to javascript, ember, and other frameworks. I code because it's my passion, not because its a job, and I love every day of it."
+"I've had a love for computers for as far back as I can remember. Back then it was atari and pentiums but by learning to get systems like those to run the latest games I was inspired to tinker and code. Since that time I've worked over half a decade in the IT world, mostly on the sysadmin and computer networking side of things. Over the last year though I've fallen in love with coding all over again and have been spending many a late night hour cramming myself with every bit of coding knowledge I can. Ruby and Rails will always be my first love as thats where I rediscovered my love to code, but since then I've expanded my view to javascript, ember, and other frameworks. I code because it's my passion, not because its a job, and I love every day of it."  
+
 
 
  About Us
