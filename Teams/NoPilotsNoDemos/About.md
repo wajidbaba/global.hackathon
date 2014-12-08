@@ -18,16 +18,6 @@ That being said, we encourage human input by providing a "feedback" mode which a
 * Count.ly username: info@npnd.com
 * ODesk username: nopilotsnodemos (member since 2010)
 
-Winning Team
-Count.ly will award $1,000 to the winning team if they have a Countly account
-If the winning team has an oDesk.com or Elance.com account, they will receive an extra $2,500.
-nginx is adding an additional $2,000 to the overall prize money for the top winning team if the team uses their web server as part of their final project.
-Any Team
-Mashape will reward an additional $1,000 to the team that uses any API on Mashape.
-Sprintly will offer $1,000 to the team that 1) has a Sprintly account, 2) uses their API.
-APITools will offer $1,500 to the team that uses APItools in the creation of their project.
-
-
 About No Pilots No Demos
 ===========================
 
