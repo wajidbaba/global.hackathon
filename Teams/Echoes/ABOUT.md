@@ -15,7 +15,7 @@ Engineer passionate about Science and Education, Empowering people and Improving
 
 #### Martin Samsa
 Front end developer with a love-hate relationship with CSS  
-**update**: our friend Martin hadis having a nasty weekend that started with a visit to the dentists office :( Martin, you have been greately missed!
+**update**: our friend Martin is having a nasty weekend that started with a visit to the dentists office :( Martin, you have been greately missed! Get well soon, our frontend needs you ;)
 
 
 ## Our story
