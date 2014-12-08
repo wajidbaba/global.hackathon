@@ -1,4 +1,4 @@
-
+![alt text](http://teddy-exp.github.io/img/BSa.png)
 # Blue Shirt Academy
 
 West Michigan Aviation Academy is a STEM-based highschool operating out of Grand Rapids, MI. It has a focus on engineering and aviation and the uniform requires students to wear khaki pants and blue shirt thus giving us our name. Go WMAA!
