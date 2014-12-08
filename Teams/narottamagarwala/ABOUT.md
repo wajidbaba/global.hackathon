@@ -30,7 +30,7 @@ I am from a very small Village called Liluah in Westbengal, India. I want to be 
 
 Every bit of our efforts will play a role in bring about better tomorrow.
 
-My Winning will be a strong spark to itnite the sleeping motivation to bring a true world of technology into real existance.
+My Winning will be a strong spark to ignite the sleeping motivation to bring a true world of technology into real existance.
 
 
 About my skills and what you are going to do?
@@ -40,5 +40,26 @@ lots of languages to mention.
 - Javascript
 - HTML5
 - MySQL
-- lot of frameworks
-I am planning to do something unique
+- Web speech API
+- Lots of frameworks
+
+What is my theme
+======
+My theme is : developing interactive method so that people can read fine prints.
+
+Something unique? ya
+Eye tracking studies have shown that people do not read long pages.
+Smaller boring fonts dont appeal.
+
+What is needed is :
+Beautifu layout.
+Happy feeling.
+Speech API will speak the content, so no chance of not reading it. Subconscious brain will be able to listen it.
+
+We are using all possible ways including the psychology 
+Human brain prefers reward center. Rewards and happiness are the key factors.
+Multiple senses like vision and hearing both can be stimulated at the same time.
+
+Animated character to help you not get bored and keep you attached.
+
+See it to believe it.
