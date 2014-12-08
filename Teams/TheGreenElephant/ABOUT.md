@@ -8,7 +8,7 @@
 
 | Pavel | Sergey | Dmitrii | Nick
 |--- |--- |--- |---
-| ![Pavel](images/schfkt.jpg?raw=true) | ![Sergey](images/smage.jpg?raw=true) | ![Dmitrii](images/budmitr.png?raw=true) | ![Nick](https://pbs.twimg.com/profile_images/538638674070482945/eQ2oXDUn_200x200.jpeg) |
+| ![Pavel](images/schfkt.jpg?raw=true) | ![Sergey](images/smage.jpg?raw=true) | ![Dmitrii](images/budmitr.png?raw=true) | ![Nick](images/nsave.jpeg?raw=true) |
 
 We are team of experienced web developers working together in the same company.
 
