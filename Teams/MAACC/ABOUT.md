@@ -25,6 +25,13 @@ Austin has been a creative since he's know himself. He's been drawing and illust
 * An Ophthalmic Lab Technician   
 * A Technologist   
 
+##Cristian Achille
+####hide your kids hide your wife
+
+<img src=https://lh4.googleusercontent.com/-SFd_laDWL-A/T3bzLGL81bI/AAAAAAAABQQ/ftsLEZt9cvc/w835-h837-no/IMG_6475.jpg></img>
+
+Cristian had his first computer when he was seven, he loved to play with it and learning that whole new world, but when he got his first DSL that changed everything. From then, his whole world was made by bits. He loves to hack and learn anything that is related to computers and technlogy, Programming is one of his main passion, he's tv-series junkie and an avid reader. 
+
 ##Cameron Craig
 ####He really loves cars and b****es
 <img src=http://horsedigests.com/wp-content/uploads/2011/09/craig-cameron.jpg></img>
