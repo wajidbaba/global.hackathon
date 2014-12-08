@@ -8858,6 +8858,29 @@ feed him regularly, as he becomes fiesty and will not work! (or maybe he's just 
 
 ---------------------------------------
 
+#PMYDigital
+http://www.pmydigital.com
+
+WHAT I DO?
+- Wordpress Theme Development
+- Mobile Applications
+- FRONT-END Web Development
+- Networking Solutions 
+- Web Design
+
+WHAT I LOVE?
+- HTML5/HTML
+- Responsive Web Design
+- CSS/CSS3
+- PHP
+- JAVA
+- JAVASCRIPT
+- MYSQL
+- JQUERY
+
+
+---------------------------------------
+
 Welcome to POP_C team page!
 ================
 
@@ -9583,13 +9606,16 @@ We hope that our project will inspire people to do something good.
 We are Giang, Hoat and Tham from Viet Nam and we will give you awesome app!
 
 ## About Us
-- Giang N:
-- Hoat D:
-- Tham V:
+- Giang N: I has worked as a freelance developer for more than 5 years. He is the team lead of Red Cloudy.  He is fond of problem solving. He always works hard to find better solutions for his programs. As a freelance developer his customers are satisfied not only for his commitment but also for his self-motivation. His favorite languages are PHP and javascript.
+- Hoat D: I love C++ and have experienced with in over 10 years.
+- Tham V: I'm professional with .Net, translattion.
+- Danh N: I love HTML/CSS.
 
 ## Languages we love:
 - PHP
 - Javascript
+- C/C++
+- HTML/CSS
 
 
 ---------------------------------------
@@ -16235,21 +16261,29 @@ We are three web devs.
 
 # myPHPmaster
 
-Another team for Koding global hackathon from Malaysia.
+This is individual entry for Koding global hackathon from Malaysia.
 
-# About Us
+# About Me
 
 ## Mohd Sufian Othman
-Professional engineer now doing M.Sc. in Universiti Kebangsaan Malaysia, Bangi, Selangor. 
 
-## Bahrom Baharin
-Professional engineer working at Public Works Department HQ, Kuala Lumpur.
+I am professional mechanical engineer now doing M.Sc. in Universiti Kebangsaan Malaysia, Bangi, Selangor. During my free time, I am doing website devepment focused on PHP and WordPress. 
 
-# Our Project
+## History
 
-We will focus on developing web application that highlight world's global issue with interactive data visualization.
+I have won first place for Microsoft Lamp2Win Hackathon and second place for Microsoft Milky the Cloud (Windows Azure) competition.
 
-## Language to use
+# My Koding Hackhathon Project
+
+The projest is about the development of web application that highlight world's global issue with interactive data visualization. All datas taken from other website using their API services. Project have been hosted at Koding.io:
+
+http://myphpmaster.koding.io/globalissues/
+
+Source code can be viewed at:
+
+https://github.com/myphpmaster/globalissues
+
+## Language used
 
 - PHP
 - Javascript
@@ -16259,11 +16293,31 @@ We will focus on developing web application that highlight world's global issue 
 - AJAX
 - jSON
 
-## API to use
+## API used
 
 - Google Map
 - Google Places
 - Geocoding
+- Mashape Location and Weather API
+- USGS earthquakes API
+- PDC Disaster xml feed
+- Youtube API
+- Instagram API
+- Twitter API
+- Open Weather API
+- Quandl API
+
+## Open Source Library used
+
+- Twitter Bootstrap
+- Agency Bootsrap theme - https://github.com/IronSummitMedia/startbootstrap-agency
+- DataTable - http://datatables.net
+- Ekko Lightbox - https://github.com/ashleydw/lightbox
+- Font Awesome - http://fortawesome.github.io/Font-Awesome/
+- Google Fonts
+- jQuery UI
+- Chart.js - http://www.chartjs.org/
+- Geocomplete http://jquer.in/jquery-plugins-for-html5-forms/geocomplete/
 
 
 ---------------------------------------
@@ -16464,9 +16518,11 @@ We are all new and its the first time to participate in hackathon
 
 We are team of programmers, user interface programmer and a creative head.
 
--- All the best for other teams.
+My name is Amal Raj and i am the creative head of this team. Telling about me simply... I love Programming.
 
-Will add other information later... Busy on thinking... :)
+My Other two brilliant and talented people worked in this project are Suseela and Lakshmi. Both are very passionate to bring my vision into reality and they did in this project.
+
+-- All the best for other teams.
 
 
 ---------------------------------------
