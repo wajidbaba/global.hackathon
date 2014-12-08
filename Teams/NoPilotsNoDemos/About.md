@@ -1,4 +1,4 @@
-About No Pilots No Demos
+About No Pilots, No Demos
 ===========================
 
 | aphelionz (Mark) | skybondsor (Jordyn) |
